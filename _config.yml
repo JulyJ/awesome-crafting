@@ -20,45 +20,51 @@
 
 title: Crafting Supply Hub
 email: craftingsupplyca@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Your go-to source for crafting supplies, DIY project ideas, and creative inspiration. 
-  Discover the latest trends in crafting materials, tools, and techniques to bring your 
-  creative visions to life. From beginner-friendly tutorials to advanced crafting tips.
+description: >-
+  Welcome to Crafting Supply Hub! Your go-to source for crafting supplies, DIY project ideas, and creative inspiration.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://craftingsupply.ca" 
+url: "https://craftingsupply.ca"
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-# Custom variables for crafting blog
-author: Crafting Supply Hub Team
-tagline: "Where creativity meets supplies"
-show_excerpts: true
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default"
+locale: "en-US"
 
-# SEO and social media
+# Author
+author:
+  name: "Crafting Supply Hub Team"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Where creativity meets supplies."
+  location: "Canada"
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Blog"
+    url: "/posts/"
+
+# Social
 social:
   name: Crafting Supply Hub
   links:
-    - http://craftingsupply.ca
+    - https://craftingsupply.ca
 
 # Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+footer:
+  links: []
+  text: ""
