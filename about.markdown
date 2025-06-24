@@ -3,5 +3,3 @@ layout: page
 title: "About"
 permalink: /about/
 ---
-
-Crafting Supply Hub is dedicated to makers, crafters, and DIY enthusiasts. Our mission is to inspire creativity and provide resources for all your crafting adventures.

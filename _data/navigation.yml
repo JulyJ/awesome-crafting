@@ -1,0 +1,91 @@
+# Top Navigation Bar (Header)
+main:
+
+  - title: "Start Here"
+    url: "/start-here/"
+
+  - title: "About"
+    url: "/about/"
+
+  - title: "Blog"
+    url: "/posts/"
+
+  - title: "Search"
+    url: "/search/"
+
+  - title: "Tags"
+    url: "/tags/"
+
+# Sidebar Navigation (Left menu)
+side:
+  - title: "Craft Supplies"
+    url: "/categories/craft-supplies/"
+    children:
+      - title: "Canadian-Made Materials"
+        url: "/categories/canadian-made/"
+      - title: "Suppliers by Province"
+        url: "/categories/local-suppliers/"
+      - title: "Where to Buy Online"
+        url: "/categories/online-shops/"
+      - title: "Specialty Materials"
+        url: "/categories/specialty-supplies/"
+
+  - title: "Budget Crafting"
+    url: "/categories/budget-crafting/"
+    children:
+      - title: "Dollar Store Crafts"
+        url: "/categories/dollar-store/"
+      - title: "Upcycled Projects"
+        url: "/categories/upcycling/"
+      - title: "Best Budget Tools"
+        url: "/categories/budget-tools/"
+      - title: "Splurge or Save"
+        url: "/categories/splurge-vs-save/"
+
+  - title: "Wholesale & Bulk"
+    url: "/categories/wholesale/"
+    children:
+      - title: "Wholesale Discounts"
+        url: "/categories/wholesale/"
+      - title: "Craft Co-Ops & Group Buys"
+        url: "/categories/co-ops/"
+      - title: "Business Accounts"
+        url: "/categories/business-accounts/"
+      - title: "Bulk Packaging & Materials"
+        url: "/categories/bulk-packaging/"
+
+  - title: "Tools & Equipment"
+    url: "/categories/tools/"
+    children:
+      - title: "Laser Cutters"
+        url: "/categories/laser-cutting/"
+      - title: "Cricut & Cutting Machines"
+        url: "/categories/cricut/"
+      - title: "Top Tools by Project"
+        url: "/categories/tool-guides/"
+      - title: "Maintenance & Safety"
+        url: "/categories/tool-care/"
+
+  - title: "DIY Projects"
+    url: "/categories/diy/"
+    children:
+      - title: "Seasonal Crafts"
+        url: "/categories/seasonal/"
+      - title: "Beginner-Friendly"
+        url: "/categories/beginner/"
+      - title: "Kids & Family Crafts"
+        url: "/categories/kids-crafts/"
+      - title: "Gift Ideas"
+        url: "/categories/gifts/"
+
+  - title: "Craft Business"
+    url: "/categories/business/"
+    children:
+      - title: "Starting a Side Hustle"
+        url: "/categories/business/"
+      - title: "Selling in Canada"
+        url: "/categories/selling/"
+      - title: "Packaging & Shipping"
+        url: "/categories/shipping/"
+      - title: "Branding & Product Photos"
+        url: "/categories/branding/"
