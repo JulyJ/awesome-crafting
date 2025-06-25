@@ -6,6 +6,33 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/main.css">
     <link rel="stylesheet" href="/assets/css/footer-center.css">
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="{{ page.seo.title | default: page.title | escape }}">
+    <meta property="og:description" content="{{ page.seo.description | default: site.description | escape }}">
+    <meta property="og:type" content="{{ page.seo.type | default: 'website' }}">
+    <meta property="og:url" content="{{ page.seo.canonical_url | default: site.url | append: page.url }}">
+    <meta property="og:image" content="{{ page.seo.image | default: site.url | append: '/assets/favicon.svg' }}">
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.seo.title | default: page.title | escape }}">
+    <meta name="twitter:description" content="{{ page.seo.description | default: site.description | escape }}">
+    <meta name="twitter:image" content="{{ page.seo.image | default: site.url | append: '/assets/favicon.svg' }}">
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "{{ page.seo.canonical_url | default: site.url | append: page.url }}",
+      "name": "{{ page.seo.title | default: page.title | escape }}",
+      "description": "{{ page.seo.description | default: site.description | escape }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Crafting Supply Hub",
+        "url": "{{ site.url }}"
+      }
+    }
+    </script>
     <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
     {{ site.head }}
   </head>
