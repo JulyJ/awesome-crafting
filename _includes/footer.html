@@ -1,0 +1,14 @@
+{% if site.footer.links or site.footer.text %}
+  <footer class="site-footer">
+    <div class="footer-links">
+      <a href="/about/">About Us</a> |
+      <a href="/contact/">Contact Us</a> |
+      <a href="/contributing/">Contributing</a> |
+      <a href="/code-of-conduct/">Code of Conduct</a> |
+      <a href="/privacy/">Privacy Policy</a>
+    </div>
+    <div class="footer-text">
+      {{ site.footer.text }}
+    </div>
+  </footer>
+{% endif %}

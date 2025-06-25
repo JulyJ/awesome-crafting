@@ -1,0 +1,55 @@
+<header class="site-header">
+  <div class="wrapper">
+    <div class="site-title" style="display:inline-block; font-size:1.5em; font-weight:bold; margin-right:2em;">
+      <a href="/" style="color:#222; text-decoration:none;">{{ site.title }}</a>
+    </div>
+    <nav class="main-nav" style="display:inline-block;">
+      {% for item in site.data.navigation.main %}
+        <a href="{{ item.url }}" class="nav-link">{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
+<style>
+.site-header {
+  background: #fff;
+  border-bottom: 1px solid #eaeaea;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+  padding: 0.5em 0;
+  margin-bottom: 2em;
+}
+.site-header .wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.site-title a {
+  color: #222;
+  text-decoration: none;
+  font-weight: bold;
+}
+.main-nav .nav-link {
+  color: #222;
+  text-decoration: none;
+  margin: 0 1em;
+  font-weight: 500;
+  font-size: 1.1em;
+  transition: color 0.2s;
+}
+.main-nav .nav-link:hover {
+  color: #007acc;
+  text-decoration: underline;
+}
+@media (max-width: 700px) {
+  .site-header .wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 1em;
+  }
+  .main-nav {
+    margin-top: 0.5em;
+  }
+}
+</style>

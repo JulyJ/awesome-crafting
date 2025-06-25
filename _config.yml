@@ -1,7 +1,7 @@
 title: Crafting Supply Hub
 email: craftingsupplyca@gmail.com
 description: >-
-  Welcome to Crafting Supply Hub — your go-to guide for Canadian crafting supplies, budget-friendly DIYs, and wholesale sourcing tips.
+  Welcome to Crafting Supply Hub , your go-to guide for Canadian crafting supplies, budget-friendly DIYs, and wholesale sourcing tips.
 baseurl: ""
 url: "https://craftingsupply.ca"
 
@@ -30,7 +30,11 @@ social:
 
 # Footer
 footer:
-  links: []
+  links:
+    - label: "About Us"
+      url: "/about/"
+    - label: "Contact Us"
+      url: "/contact/"
   text: "© 2025 Crafting Supply Hub. Made with ❤️ in Canada."
 
 # Collections
