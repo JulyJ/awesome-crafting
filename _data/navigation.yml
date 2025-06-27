@@ -25,7 +25,7 @@ side:
         url: "/categories/canadian-made/"
       - title: "Suppliers by Province"
         url: "/categories/local-suppliers/"
-      - title: "Where to Buy Online"
+      - title: "Buying Online"
         url: "/categories/online-shops/"
       - title: "Specialty Materials"
         url: "/categories/specialty-supplies/"
@@ -41,18 +41,6 @@ side:
         url: "/categories/budget-tools/"
       - title: "Splurge or Save"
         url: "/categories/splurge-vs-save/"
-
-  - title: "Wholesale & Bulk"
-    url: "/categories/wholesale/"
-    children:
-      - title: "Wholesale Discounts"
-        url: "/categories/wholesale/"
-      - title: "Craft Co-Ops & Group Buys"
-        url: "/categories/co-ops/"
-      - title: "Business Accounts"
-        url: "/categories/business-accounts/"
-      - title: "Bulk Packaging & Materials"
-        url: "/categories/bulk-packaging/"
 
   - title: "Tools & Equipment"
     url: "/categories/tools/"
