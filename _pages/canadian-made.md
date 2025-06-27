@@ -7,7 +7,7 @@ sidebar:
   nav: side
   
 categories: [crafts, manufacturing, canada]
-tags: [craft-materials, canadian-made, 3d-printing, resin, yarn, wood]
+tags: [craft-materials, canadian-made, 3d-printing, resin, yarn, wood, local-suppliers, online-shops]
 seo:
   title: "Canadian-Made Materials | Crafting Supply Hub"
   description: "Explore Canadian-made crafting materials and local options for your projects."
