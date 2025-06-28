@@ -13,3 +13,10 @@ seo:
 ---
 
 Tips, resources, and stories for running a successful craft business.
+
+## Explore Craft Business Topics
+
+- [Starting a Side Hustle](/categories/business/)
+- [Selling in Canada](/categories/selling/)
+- [Packaging & Shipping](/categories/shipping/)
+- [Branding & Product Photos](/categories/branding/)

@@ -12,4 +12,10 @@ seo:
   canonical_url: "https://craftingsupply.ca/categories/craft-supplies/"
 ---
 
-Welcome to the Craft Supplies section! Explore materials, reviews, and tips for all your crafting needs.
+Welcome to the Craft Supplies section!
+
+## Explore Craft Supplies
+
+- [Canadian-Made Materials](/categories/canadian-made/)
+- [Suppliers by Province](/categories/local-suppliers/)
+- [Specialty Materials](/categories/specialty-supplies/)

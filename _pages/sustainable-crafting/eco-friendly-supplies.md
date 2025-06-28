@@ -14,9 +14,6 @@ seo:
   type: "article"
   keywords: [sustainable supplies, eco-friendly crafts, biodegradable materials, non-toxic glue]
   canonical_url: "https://craftingsupply.ca/categories/sustainable-crafting/eco-friendly-supplies/"
----
-
-Green crafting starts with the right materials. From biodegradable glues to sustainably sourced paper, eco-conscious supplies reduce waste and support ethical production.
 
 ---
 

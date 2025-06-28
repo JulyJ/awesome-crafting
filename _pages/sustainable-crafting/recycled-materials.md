@@ -14,9 +14,6 @@ seo:
   type: "article"
   keywords: [recycled crafts, upcycling, eco crafting, trash art, reuse materials]
   canonical_url: "https://craftingsupply.ca/categories/sustainable-crafting/recycled-materials/"
----
-
-Transform discarded items into creative treasures. Recycled crafting not only reduces waste, it fuels resourceful design and teaches sustainable thinking.
 
 ---
 

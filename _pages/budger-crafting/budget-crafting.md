@@ -13,3 +13,10 @@ seo:
 ---
 
 Discover affordable crafting ideas, deals, and money-saving tips in this section.
+
+## Explore Budget Crafting Topics
+
+- [Dollar Store Crafts](/categories/dollar-store/)
+- [Upcycled Projects](/categories/upcycling/)
+- [Best Budget Tools](/categories/budget-tools/)
+- [Splurge or Save](/categories/splurge-vs-save/)

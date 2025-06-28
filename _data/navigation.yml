@@ -69,10 +69,4 @@ side:
     url: "/categories/business/"
     children:
       - title: "Starting a Side Hustle"
-        url: "/categories/business/"
-      - title: "Selling in Canada"
-        url: "/categories/selling/"
-      - title: "Packaging & Shipping"
-        url: "/categories/shipping/"
-      - title: "Branding & Product Photos"
-        url: "/categories/branding/"
+        url: "/categories/business/starting-a-side-hustle/"

@@ -14,9 +14,6 @@ seo:
   type: "article"
   keywords: [natural dyeing, eco dye, plant colors, mordants, fiber prep]
   canonical_url: "https://craftingsupply.ca/categories/sustainable-crafting/natural-dyes/"
----
-
-Natural dyeing brings earthy tones, organic patterns, and mindful creativity to your crafting. Learn to color fabric, paper, and yarns using safe, plant-based techniques.
 
 ---
 

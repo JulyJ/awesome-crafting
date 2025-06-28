@@ -16,8 +16,6 @@ seo:
   canonical_url: "https://craftingsupply.ca/categories/budget-tools/"
 ---
 
-Quality tools don't have to cost a fortune. Smart crafters know that the right budget-friendly tools can deliver professional results while keeping costs manageable. This comprehensive guide identifies the best affordable tools across all crafting categories, helping you build a functional workshop without breaking the bank.
-
 ## Essential Hand Tools for Every Crafter
 
 ### Cutting & Precision Tools

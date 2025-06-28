@@ -16,8 +16,6 @@ seo:
   canonical_url: "https://craftingsupply.ca/categories/splurge-vs-save/"
 ---
 
- Some tools and materials dramatically improve with quality investment, while others perform identically whether they cost $3 or $30. This guide helps you make informed decisions about where to spend and where to save in your crafting budget.
-
 ## The Investment Decision Framework
 
 ### Factors That Determine Spending Strategy

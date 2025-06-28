@@ -16,7 +16,7 @@ We respect your privacy. This website does not collect personal information or u
 
 ## Third-Party Services
 
-- If analytics are enabled, we use privacy-focused providers (e.g., Plausible) that do not track individuals.
+- If analytics are enabled, we use privacy-focused providers that do not track individuals.
 
 ## Changes
 
