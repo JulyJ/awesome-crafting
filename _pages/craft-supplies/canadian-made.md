@@ -51,7 +51,6 @@ A directory of Canadian manufacturers producing craft materials domestically.
 |----------|--------------|----------|---------|
 | Hand-dyed Yarns | Sweet Paprika | Quebec | <a href="https://sweetpaprikadesigns.com" target="_blank" rel="noopener nofollow">sweetpaprikadesigns.com</a> |
 | Hand-dyed Yarns | Sweet Georgia | BC | <a href="https://sweetgeorgiayarns.com" target="_blank" rel="noopener nofollow">sweetgeorgiayarns.com</a> |
-| Hand-dyed Yarns | The Yarns of Rhichard Devrieze | Ontario | <a href="https://rhicharddevrieze.com" target="_blank" rel="noopener nofollow">rhicharddevrieze.com</a> |
 | Hand-dyed Yarns | Turtlepurl Yarns | New Brunswick | <a href="https://turtlepurl.com" target="_blank" rel="noopener nofollow">turtlepurl.com</a> |
 | Hand-dyed Yarns | Biscotte Yarns (Biscotte en Cie) | Quebec | <a href="https://biscotteyarns.com" target="_blank" rel="noopener nofollow">biscotteyarns.com</a> |
 | Wool, Alpaca, Cotton Blends | Briggs & Little | New Brunswick | <a href="https://briggsandlittle.com" target="_blank" rel="noopener nofollow">briggsandlittle.com</a> |
