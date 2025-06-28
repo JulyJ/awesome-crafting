@@ -22,7 +22,6 @@ Welcome! This page will help you get started with crafting, finding supplies, an
 
 ## Get Inspired
 
-- Check out our [latest posts](/posts/) for new ideas and updates.
 - Use the [Start Here](/start-here/) page as your launchpad for all things crafting!
 
 Happy crafting! If you have questions or suggestions, visit our [About](/about/) page to get in touch.
