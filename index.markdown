@@ -9,7 +9,7 @@ sidebar:
   nav: side
 ---
 
-Welcome to **Crafting Supply Hub** — an open source resource for crafters in Canada and beyond!
+Welcome to **Crafting Supply Hub**, an open source resource for crafters in Canada and beyond!
 
 We run **no ads** and accept **no paid posts**. Everything here is community-driven and unbiased.
 
