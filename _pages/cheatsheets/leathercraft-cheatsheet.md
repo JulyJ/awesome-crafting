@@ -138,5 +138,4 @@ seo:
 | **Instagram / Pinterest** | Inspiration | Designs and trends |
 
 ---
-
 *Leathercraft turns raw hides into timeless treasures, master the craft one stitch at a time!*

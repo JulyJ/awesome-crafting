@@ -12,7 +12,6 @@ seo:
   keywords: [glass art, stained glass, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/glass-art-stained-glass/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

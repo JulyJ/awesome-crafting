@@ -12,7 +12,6 @@ seo:
   keywords: [fairy garden, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/fairy-garden-crafting/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

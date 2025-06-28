@@ -153,5 +153,4 @@ seo:
 | **Sewing Books** | In-depth learning | Step-by-step | $15–50 |
 
 ---
-
 *Whether stitching your first seam or tailoring your dream business, fabric is your canvas, and sewing is your art.*

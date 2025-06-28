@@ -5,7 +5,6 @@ permalink: /privacy/
 sidebar:
   nav: side
 ---
-
 We respect your privacy. This website does not collect personal information or use cookies for tracking. Any analytics used are privacy-friendly and do not collect personally identifiable information.
 
 ## Information We Collect

@@ -11,7 +11,6 @@ seo:
   keywords: [about, crafting supply, open-source, Canadian crafts, community]
   canonical_url: "https://craftingsupply.ca/about/"
 ---
-
 Crafting Supply Hub is an open-source, ad-free resource for crafters. Our mission is to gather the best information, guides, and inspiration for makers of all levels, with a focus on Canadian suppliers and budget-friendly options.
 
 **Who We Are:**

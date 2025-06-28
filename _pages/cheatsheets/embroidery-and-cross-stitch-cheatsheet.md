@@ -152,5 +152,4 @@ seo:
 | **Local Craft Stores** | In-person classes | Guided learning |
 
 ---
-
 *Stitch your story, one thread at a time. Whether on a hoop, cloth, or canvas, embroidery and cross-stitch turn patience into beauty.*

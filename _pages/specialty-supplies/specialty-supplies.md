@@ -11,7 +11,6 @@ seo:
   keywords: [specialty, materials, crafting, unique, hard-to-find]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/"
 ---
-
 Explore unique and advanced materials, tools, and techniques for a wide range of crafts. Click any category below to find detailed supply lists and tips for your next creative project.
 
 ## Specialty Craft Categories

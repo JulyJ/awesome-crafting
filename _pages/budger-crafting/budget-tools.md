@@ -260,5 +260,4 @@ seo:
 | **Screwdriver Set** | Assembly | $10-25 | Drill/driver | Hand driving, tight spaces |
 
 ---
-
 *Craft smartly, build confidently, spend wisely!*

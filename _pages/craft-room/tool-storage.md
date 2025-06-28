@@ -63,5 +63,4 @@ seo:
 | Reorganize by season | 2–4x/year | Match project flow |
 
 ---
-
 *Every tool in its place means more time to create.*

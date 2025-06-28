@@ -12,7 +12,6 @@ seo:
   keywords: [sublimation printing, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/sublimation-printing/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

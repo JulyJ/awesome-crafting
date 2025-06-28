@@ -152,5 +152,4 @@ seo:
 | **Lynda / Skillshare** | Courses | Software, modeling | Paid | CAD, Fusion 360 training |
 
 ---
-
 *Turn your digital dreams into physical creations – one layer at a time.*

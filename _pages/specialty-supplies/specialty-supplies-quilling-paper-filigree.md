@@ -12,7 +12,6 @@ seo:
   keywords: [quilling, paper filigree, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/quilling-paper-filigree/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

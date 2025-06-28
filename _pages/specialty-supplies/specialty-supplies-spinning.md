@@ -12,7 +12,6 @@ seo:
   keywords: [spinning, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/spinning/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

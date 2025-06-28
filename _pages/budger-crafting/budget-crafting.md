@@ -11,7 +11,6 @@ seo:
   keywords: [budget, crafting, affordable, deals, tips]
   canonical_url: "https://craftingsupply.ca/categories/budget-crafting/"
 ---
-
 Discover affordable crafting ideas, deals, and money-saving tips in this section.
 
 ## Explore Budget Crafting Topics

@@ -12,7 +12,6 @@ seo:
   keywords: [upcycling, repurposing, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/upcycling-repurposing/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

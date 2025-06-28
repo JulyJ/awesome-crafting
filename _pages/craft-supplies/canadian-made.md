@@ -15,7 +15,6 @@ seo:
   keywords: [canadian-made, local, materials, crafting]
   canonical_url: "https://craftingsupply.ca/categories/canadian-made/"
 ---
-
 A directory of Canadian manufacturers producing craft materials domestically.
 
 ## 3D Printing Filaments

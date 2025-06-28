@@ -14,9 +14,7 @@ seo:
   type: "article"
   keywords: [natural dyeing, eco dye, plant colors, mordants, fiber prep]
   canonical_url: "https://craftingsupply.ca/categories/sustainable-crafting/natural-dyes/"
-
 ---
-
 ## Common Natural Dye Sources
 
 | Dye Source | Color Range | Prep |
@@ -92,5 +90,4 @@ seo:
 | **Wall Hangings** | Linen/cotton canvas | 3–6 hrs |
 
 ---
-
 *Let nature color your creativity, one petal at a time.*

@@ -12,7 +12,6 @@ seo:
   keywords: [calligraphy, hand lettering, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/calligraphy-hand-lettering/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

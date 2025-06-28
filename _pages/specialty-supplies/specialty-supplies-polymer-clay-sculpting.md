@@ -12,7 +12,6 @@ seo:
   keywords: [polymer clay, sculpting, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/polymer-clay-sculpting/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

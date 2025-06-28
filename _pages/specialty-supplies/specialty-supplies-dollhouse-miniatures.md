@@ -12,7 +12,6 @@ seo:
   keywords: [dollhouse miniatures, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/dollhouse-miniatures/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

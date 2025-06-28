@@ -12,7 +12,6 @@ seo:
   keywords: [clothing design, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/clothing-design/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

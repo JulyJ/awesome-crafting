@@ -12,7 +12,6 @@ seo:
   keywords: [basketry, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/basketry/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

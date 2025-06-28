@@ -145,5 +145,4 @@ seo:
 | **Rio Grande, Beaducation** | Pro supplies | High-end materials |
 
 ---
-
 *Strike it once, stamp it forever, bring your designs to life in metal.*

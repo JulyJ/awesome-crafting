@@ -12,7 +12,6 @@ seo:
   keywords: [bookbinding, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/bookbinding/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

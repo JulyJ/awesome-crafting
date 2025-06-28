@@ -141,5 +141,4 @@ seo:
 | **KilnShare.com** | Rent-a-kiln | Local kiln owners listed |
 
 ---
-
 *Pottery is where earth meets fire and form meets function, get your hands dirty and make something timeless.*

@@ -142,5 +142,4 @@ seo:
 | **Containers** | Cracks, lid fit | Damaged seals, warping |
 
 ---
-
 *Happy crafting on a budget!*

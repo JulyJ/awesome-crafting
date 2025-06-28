@@ -14,9 +14,7 @@ seo:
   type: "article"
   keywords: [sustainable supplies, eco-friendly crafts, biodegradable materials, non-toxic glue]
   canonical_url: "https://craftingsupply.ca/categories/sustainable-crafting/eco-friendly-supplies/"
-
 ---
-
 ## Key Characteristics of Eco-Friendly Supplies
 
 | Attribute | Description | Benefit |
@@ -75,5 +73,4 @@ seo:
 | Online Marketplaces | Zero-waste shops | Choose carbon-neutral shipping |
 
 ---
-
 *Create consciously ,  because every brushstroke can support the planet.*

@@ -11,7 +11,6 @@ seo:
   keywords: [sustainable, eco-friendly, natural dyes, recycled, crafting]
   canonical_url: "https://craftingsupply.ca/categories/sustainable-crafting/"
 ---
-
 Discover eco-friendly, natural, and recycled crafting ideas and resources in this section.
 
 ## Explore Sustainable Crafting Topics

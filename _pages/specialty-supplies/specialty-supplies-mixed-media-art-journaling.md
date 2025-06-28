@@ -12,7 +12,6 @@ seo:
   keywords: [mixed media, art journaling, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/mixed-media-art-journaling/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

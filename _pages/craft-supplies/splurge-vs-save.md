@@ -251,5 +251,4 @@ seo:
 | **Luxury Upgrades** | Quality of life improvements | 1-3 years | 10% of annual budget |
 
 ---
-
 *Spend wisely, craft beautifully, invest strategically!*

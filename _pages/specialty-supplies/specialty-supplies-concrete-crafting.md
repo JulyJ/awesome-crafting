@@ -12,7 +12,6 @@ seo:
   keywords: [concrete crafting, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/concrete-crafting/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

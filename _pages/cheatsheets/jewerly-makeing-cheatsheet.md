@@ -150,5 +150,4 @@ seo:
 | **Facebook Groups** | Seller tips, critique | Peer support | Free |
 
 ---
-
 *Handmade jewelry tells your story, one bead, one loop, one spark of inspiration at a time.*

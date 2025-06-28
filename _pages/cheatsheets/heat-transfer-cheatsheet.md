@@ -132,5 +132,4 @@ seo:
 | **Heat Press Nation** | Equipment reviews | Press and vinyl advice |
 
 ---
-
 *Bring your ideas to life with Heat Transfer Vinyl ,  vibrant, durable, and endlessly customizable!*

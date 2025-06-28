@@ -12,7 +12,6 @@ seo:
   keywords: [candle making, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/candle-making/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

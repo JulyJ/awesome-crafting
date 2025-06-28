@@ -12,7 +12,6 @@ seo:
   keywords: [leather working, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/leather-working/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

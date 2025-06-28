@@ -12,7 +12,6 @@ seo:
   keywords: [rug making, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/rug-making/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

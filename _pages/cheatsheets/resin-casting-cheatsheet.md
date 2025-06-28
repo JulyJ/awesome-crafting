@@ -142,5 +142,4 @@ seo:
 | **Local Craft Workshops** | Hands-on learning | Practical experience |
 
 ---
-
 *Unlock the glossy, durable beauty of resin art, create stunning pieces that last a lifetime!*  

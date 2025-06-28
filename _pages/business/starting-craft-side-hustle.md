@@ -14,7 +14,6 @@ seo:
   type: "article"
   keywords: [craft side hustle, start handmade business, sell crafts, home-based income]
   canonical_url: "https://craftingsupply.ca/categories/business/starting-craft-side-hustle/"
-
 ---
 
 ## Phase 1: Decide What to Sell
@@ -127,5 +126,4 @@ seo:
 | Ignoring Branding | Blends into crowd | Focus on photos, voice, name |
 
 ---
-
 *Turn your passion into profit — without losing your creative joy.*

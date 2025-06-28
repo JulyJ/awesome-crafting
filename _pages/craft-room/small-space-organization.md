@@ -63,5 +63,4 @@ seo:
 | **Crochet/Knitting** | Hanging sweater organizer for yarn skeins |
 
 ---
-
 *Small space, big creativity, every inch counts!*

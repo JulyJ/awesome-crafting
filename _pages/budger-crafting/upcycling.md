@@ -219,5 +219,4 @@ seo:
 | **Preparation** | Tool organization | Inventory, wishlist creation |
 
 ---
-
 *Transform your world, one project at a time!*

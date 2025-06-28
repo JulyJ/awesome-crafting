@@ -62,5 +62,4 @@ seo:
 | **Sortly App** | Visual inventory | Barcode scanning |
 
 ---
-
 *Store smart, protect your materials, protect your creativity.*

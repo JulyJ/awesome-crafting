@@ -167,5 +167,4 @@ seo:
 | **Local Guilds & Fabric Shops** | In-person classes | Project help & networking |
 
 ---
-
 *Quilting is not just stitches in fabric, it’s pieces of memory, comfort, and creativity sewn together in every square.*

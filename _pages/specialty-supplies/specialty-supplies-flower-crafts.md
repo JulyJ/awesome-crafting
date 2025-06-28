@@ -12,7 +12,6 @@ seo:
   keywords: [flower crafts, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/flower-crafts/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

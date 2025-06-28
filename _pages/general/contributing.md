@@ -11,7 +11,6 @@ seo:
   keywords: [contributing, open-source, crafting, community]
   canonical_url: "https://craftingsupply.ca/contributing/"
 ---
-
 Thank you for your interest in contributing! We welcome all kinds of contributions, new content, bug fixes, suggestions, and more.
 
 ## How to Contribute

@@ -143,5 +143,4 @@ seo:
 | **Craftsy / Domestika** | Project-based | $10–60 per class | Great for hobbyists |
 
 ---
-
 *Painting turns blank surfaces into beauty. Whether you’re crafting for joy or profit, let your colors lead the way.*

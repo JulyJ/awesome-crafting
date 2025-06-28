@@ -128,5 +128,4 @@ seo:
 | **Local Art Classes** | Hands-on | Personal instruction |
 
 ---
-
 *Hand-carved stamps add a unique personal touch to every project, start carving your story today!*

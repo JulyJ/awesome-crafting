@@ -147,5 +147,4 @@ seo:
 | **Books (e.g. “The Complete Manual of Woodworking”)** | Reference | Deep skill building |
 
 ---
-
 *From rustic charm to modern precision, woodworking lets you shape your vision into lasting, tangible art.*

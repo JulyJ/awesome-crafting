@@ -11,7 +11,6 @@ seo:
   keywords: [start here, crafting, guide, supplies]
   canonical_url: "https://craftingsupply.ca/start-here/"
 ---
-
 Welcome! This page will help you get started with crafting, finding supplies, and using this site.
 
 ## How to Use This Site
@@ -22,6 +21,7 @@ Welcome! This page will help you get started with crafting, finding supplies, an
 - **Categories:** Visit category pages (e.g., [Canadian-Made Materials](/categories/canadian-made/)) for curated lists and guides.
 
 ## Get Inspired
+
 - Check out our [latest posts](/posts/) for new ideas and updates.
 - Use the [Start Here](/start-here/) page as your launchpad for all things crafting!
 

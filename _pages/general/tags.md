@@ -11,7 +11,6 @@ seo:
   keywords: [tags, topics, crafting, explore]
   canonical_url: "https://craftingsupply.ca/tags/"
 ---
-
 Explore posts by tag and discover new topics.
 
 <ul>

@@ -161,5 +161,4 @@ seo:
 | Business Uniforms | $20–60/item | Varies | Medium |
 
 ---
-
 *Embroidery machines stitch memories into fabric, one hoop at a time.*

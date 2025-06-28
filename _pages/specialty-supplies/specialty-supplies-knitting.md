@@ -12,7 +12,6 @@ seo:
   keywords: [knitting, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/knitting/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

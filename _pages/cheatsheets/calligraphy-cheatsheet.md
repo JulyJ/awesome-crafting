@@ -127,5 +127,4 @@ seo:
 | **Online Printables** | Drill sheets, guides | Free or $ on Etsy |
 
 ---
-
 *Calligraphy slows time and adds soul to the written word, pick up a pen and begin the flow.*

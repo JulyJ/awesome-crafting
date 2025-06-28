@@ -160,5 +160,4 @@ seo:
 | **Local Classes** | Hands-on learning | Varies |
 
 ---
-
 *Craft clean beauty and cozy vibes with handmade soap and candles, scents that tell a story and soaps that shine!*

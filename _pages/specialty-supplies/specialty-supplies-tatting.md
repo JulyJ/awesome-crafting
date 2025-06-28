@@ -12,7 +12,6 @@ seo:
   keywords: [tatting, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/tatting/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

@@ -11,7 +11,6 @@ seo:
   keywords: [craft supplies, materials, reviews, tips]
   canonical_url: "https://craftingsupply.ca/categories/craft-supplies/"
 ---
-
 Welcome to the Craft Supplies section!
 
 ## Explore Craft Supplies

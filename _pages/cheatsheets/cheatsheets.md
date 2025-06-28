@@ -11,7 +11,6 @@ seo:
   keywords: [cheatsheet, crafting, quick reference, tools, materials, techniques]
   canonical_url: "https://craftingsupply.ca/cheatsheets/"
 ---
-
 **Browse Craft Cheatsheets:**
 
 | Category                | Cheatsheet                                                                 |

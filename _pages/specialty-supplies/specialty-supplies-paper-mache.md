@@ -12,7 +12,6 @@ seo:
   keywords: [paper mache, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/paper-mache/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

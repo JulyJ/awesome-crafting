@@ -162,5 +162,4 @@ seo:
 | **Facebook Groups** | Peer support | Free |
 
 ---
-
 *From plant hangers to wall art, macramé turns knots into boho beauty, crafted by hand, with heart.*

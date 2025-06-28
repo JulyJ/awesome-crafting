@@ -153,5 +153,4 @@ seo:
 | **Local Craft Classes** | Hands-on workshops | Practical experience |
 
 ---
-
 *Add shimmering shine and elegant texture to your projects ,  master foiling and embossing today!*

@@ -12,7 +12,6 @@ seo:
   keywords: [suppliers, province, local, crafting]
   canonical_url: "https://craftingsupply.ca/categories/local-suppliers/"
 ---
-
 A comprehensive guide to **Canadian craft and art suppliers**, organized by province.
 
 ---

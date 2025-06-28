@@ -11,7 +11,6 @@ seo:
   keywords: [craft room, organization, storage, studio, tools, materials]
   canonical_url: "https://craftingsupply.ca/categories/craft-room/"
 ---
-
 Tips and inspiration for organizing your craft room, tools, and materials.
 
 ## Explore Craft Room Organization Topics

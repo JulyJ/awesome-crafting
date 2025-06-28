@@ -11,7 +11,6 @@ seo:
   keywords: [contact, crafting supply, feedback, contribute]
   canonical_url: "https://craftingsupply.ca/contact/"
 ---
-
 Have questions, suggestions, or want to contribute? We'd love to hear from you!
 
 - Email: [craftingsupplyca@gmail.com](mailto:craftingsupplyca@gmail.com)

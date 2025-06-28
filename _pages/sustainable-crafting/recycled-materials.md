@@ -14,9 +14,7 @@ seo:
   type: "article"
   keywords: [recycled crafts, upcycling, eco crafting, trash art, reuse materials]
   canonical_url: "https://craftingsupply.ca/categories/sustainable-crafting/recycled-materials/"
-
 ---
-
 ## Material Categories for Recycled Crafting
 
 | Material | Source | Project Ideas |
@@ -75,5 +73,4 @@ seo:
 | Patchwork Quilts | Scrap fabric | $80–300 |
 
 ---
-
 *Waste is just creative potential in disguise.*

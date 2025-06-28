@@ -11,12 +11,8 @@ seo:
   keywords: [business, craft, tips, resources]
   canonical_url: "https://craftingsupply.ca/categories/business/"
 ---
-
 Tips, resources, and stories for running a successful craft business.
 
 ## Explore Craft Business Topics
 
-- [Starting a Side Hustle](/categories/business/)
-- [Selling in Canada](/categories/selling/)
-- [Packaging & Shipping](/categories/shipping/)
-- [Branding & Product Photos](/categories/branding/)
+- [Starting a Side Hustle](/categories/business/starting-craft-side-hustle)

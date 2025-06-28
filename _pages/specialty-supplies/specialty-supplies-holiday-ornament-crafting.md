@@ -12,7 +12,6 @@ seo:
   keywords: [holiday ornament, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/holiday-ornament-crafting/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

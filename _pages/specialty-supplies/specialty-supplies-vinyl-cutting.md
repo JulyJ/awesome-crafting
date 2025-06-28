@@ -12,7 +12,6 @@ seo:
   keywords: [vinyl cutting, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/vinyl-cutting/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

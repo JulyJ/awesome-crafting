@@ -12,7 +12,6 @@ seo:
   keywords: [needle felting, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/needle-felting/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

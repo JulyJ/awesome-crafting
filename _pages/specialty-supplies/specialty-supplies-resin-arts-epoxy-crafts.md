@@ -12,7 +12,6 @@ seo:
   keywords: [resin, epoxy, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/resin-arts-epoxy-crafts/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

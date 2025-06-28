@@ -12,7 +12,6 @@ seo:
   keywords: [metalworking, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/metalworking/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

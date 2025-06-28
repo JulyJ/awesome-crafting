@@ -12,7 +12,6 @@ seo:
   keywords: [fiber arts, textiles, specialty, materials]
   canonical_url: "https://craftingsupply.ca/categories/specialty-supplies/fiber-arts-textiles/"
 ---
-
 [← Back to Specialty Craft Categories](/categories/specialty-supplies/)
 
 | Material | Usage |

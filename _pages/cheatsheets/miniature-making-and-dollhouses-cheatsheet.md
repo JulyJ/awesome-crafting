@@ -160,5 +160,4 @@ seo:
 | **Dollhouse Shows/Conventions** | In-person networking | Buy, sell, display |
 
 ---
-
 *Every tiny room tells a story, what will yours say?*

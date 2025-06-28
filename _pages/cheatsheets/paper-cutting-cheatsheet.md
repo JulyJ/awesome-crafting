@@ -136,5 +136,4 @@ seo:
 | **Facebook Groups** | Peer support | Free | Tips, community |
 
 ---
-
 *Paper may seem simple, but with the right hands, it's magic waiting to happen.*
