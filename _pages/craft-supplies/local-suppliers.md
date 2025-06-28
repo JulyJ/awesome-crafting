@@ -43,7 +43,6 @@ A comprehensive guide to **Canadian craft and art suppliers**, organized by prov
 | AB | The Paper & Ink Boutique | <a href="https://www.paperandinkboutique.com/" target="_blank" rel="noopener nofollow">paperandinkboutique.com</a> | Papercrafts, cardmaking, stamping |
 | AB | PM Hobbycraft | <a href="https://www.pmhobbycraft.ca/" target="_blank" rel="noopener nofollow">pmhobbycraft.ca</a> | Model kits, puzzles, RC crafts |
 | AB | Delta Art & Drafting Supply | <a href="https://www.deltaart.ca/" target="_blank" rel="noopener nofollow">deltaart.ca</a> | Art supplies, drafting, painting |
-| AB | The Craft Store | <a href="https://www.thecraftstore.ca/" target="_blank" rel="noopener nofollow">thecraftstore.ca</a> | General crafts, wood shapes, paint kits |
 | SK | YXE Creations Craft Hub | <a href="https://yxecreations.ca/" target="_blank">yxecreations.ca</a> | Laser-ready plywood, acrylic, resin, paper |
 | SK | OA Leather Supply | <a href="https://oaleathersupply.com/" target="_blank" rel="noopener nofollow">oaleathersupply.com</a> | Leather hides, hardware, crafting tools |
 | SK | Sew Charming Crafts | <a href="https://www.facebook.com/sewcharmingcrafts/" target="_blank" rel="noopener nofollow">facebook.com/sewcharmingcrafts</a> | Fabrics, yarns, quilting, longarm services |
@@ -53,9 +52,7 @@ A comprehensive guide to **Canadian craft and art suppliers**, organized by prov
 | MB | Winnipeg Trading Post | <a href="https://www.winnipegtradingpost.com/" target="_blank" rel="noopener nofollow">winnipegtradingpost.com</a> | Leather, beads, native crafts |
 | MB | Seduta | <a href="https://www.seduta.com/" target="_blank" rel="noopener nofollow">seduta.com</a> | Art, stationery, journaling tools |
 | QC | Club Tissus | <a href="https://www.clubtissus.com/" target="_blank" rel="noopener nofollow">clubtissus.com</a> | Largest fabric and sewing supply retailer |
-| QC | Omer DeSerres | <a href="https://www.omerdeserres.com/" target="_blank" rel="noopener nofollow">omerdeserres.com</a> | Wide art offerings |
 | QC | Scrapbook Centrale | <a href="https://www.scrapbookcentrale.ca/" target="_blank" rel="noopener nofollow">scrapbookcentrale.ca</a> | Papercraft, cardmaking, stamping |
-| QC | Les Artisans Indiens du Québec | <a href="https://www.artisanatindien.com/" target="_blank" rel="noopener nofollow">artisanatindien.com</a> | Beads, leather, furs, moccasins |
 | NS | The Loop Halifax | <a href="https://www.theloophalifax.ca/" target="_blank" rel="noopener nofollow">theloophalifax.ca</a> | Yarn, patterns, fibers |
 | NS | HFX Vinyl & Craft Supplies | <a href="https://hfxvinyl.ca/" target="_blank" rel="noopener nofollow">hfxvinyl.ca</a> | Vinyl, HTV, cutters, accessories |
 | NS | Yu Yo The Artists' Place | <a href="https://www.yuyo.ca/" target="_blank" rel="noopener nofollow">yuyo.ca</a> | Paper, textile, indie art shop |
