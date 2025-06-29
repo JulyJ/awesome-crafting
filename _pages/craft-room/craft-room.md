@@ -19,3 +19,6 @@ Tips and inspiration for organizing your craft room, tools, and materials.
 - [Tool Storage](/categories/craft-room/tool-storage/)
 - [Small Space Organization](/categories/craft-room/small-space-organization/)
 - [Large Studio Design](/categories/craft-room/large-studio-design/)
+- [Cutting Mats & Surfaces](/craft-room/cutting-mats-and-surfaces/)
+- [Lighting Solutions](/craft-room/lighting-solutions/)
+- [Mobile Craft Carts](/craft-room/mobile-craft-carts/)

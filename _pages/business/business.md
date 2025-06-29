@@ -15,4 +15,8 @@ Tips, resources, and stories for running a successful craft business.
 
 ## Explore Craft Business Topics
 
-- [Starting a Side Hustle](/categories/business/starting-craft-side-hustle)
+- [Starting a Side Hustle](/categories/business/starting-craft-side-hustle/)
+- [Craft Show Preparation](/business/craft-show-preparation/)
+- [Online Selling Platforms](/business/online-selling-platforms/)
+- [Photography for Crafters](/business/photography-for-crafters/)
+- [Pricing Handmade Items](/business/pricing-handmade-items/)
