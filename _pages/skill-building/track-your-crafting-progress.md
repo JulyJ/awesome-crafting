@@ -75,11 +75,6 @@ Whether you're painting miniatures, sewing garments, crafting stickers, or worki
 | **Technique Tracker** | Repetitions of a skill | 10 cuts, 10 welds, 10 stitches, etc. |
 | **Daily Creativity Log** | Small notes of daily activity | Helps build habit and reduce pressure |
 
-> 🖨️ Want ready-to-use sheets?  
-👉 [Download our Craft Practice Printable Pack →](/resources/practice-logs-printables.pdf)
-
----
-
 ## How Often Should You Log?
 
 | Your Style | Logging Frequency | Tip |

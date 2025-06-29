@@ -132,14 +132,6 @@ Label each section and take notes.
 
 ---
 
-## Free Practice Tools for Miniaturists
-
-📥 **[Download Our Mini Detail Grid & Ruler Sheet →](/resources/mini-detail-practice-sheet.pdf)**  
-🛍️ **[Shop Tiny Tools & Supplies →](/collections/miniature-crafting-tools/)**  
-🧠 **[Follow the Mini Challenge Series →](/blog/miniature-monthly-challenges/)**
-
----
-
 ## Final Thoughts
 
 Getting better at miniatures is about **micro-habits, not macro projects**. Practice the small stuff, and over time, your skills (and confidence) grow. Precision isn’t magic, it’s *muscle memory*.

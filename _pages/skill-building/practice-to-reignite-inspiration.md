@@ -101,18 +101,3 @@ Set a timer. No expectations. Try:
 Creativity isn’t a light switch, it’s a **muscle**. And just like muscles, it needs movement, not motivation.
 
 Let go of the need to make something perfect. Just *make*. The spark will return.
-
----
-
-## Free Creative Block Toolkit
-
-✨ **[Download Our Printable Practice Prompts →](/resources/creative-warmup-prompts.pdf)**  
-🧰 **[Check Out Our Warmup Kits →](/collections/creative-warmups/)** (filled with scraps, samples, and mystery materials to play with)
-
----
-
-## Final Thought
-
-Your creativity hasn’t disappeared, it’s just resting. These small, pressure-free routines are how you **invite it back**.
-
-Because sometimes the cure for creative block is simply... **starting messy**.
