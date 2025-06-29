@@ -29,7 +29,7 @@ seo:
 | **Bench Hook / Carving Clamp** | Stabilize block during carving | Safety and precision |
 | **Cutting Mat** | Protect surfaces | Self-healing recommended |
 | **Tracing Paper** | Transfer designs | Use for pattern accuracy |
-| **Ink Pads** | Test stamps | Various colors and surfaces |
+| **Ink Pads** | Test stamps | Various colours and surfaces |
 | **Stamp Mounting Foam** | Mounting carved stamps | For handle attachment |
 
 ---
@@ -86,7 +86,7 @@ seo:
 
 | Technique | Description | Recommended Tools |
 |-----------|-------------|-------------------|
-| **Multi-Layer Stamping** | Use several stamps for color layers | Multiple blocks, ink pads |
+| **Multi-Layer Stamping** | Use several stamps for colour layers | Multiple blocks, ink pads |
 | **Relief Carving** | Creating depth for textured prints | V & U gouges, swivel knife |
 | **Reducing Linocut** | Carve and print in stages | Linoleum cutters, printing press |
 | **Fine Detail Work** | Intricate lines and shapes | Small V-gouge, craft knife |

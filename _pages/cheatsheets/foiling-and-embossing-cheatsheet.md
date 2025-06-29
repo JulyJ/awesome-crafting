@@ -33,9 +33,9 @@ seo:
 | Tool | Purpose | Notes |
 |------|---------|-------|
 | **Heat Gun** | Melts embossing powder | Adjustable temperature preferred |
-| **Embossing Powder** | Creates raised texture | Wide range of colors and finishes |
+| **Embossing Powder** | Creates raised texture | Wide range of colours and finishes |
 | **Embossing Ink Pad** | Sticky ink for powder adherence | Clear or tinted options |
-| **Foil Sheets/Rolls** | Metallic or colored foil | Available in many colors/finishes |
+| **Foil Sheets/Rolls** | Metallic or coloured foil | Available in many colours/finishes |
 | **Foiling Machine / Laminator** | Applies heat and pressure for foiling | Desktop or industrial options |
 | **Embossing Folders** | Create raised textures | Compatible with most die-cut machines |
 | **Stencil / Template** | For manual dry embossing | Use with stylus or embossing tool |
@@ -51,7 +51,7 @@ seo:
 | **Embossing Powder** | Fine powder that melts smooth | Heat embossing | $5–15 per container |
 | **Glitter Embossing Powder** | Adds sparkle | Festive projects | $7–20 |
 | **Metallic Foil Sheets** | Gold, silver, holographic | Hot and cold foiling | $10–30 per pack |
-| **Colored Foil Sheets** | Various vibrant colors | Creative projects | $10–30 |
+| **Coloured Foil Sheets** | Various vibrant colours | Creative projects | $10–30 |
 | **Specialty Foils** | Matte, textured, patterned | Unique finishes | $15–40 |
 
 ---
@@ -117,7 +117,7 @@ seo:
 | Project | Materials | Techniques | Tools Needed | Use Case |
 |---------|-----------|------------|--------------|----------|
 | Custom Foil Business Cards | Specialty cardstock, foil | Hot foiling | Foil press | Professional branding |
-| Multi-Color Embossing | Various powders | Layering powders and colors | Heat gun, stamps | Eye-catching designs |
+| Multi-Colour Embossing | Various powders | Layering powders and colours | Heat gun, stamps | Eye-catching designs |
 | Embossed Packaging | Cardboard, embossing folders | Dry embossing | Embossing machine | Retail packaging |
 
 ### Advanced Projects

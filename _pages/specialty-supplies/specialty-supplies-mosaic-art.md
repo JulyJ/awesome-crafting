@@ -16,7 +16,7 @@ seo:
 
 | Material | Usage |
 |----------|-------|
-| Glass Tiles | Pre-cut colored glass pieces |
+| Glass Tiles | Pre-cut coloured glass pieces |
 | Ceramic Tiles | Durable, varied surface options |
 | Stone Pieces | Natural materials for organic looks |
 | Tile Nippers | Cut tiles to desired shapes |

@@ -25,7 +25,7 @@ seo:
 | Embossing Ink | Clear ink for heat embossing |
 | Rubber Stamps | Images and sentiments for cards |
 | Clear Stamps | Precise positioning, reusable |
-| Ink Pads | Color stamps and blend backgrounds |
+| Ink Pads | Colour stamps and blend backgrounds |
 | Die Cutting Machine | Cut precise shapes and letters |
 | Metal Dies | Custom shapes for die cutting |
 | Dimensional Foam Tape | Raise elements for depth |

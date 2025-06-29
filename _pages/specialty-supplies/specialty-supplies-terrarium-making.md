@@ -24,5 +24,5 @@ seo:
 | Decorative Stones | Drainage and visual appeal |
 | Long Tweezers | Plant placement in narrow openings |
 | Spray Bottle | Gentle watering system |
-| Decorative Elements | Miniature figurines, colored sand |
+| Decorative Elements | Miniature figurines, coloured sand |
 | Cork Lids | Natural covers for some terrariums |

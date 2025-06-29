@@ -7,7 +7,7 @@ sidebar:
 date: 2025-06-28
 categories: [business, side-hustle, crafting]
 tags: [side-hustle, craft-business, home-business, handmade, small-business]
-excerpt: "Turn your creativity into income with a practical guide to starting a craft side hustle — from idea validation to pricing, marketing, and managing time with confidence."
+excerpt: "Turn your creativity into income with a practical guide to starting a craft side hustle ,  from idea validation to pricing, marketing, and managing time with confidence."
 seo:
   title: "Starting a Craft Side Hustle | Crafting Supply Hub"
   description: "Step-by-step guide to launching your own craft-based side hustle: niche, pricing, selling, and time management for makers."
@@ -126,4 +126,4 @@ seo:
 | Ignoring Branding | Blends into crowd | Focus on photos, voice, name |
 
 ---
-*Turn your passion into profit — without losing your creative joy.*
+*Turn your passion into profit ,  without losing your creative joy.*

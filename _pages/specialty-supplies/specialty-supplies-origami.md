@@ -16,10 +16,10 @@ seo:
 
 | Material | Usage |
 |----------|-------|
-| Origami Paper (Kami) | Standard thin paper in various colors |
+| Origami Paper (Kami) | Standard thin paper in various colours |
 | Washi Paper | Traditional Japanese handmade paper |
 | Foil Paper | Metallic finish, holds creases well |
-| Duo Paper | Different colors on each side |
+| Duo Paper | Different colours on each side |
 | Patterned Origami Paper | Decorative designs and textures |
 | Tissue Foil | Ultra-thin for complex models |
 | Wet-folding Paper | Thick paper for curved, sculptural forms |

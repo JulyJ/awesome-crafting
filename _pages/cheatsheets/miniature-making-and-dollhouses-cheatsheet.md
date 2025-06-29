@@ -143,7 +143,7 @@ seo:
 |--------|----------|-------|
 | **Wall-Mounted Shadow Box** | Room scenes | Saves shelf space |
 | **Glass Dome Display** | Small builds | Dust protection |
-| **Clear Bins + Labels** | Material storage | Sort by color or type |
+| **Clear Bins + Labels** | Material storage | Sort by colour or type |
 | **Stackable Drawers** | Tools & minis | Use dividers |
 | **Rotating Display Stand** | Shows all sides | Great for markets |
 

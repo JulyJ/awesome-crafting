@@ -24,5 +24,5 @@ seo:
 | Balloon | Removable form for round shapes |
 | Wire Armature | Internal structure for complex shapes |
 | Masking Tape | Hold armature pieces together |
-| Acrylic Paint | Color finished pieces |
+| Acrylic Paint | Colour finished pieces |
 | Varnish | Protect finished paper mache |

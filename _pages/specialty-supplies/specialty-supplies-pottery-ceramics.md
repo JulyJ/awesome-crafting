@@ -22,8 +22,8 @@ seo:
 | Potter's Wheel | Shape clay into round forms |
 | Clay Tools | Shape, trim, and detail pottery |
 | Kiln | Fire pottery to harden and finish |
-| Glazes | Glass-like coating for color and protection |
-| Underglaze | Color applied before clear glaze |
+| Glazes | Glass-like coating for colour and protection |
+| Underglaze | Colour applied before clear glaze |
 | Slip | Liquid clay for joining and decoration |
 | Sponges | Smooth surfaces and clean pottery |
 | Wire Clay Cutter | Cut clay and remove pottery from wheel |

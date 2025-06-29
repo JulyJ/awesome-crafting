@@ -20,8 +20,8 @@ seo:
 | UV Resin | Small projects, quick curing under UV light |
 | Deep Pour Resin | Thick castings without overheating |
 | Fast-Cure Resin | Rapid project completion |
-| Alcohol Inks | Fluid, organic color patterns |
-| Resin Pigments | Concentrated colorants for resin |
+| Alcohol Inks | Fluid, organic colour patterns |
+| Resin Pigments | Concentrated colourants for resin |
 | Pearl Powders | Metallic shimmer and shift effects |
 | Glow-in-the-Dark Powders | Phosphorescent night-time effects |
 | Dried Flowers | Preserve botanicals in clear resin |

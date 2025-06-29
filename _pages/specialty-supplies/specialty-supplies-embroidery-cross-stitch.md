@@ -16,7 +16,7 @@ seo:
 
 | Material | Usage |
 |----------|-------|
-| Embroidery Floss | Cotton thread in hundreds of colors |
+| Embroidery Floss | Cotton thread in hundreds of colours |
 | Pearl Cotton | Thicker, lustrous embroidery thread |
 | Metallic Threads | Add sparkle and shine to designs |
 | Aida Cloth | Even-weave fabric for cross stitch |

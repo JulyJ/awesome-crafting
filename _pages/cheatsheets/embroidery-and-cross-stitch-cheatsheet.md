@@ -74,9 +74,9 @@ seo:
 | Element | Description | Tips |
 |---------|-------------|------|
 | **Count** | Holes per inch in fabric (e.g., 14-count) | Higher count = finer detail |
-| **Chart/Pattern** | Grid with symbols/colors | Follow key and color legend |
+| **Chart/Pattern** | Grid with symbols/colours | Follow key and colour legend |
 | **Center Start** | Begin in the middle of fabric and pattern | Ensures centered design |
-| **Single Color Projects** | Use one floss color | Great for beginners |
+| **Single Colour Projects** | Use one floss colour | Great for beginners |
 | **Evenweave Fabric** | More flexible than Aida | Allows fractional stitches |
 
 ---
@@ -97,7 +97,7 @@ seo:
 
 | Project | Techniques | Materials | Challenge Level |
 |---------|------------|-----------|-----------------|
-| Full Cross-Stitch Portrait | Full coverage, pattern following | 14-count Aida, 20+ colors | ⭐⭐⭐ |
+| Full Cross-Stitch Portrait | Full coverage, pattern following | 14-count Aida, 20+ colours | ⭐⭐⭐ |
 | Botanical Sampler | 8–10 stitches | Cotton linen, multiple threads | ⭐⭐ |
 | Mixed Media Embroidery | Fabric + beads, sequins | Cotton, embellishments | ⭐⭐⭐ |
 | Clothing Embroidery | Placement, durability | Denim, tear-away stabilizer | ⭐⭐ |
@@ -145,7 +145,7 @@ seo:
 
 | Resource | Type | Best For |
 |----------|------|----------|
-| **DMC.com** | Thread + patterns | Color tools, free designs |
+| **DMC.com** | Thread + patterns | colour tools, free designs |
 | **Sublime Stitching** | Patterns, tutorials | Modern motifs |
 | **YouTube (Jessica Long, Peacock & Fig)** | Video tutorials | Stitch-alongs |
 | **Reddit r/embroidery & r/crossstitch** | Community forums | WIPs, troubleshooting |

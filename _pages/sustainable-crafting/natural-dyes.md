@@ -7,17 +7,17 @@ sidebar:
 date: 2025-06-28
 categories: [sustainable-crafting, natural-dyeing, textile-art]
 tags: [natural dyes, botanical, fabric dye, mordants, eco print]
-excerpt: "Explore plant-based dyeing techniques, mordants, and natural fiber prep in this guide to sustainable color in crafting."
+excerpt: "Explore plant-based dyeing techniques, mordants, and natural fiber prep in this guide to sustainable colour in crafting."
 seo:
   title: "Natural Dyes & Materials | Crafting Supply Hub"
   description: "Discover how to dye fabrics and paper with plants, flowers, and natural pigments for sustainable, beautiful results."
   type: "article"
-  keywords: [natural dyeing, eco dye, plant colors, mordants, fiber prep]
+  keywords: [natural dyeing, eco dye, plant colours, mordants, fiber prep]
   canonical_url: "https://craftingsupply.ca/categories/sustainable-crafting/natural-dyes/"
 ---
 ## Common Natural Dye Sources
 
-| Dye Source | Color Range | Prep |
+| Dye Source | Colour Range | Prep |
 |------------|-------------|------|
 | **Red Onion Skins** | Purple, pink | Simmer in water |
 | **Avocado Pits & Skins** | Blush, dusty pink | Clean and boil |
@@ -33,7 +33,7 @@ seo:
 
 | Mordant | Source | Use | Notes |
 |--------|--------|-----|-------|
-| **Alum (Potassium Aluminum Sulfate)** | Mineral | Enhances color & bonding | Most common safe mordant |
+| **Alum (Potassium Aluminum Sulfate)** | Mineral | Enhances colour & bonding | Most common safe mordant |
 | **Tannin** | Tea, oak galls | Pre-treat for plant dyes | Needed for cellulose fibers |
 | **Iron (Ferrous Sulfate)** | Rusty nails, store-bought | Darkens tones | Use in small amounts |
 | **Soy Milk** | Kitchen | Binder for cellulose fabrics | Great for cotton & paper |
@@ -62,7 +62,7 @@ seo:
 | **Immersion Dyeing** | Fabric soaked in dye bath | Even tone |
 | **Bundle Dyeing** | Rolled with petals/leaves | Patterns and textures |
 | **Eco Printing** | Pressed plant contact + steam | Leaf impressions |
-| **Layered Dips** | Multiple color soaks | Gradient shades |
+| **Layered Dips** | Multiple colour soaks | Gradient shades |
 | **Ice Dyeing** | Melting ice + powders | Use natural powder dyes or extracts |
 
 ---
@@ -90,4 +90,4 @@ seo:
 | **Wall Hangings** | Linen/cotton canvas | 3–6 hrs |
 
 ---
-*Let nature color your creativity, one petal at a time.*
+*Let nature colour your creativity, one petal at a time.*

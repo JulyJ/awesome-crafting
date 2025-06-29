@@ -20,7 +20,7 @@ seo:
 | Concrete Mix | Pre-blended concrete for projects |
 | Silicone Molds | Create shaped concrete objects |
 | Release Agent | Prevent sticking in molds |
-| Concrete Colorant | Add color throughout mixture |
+| Concrete Colourant | Add colour throughout mixture |
 | Concrete Sealer | Protect finished concrete items |
 | Fiber Mesh | Reinforce concrete structures |
 | Plastic Sheeting | Cover curing concrete |

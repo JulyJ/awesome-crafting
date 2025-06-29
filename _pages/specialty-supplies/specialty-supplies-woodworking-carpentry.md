@@ -22,7 +22,7 @@ seo:
 | Wood Glue (PVA) | Standard wood joinery and laminating |
 | Polyurethane Glue | Waterproof bonds, outdoor projects |
 | Epoxy Wood Filler | Fill gaps, cracks, and defects |
-| Wood Stain | Color enhancement while showing grain |
+| Wood Stain | Colour enhancement while showing grain |
 | Polyurethane Finish | Protective clear coating |
 | Tung Oil | Natural penetrating finish |
 | Danish Oil | Easy-apply finish with moderate protection |

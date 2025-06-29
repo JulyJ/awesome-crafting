@@ -48,20 +48,20 @@ seo:
 |------------|--------|----------|------------------|-------|
 | **Rhodia Pads** | Smooth | Practice, final art | Excellent | Popular for beginners |
 | **Bristol Board** | Smooth or vellum | Final pieces | Excellent | Good for inking |
-| **Watercolor Paper** | Textured | Brush lettering | Very good | Absorbs ink, textured |
+| **Watercolour Paper** | Textured | Brush lettering | Very good | Absorbs ink, textured |
 | **Marker Paper** | Coated | Brush pens, markers | High | Prevents fraying |
 | **Handmade Cotton Paper** | Soft deckled | Wedding stationery | Medium | Elegant texture |
 | **Tracing Paper** | Transparent | Layout, drafts | Low | Great for transfer work |
 
 ---
 
-## Inks & Color Options
+## Inks & colour Options
 
 | Ink Type | Tool Compatibility | Best Use | Pros | Considerations |
 |----------|--------------------|----------|------|----------------|
 | **Bottled Calligraphy Ink** | Dip pens | Traditional calligraphy | Wide variety | Requires cleanup |
 | **India Ink** | Dip pens, brushes | Bold, archival | Waterproof | Thick, can clog |
-| **Watercolor Ink** | Brush pens, ruling pens | Artistic calligraphy | Blendable | Not waterproof |
+| **Watercolour Ink** | Brush pens, ruling pens | Artistic calligraphy | Blendable | Not waterproof |
 | **Acrylic Ink** | Dip pens, brushes | Mixed media | Vibrant, permanent | Fast-drying |
 | **Iron Gall Ink** | Dip pens | Historic styles | Fades to rich tone | Acidic, corrosive over time |
 | **Metallic Ink** | Dip pens | Invitations, accents | Shimmery finish | Needs frequent shaking |

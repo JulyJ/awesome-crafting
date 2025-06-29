@@ -21,7 +21,7 @@ seo:
 | Basswood Panels | Soft wood ideal for burning |
 | Carbon Paper | Transfer designs to wood |
 | Fine Sandpaper | Smooth wood surface before burning |
-| Wood Stain | Enhance burned designs with color |
+| Wood Stain | Enhance burned designs with colour |
 | Protective Finish | Seal completed pyrography |
 | Ventilation Fan | Remove smoke during burning |
 | Heat-resistant Mat | Protect work surface |

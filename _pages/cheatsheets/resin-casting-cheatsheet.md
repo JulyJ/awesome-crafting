@@ -38,7 +38,7 @@ seo:
 | **Silicone Molds** | Shapes for casting | Various sizes and designs |
 | **Protective Gear** | Gloves, respirator, goggles | Safety first, avoid skin contact & fumes |
 | **Heat Gun / Torch** | Removes bubbles after pouring | Use carefully to avoid overheating |
-| **Colorants & Pigments** | Add color and effects | Use resin-specific dyes and powders |
+| **Colourants & Pigments** | Add colour and effects | Use resin-specific dyes and powders |
 | **Release Agent** | Easier mold release | Apply before casting to prevent sticking |
 | **Mixing Tips** | Slow, thorough mixing | Minimizes bubbles and uneven curing |
 
@@ -87,7 +87,7 @@ seo:
 | Project | Materials | Tools Needed | Time | Tips |
 |---------|-----------|--------------|------|------|
 | Resin Jewelry Pendants | Epoxy resin, silicone molds | Mixing tools, heat gun | 24-48 hrs curing | Use UV resin for faster cure |
-| Coasters | Epoxy resin, colorants, coaster molds | Heat gun, mixing cups | 24-48 hrs | Use level surface to avoid pooling |
+| Coasters | Epoxy resin, colourants, coaster molds | Heat gun, mixing cups | 24-48 hrs | Use level surface to avoid pooling |
 | Keychains | UV resin or epoxy | Silicone molds, UV light (for UV resin) | Minutes to 24 hrs | Embed small charms or glitter |
 
 ### Intermediate Projects
@@ -95,7 +95,7 @@ seo:
 | Project | Materials | Techniques | Tools Needed | Time |
 |---------|-----------|------------|--------------|------|
 | Decorative Trays | Epoxy resin, pigments | Layered pouring, resin tinting | Heat gun, scale, molds | 48-72 hrs |
-| Resin Art Panels | Epoxy resin, colorants, wood panel | Pouring, tilting, layering | Heat gun, mixing tools | 48 hrs |
+| Resin Art Panels | Epoxy resin, colourants, wood panel | Pouring, tilting, layering | Heat gun, mixing tools | 48 hrs |
 | Encapsulation | Epoxy resin, objects to embed | Bubble removal, layering | Heat gun, molds | 24-72 hrs |
 
 ### Advanced Projects

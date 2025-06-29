@@ -18,7 +18,7 @@ seo:
 |----------|-------|
 | Acid Dyes | Protein fibers (wool, silk) |
 | Fiber Reactive Dyes | Cellulose fibers (cotton, linen) |
-| Natural Dye Materials | Plants, insects, minerals for color |
+| Natural Dye Materials | Plants, insects, minerals for colour |
 | Mordants | Help dyes bond permanently to fiber |
 | pH Strips | Test acidity of dye baths |
 | Thermometer | Monitor dye bath temperatures |

@@ -25,4 +25,4 @@ seo:
 | Embroidery Thread | Details and features |
 | Brush | Fluff up felted surfaces |
 | Core Wool | Inexpensive wool for inner structure |
-| Colored Wool | Surface details and decorations |
+| Coloured Wool | Surface details and decorations |

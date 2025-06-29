@@ -25,6 +25,6 @@ seo:
 | Melt & Pour Base | Ready-made base for easy soap making |
 | Essential Oils | Natural fragrance and aromatherapy |
 | Fragrance Oils | Wide variety of scent options |
-| Soap Colorants | Micas, oxides, and natural colorants |
+| Soap Colourants | Micas, oxides, and natural colourants |
 | Silicone Soap Molds | Easy release, detailed designs |
 | Safety Equipment | Goggles, gloves for lye handling |

@@ -50,6 +50,9 @@ side:
       - title: "Recycled Materials"
         url: "/categories/sustainable-crafting/recycled-materials/"
 
+  - title: "Skill Building"
+    url: "/skill-building/"
+
   - title: "Craft Room Organization"
     url: "/categories/craft-room/"
     children:

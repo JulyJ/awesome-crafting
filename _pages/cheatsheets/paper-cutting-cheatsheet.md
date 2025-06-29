@@ -27,7 +27,7 @@ seo:
 | **Kraft Paper** | 60–100 lb | Rough, brown tone | Rustic tags, packaging | $0.05–$0.25 | ⭐ |
 | **Patterned Scrapbook Paper** | 65–80 lb | Pre-printed | Layouts, embellishments | $0.30–$1.00 | ⭐⭐ |
 | **Specialty (Glitter, Foil)** | Variable | Decorative | Accents, layering | $0.50–$2.00 | ⭐⭐⭐ |
-| **Origami Paper** | Thin, square | Crisp, colored | Folding crafts | $0.05–$0.30 | ⭐⭐ |
+| **Origami Paper** | Thin, square | Crisp, coloured | Folding crafts | $0.05–$0.30 | ⭐⭐ |
 
 ### Choosing the Right Paper
 

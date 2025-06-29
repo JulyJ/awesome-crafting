@@ -33,7 +33,7 @@ seo:
 
 | Tool Type | Divider Style | Bonus Tip |
 |-----------|---------------|-----------|
-| Pens/Markers | Adjustable plastic trays | Organize by color family |
+| Pens/Markers | Adjustable plastic trays | Organize by colour family |
 | Jewelry Tools | Foam-lined trays | Prevent scratching |
 | Sewing Feet | Ice cube trays | Label each section |
 | Craft Blades | Magnetic strips | Safer access |

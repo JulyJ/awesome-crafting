@@ -26,7 +26,7 @@ seo:
 | **Metallic HTV** | PU with metallic finish | Shiny | Fashion accents | Medium-High | 305–320°F | $8–15/yard |
 | **Glitter HTV** | PU with glitter layer | Sparkly | Party wear, kids’ clothes | Medium | 305–320°F | $10–18/yard |
 | **Flock HTV** | Raised, velvety texture | Soft, fuzzy | Premium apparel | High | 300–320°F | $10–20/yard |
-| **Printable HTV** | Printable PU film | Full-color designs | Complex, photo-quality | Medium | 305–320°F | $15–25/yard |
+| **Printable HTV** | Printable PU film | Full-colour designs | Complex, photo-quality | Medium | 305–320°F | $15–25/yard |
 
 ---
 
@@ -94,7 +94,7 @@ seo:
 
 | Project | Materials | Techniques | Tools | Sell Price |
 |---------|-----------|------------|-------|------------|
-| Multi-Color Designs | Blended fabrics, multiple HTVs | Layering HTV | Cutter, heat press | $25–50 |
+| Multi-Colour Designs | Blended fabrics, multiple HTVs | Layering HTV | Cutter, heat press | $25–50 |
 | Personalized Sportswear | Polyester shirts, stretch HTV | Stretch vinyl application | Cutter, heat press | $30–60 |
 | Customized Hats | Polyester/cotton blend | Specialty HTV, curved presses | Cutter, heat press | $20–45 |
 
@@ -102,7 +102,7 @@ seo:
 
 | Project | Skills | Materials | Tools | Market |
 |---------|--------|-----------|-------|--------|
-| Complex Printed HTV Designs | Printable HTV, full-color | High detail designs | Cutter, heat press, printer | Niche markets |
+| Complex Printed HTV Designs | Printable HTV, full-colour | High detail designs | Cutter, heat press, printer | Niche markets |
 | Apparel Lines | Fabric blends, layering | Production workflow | Multiple machines | Retail/small business |
 | Heat-Pressed Accessories | Faux leather, specialty HTV | Multi-material pressing | Cutter, heat press | Gift shops |
 

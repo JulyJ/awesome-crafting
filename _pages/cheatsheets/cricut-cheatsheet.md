@@ -154,7 +154,7 @@ seo:
 | Skill Level | Capabilities | Time Investment | Milestone Projects | Premium Features Used |
 |-------------|--------------|----------------|-------------------|----------------------|
 | **Week 1-2** | Basic cuts, simple text | 5-10 hours | First vinyl decal | Basic fonts, shapes |
-| **Month 1** | Layered designs, welding | 15-25 hours | Multi-color project | Image library, contour |
+| **Month 1** | Layered designs, welding | 15-25 hours | Multi-colour project | Image library, contour |
 | **Month 2-3** | Print-then-cut, patterns | 25-40 hours | Complex stickers | Patterns, advanced text |
 | **Month 4-6** | Custom uploads, SVG editing | 40-70 hours | Original designs | Upload capability, editing |
 | **Advanced** | Template creation, efficiency | Ongoing | Production workflow | All premium features |
@@ -243,8 +243,8 @@ seo:
 |-----------|-------------|-------------|----------------|----------------|
 | **Perfect Weeding** | Vinyl removal | Intermediate | Weeding tools, good lighting | Clean, professional appearance |
 | **Heat Press Mastery** | HTV application | Intermediate | Quality heat press, timer | Durable, wash-resistant results |
-| **Layering Alignment** | Multi-color designs | Advanced | Registration marks, patience | Precise, complex designs |
-| **Custom Color Matching** | Brand consistency | Advanced | Color charts, printing knowledge | Professional brand compliance |
+| **Layering Alignment** | Multi-colour designs | Advanced | Registration marks, patience | Precise, complex designs |
+| **Custom Colour Matching** | Brand consistency | Advanced | Colour charts, printing knowledge | Professional brand compliance |
 | **Production Efficiency** | Batch processing | Advanced | Workflow optimization | Scalable business operations |
 
 ### Design Principles for Cutting Machines
@@ -254,7 +254,7 @@ seo:
 | **Proper Sizing** | Material efficiency, machine capability | Check cut dimensions before finalizing | Designs too small/large for material |
 | **Weed-Friendly Design** | Easier finishing, time savings | Avoid tiny details, islands | Overly complex negative spaces |
 | **Material Considerations** | Successful cuts, durability | Match design to material properties | Ignoring material limitations |
-| **Color Coordination** | Professional appearance | Plan color schemes, test combinations | Clashing colors, poor contrast |
+| **colour Coordination** | Professional appearance | Plan colour schemes, test combinations | Clashing colours, poor contrast |
 | **Scalability Planning** | Business growth, efficiency | Design for multiple sizes | Single-use designs |
 
 ## Learning Resources & Skill Development

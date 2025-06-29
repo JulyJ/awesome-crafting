@@ -24,7 +24,7 @@ seo:
 | Madder Root | Natural dye for reds and pinks |
 | Indigo | Traditional blue dye variations |
 | Alum Mordant | Help natural dyes bond with fibers |
-| Iron Modifier | Darken and shift natural dye colors |
+| Iron Modifier | Darken and shift natural dye colours |
 | Felting Needles | Barbed needles for needle felting |
 | Wool Batting | Base material for wet felting |
 | Felting Soap | Specialized soap for wet felting |

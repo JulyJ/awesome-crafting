@@ -21,7 +21,7 @@ seo:
 | Machine Type | Hoop Size | Features | Best For | Price Range |
 |--------------|-----------|----------|----------|-------------|
 | **Single-Needle** | 4x4"–6x10" | Simple, entry-level | Hobbyists, beginners | $300–$1,200 |
-| **Multi-Needle** | 5x7"–8x14"+ | Multiple thread colors | Small businesses | $2,500–10,000 |
+| **Multi-Needle** | 5x7"–8x14"+ | Multiple thread colours | Small businesses | $2,500–10,000 |
 | **Sewing + Embroidery Combo** | 4x4"–6x10" | Dual function | Crafters, limited space | $500–2,000 |
 | **Commercial Machines** | 12x18"+ | Industrial-grade | High-volume business | $10,000+ |
 
@@ -41,11 +41,11 @@ seo:
 | Feature | Entry-Level | Mid-Range | High-End |
 |---------|-------------|-----------|----------|
 | **Hoop Size** | 4x4"–5x7" | 6x10"–8x14" | 8x14"+ |
-| **Thread Colors** | 1 (manual change) | 1–6 needles | 10–16 needles |
-| **LCD Touchscreen** | Basic | Medium-size, color | Large HD with editing |
+| **Thread Colours** | 1 (manual change) | 1–6 needles | 10–16 needles |
+| **LCD Touchscreen** | Basic | Medium-size, colour | Large HD with editing |
 | **Built-in Designs** | 50–100 | 100–300 | 300+ with import |
 | **File Compatibility** | .PES, .DST, etc. | Multi-format | Multi-format, wireless |
-| **Automatic Features** | Needle threader | Thread trim, tension | Color change, jump trim |
+| **Automatic Features** | Needle threader | Thread trim, tension | colour change, jump trim |
 
 ## Common Hoop Sizes & Uses
 
@@ -61,7 +61,7 @@ seo:
 
 | Model | Max Hoop | Price | Highlights | Ideal For |
 |-------|----------|-------|------------|-----------|
-| **Brother PE800** | 5x7" | ~$600 | USB import, color screen | New hobbyists |
+| **Brother PE800** | 5x7" | ~$600 | USB import, colour screen | New hobbyists |
 | **Janome 400E** | 7.9x7.9" | ~$1,100 | Large field, stand-alone | Intermediate DIY |
 | **Baby Lock Flourish II** | 6x10" | ~$1,300 | Built-in designs, fast | Applique, fonts |
 | **Brother SE1900** | 5x7" | ~$1,000 | Sewing + embroidery | All-in-one crafting |

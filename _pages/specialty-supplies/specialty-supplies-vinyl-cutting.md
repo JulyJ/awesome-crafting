@@ -19,7 +19,7 @@ seo:
 | Adhesive Vinyl | Permanent decals for cars, walls, glass |
 | Removable Vinyl | Temporary decorations, easy removal |
 | Heat Transfer Vinyl (HTV) | Iron-on designs for fabric and clothing |
-| Holographic Vinyl | Shimmery, color-changing effects |
+| Holographic Vinyl | Shimmery, colour-changing effects |
 | Glitter Vinyl | Sparkly finish for special projects |
 | Cutting Mats | Sticky surface to hold vinyl during cutting |
 | Weeding Tools | Remove excess vinyl from designs |

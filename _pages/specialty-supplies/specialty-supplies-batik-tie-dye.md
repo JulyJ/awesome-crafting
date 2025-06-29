@@ -16,7 +16,7 @@ seo:
 
 | Material | Usage |
 |----------|-------|
-| Fabric Dyes | Permanent colors for fabric dyeing |
+| Fabric Dyes | Permanent colours for fabric dyeing |
 | Wax Resist | Create patterns in batik technique |
 | Tjanting Tool | Apply liquid wax in fine lines |
 | Rubber Bands | Create tie-dye patterns |

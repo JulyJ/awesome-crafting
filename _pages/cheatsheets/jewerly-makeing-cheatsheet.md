@@ -51,7 +51,7 @@ seo:
 | **Jewelry Wire (20–26 gauge)** | Wrapping, linking | $5–$15/spool | Flexible, varies in hardness |
 | **Head Pins/Eye Pins** | Dangles, links | $3–$10/pack | Pre-cut with loop or head |
 | **Jump Rings** | Connecting components | $2–$8/pack | Easy to open/close |
-| **Beads (Glass/Crystal)** | Decoration | $5–$20/strand | Wide colors/shapes |
+| **Beads (Glass/Crystal)** | Decoration | $5–$20/strand | Wide colours/shapes |
 | **Chains** | Necklaces, extensions | $4–$15/meter | Metal or plated options |
 | **Earring Findings** | Attach to lobes | $3–$10/pair | Hooks, studs, clips |
 | **Clasps (Lobster, Toggle)** | Closures | $2–$10/pack | Functional and decorative |

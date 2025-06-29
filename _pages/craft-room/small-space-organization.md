@@ -45,7 +45,7 @@ seo:
 | Tip | Benefit |
 |-----|---------|
 | **Label everything** | Saves time and confusion |
-| **Color-code zones** | Faster location memory |
+| **Colour-code zones** | Faster location memory |
 | **Use clear containers** | Instantly visible supplies |
 | **Store by frequency** | Keep most-used items in reach |
 | **Rotate seasonally** | Swap decor or holiday materials |

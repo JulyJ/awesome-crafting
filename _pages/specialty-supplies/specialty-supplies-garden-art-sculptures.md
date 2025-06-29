@@ -18,7 +18,7 @@ seo:
 |----------|-------|
 | Weather-resistant Materials | Outdoor durability for garden art |
 | Rebar | Structural support for large sculptures |
-| Outdoor Paint | UV-resistant coloring |
+| Outdoor Paint | UV-resistant colouring |
 | Stainless Steel Wire | Rust-resistant armature material |
 | Garden Stakes | Support and anchor art pieces |
 | Outdoor Adhesives | Weather-resistant bonding |

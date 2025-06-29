@@ -19,7 +19,7 @@ seo:
 | Clear Glass Ornaments | Fillable bases for custom designs |
 | Ornament Caps | Metal tops with hanging loops |
 | Glitter | Sparkly interior decorations |
-| Acrylic Paint | Color glass and other surfaces |
+| Acrylic Paint | Colour glass and other surfaces |
 | Ribbon | Hanging loops and decorative bows |
 | Miniature Elements | Tiny decorations for inside ornaments |
 | Polymer Clay | Custom-shaped ornament creation |

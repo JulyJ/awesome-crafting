@@ -23,6 +23,6 @@ seo:
 | Image Transfer Medium | Move printed images onto surfaces |
 | Rub-On Transfers | Quick decorative elements and text |
 | Carbon Paper | Transfer hand-drawn designs |
-| Interference Colors | Color-shifting paints |
-| Iridescent Mediums | Add shimmer without changing base color |
+| Interference Colours | Colour-shifting paints |
+| Iridescent Mediums | Add shimmer without changing base colour |
 | Antiquing Glaze | Instant aging effects for vintage looks |

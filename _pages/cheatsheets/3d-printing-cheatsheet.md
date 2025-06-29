@@ -46,7 +46,7 @@ seo:
 | **Miniatures & Figurines** | Elegoo Mars 4 | High resolution, fast resin | ~$300 | Smooth, detailed prints |
 | **Functional Parts** | Prusa MK4 | Heated bed, PEI sheet, reliability | ~$800 | Tough materials, accuracy |
 | **Beginners on a Budget** | Ender 3 V3 SE | Easy to mod, affordable | ~$220 | Large community, reliable |
-| **Fast Prototyping** | Bambu P1P | Speed, multi-color, auto bed leveling | ~$600 | Fast prints, low effort |
+| **Fast Prototyping** | Bambu P1P | Speed, multi-colour, auto bed leveling | ~$600 | Fast prints, low effort |
 | **Jewelry & Molds** | Anycubic Photon M5s | 12K resolution, resin support | ~$500 | Crisp detail, small scale |
 
 ## Filament & Resin Materials

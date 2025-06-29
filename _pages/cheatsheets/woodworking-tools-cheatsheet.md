@@ -105,7 +105,7 @@ seo:
 | Technique | Tools Needed | Result |
 |----------|---------------|--------|
 | **Sanding** | Orbital sander or hand | Smooth surface |
-| **Staining** | Brush or rag | Color enhancement |
+| **Staining** | Brush or rag | Colour enhancement |
 | **Sealing** | Polyurethane, wax | Protection and shine |
 | **Painting** | Brush or spray | Custom looks |
 | **Burning (Pyrography)** | Woodburning tool | Artistic detailing |

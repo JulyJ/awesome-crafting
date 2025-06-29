@@ -76,8 +76,8 @@ seo:
 | Paint Type | Budget Performance | Premium Benefits | Verdict | Cost Difference |
 |------------|-------------------|------------------|---------|-----------------|
 | **Acrylic Craft Paint** | Adequate coverage | Better pigment, longevity | **SAVE** for experiments | 2-3x cost |
-| **Acrylic Artist Paint** | Weak color, poor mixing | Rich pigments, archival | **SPLURGE** for keepsakes | 4-5x cost |
-| **Wood Stain** | Uneven coverage | Consistent color | **SPLURGE** | 2x cost |
+| **Acrylic Artist Paint** | Weak colour, poor mixing | Rich pigments, archival | **SPLURGE** for keepsakes | 4-5x cost |
+| **Wood Stain** | Uneven coverage | Consistent colour | **SPLURGE** | 2x cost |
 | **Polyurethane** | Adequate protection | Durability, clarity | **SPLURGE** | 1.5x cost |
 | **Spray Paint** | Poor coverage, drips | Even coat, durability | **SPLURGE** | 2x cost |
 
@@ -89,7 +89,7 @@ seo:
 | **Gift Cards** | Mid-range cardstock | Special occasions | **MIXED** - recipient matters |
 | **Scrapbooking** | Acid-free basics | Archival memories | **SPLURGE** - longevity critical |
 | **Origami** | Thin practice paper | Display pieces | **MIXED** - fold precision needs |
-| **Watercolor** | Student grade | Serious artwork | **SPLURGE** - technique development |
+| **Watercolour** | Student grade | Serious artwork | **SPLURGE** - technique development |
 
 ### Adhesives - PERFORMANCE CRITICAL
 
@@ -109,7 +109,7 @@ seo:
 |----------------|----------------|-------------------|-------------------|
 | **Cotton Quilting** | Practice quilts, samples | Heirloom pieces | Thread count, pre-shrunk |
 | **Interfacing** | Simple projects | Structured garments | Weight consistency, adhesion |
-| **Thread** | Basting, temporary | Topstitching, quilting | Fiber quality, color-fastness |
+| **Thread** | Basting, temporary | Topstitching, quilting | Fiber quality, colour-fastness |
 | **Batting** | Craft projects | Bed quilts | Loft retention, washability |
 | **Elastic** | Temporary use | Garment construction | Recovery, durability |
 

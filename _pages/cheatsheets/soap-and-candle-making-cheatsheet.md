@@ -45,7 +45,7 @@ seo:
 | Tool/Material | Use | Notes |
 |---------------|-----|-------|
 | **Fragrance Oils** | Add scent | Use skin-safe for soap |
-| **Colorants** | Add visual appeal | Use candle/soap-safe dyes or mica |
+| **Colourants** | Add visual appeal | Use candle/soap-safe dyes or mica |
 | **Thermometer** | Monitor temp | Crucial for wax and lye |
 | **Scale** | Measure accurately | Use digital kitchen scale |
 | **Molds** | Shape candles or soap | Silicone preferred for easy release |
@@ -67,9 +67,9 @@ seo:
 
 ---
 
-## Fragrance & Colorant Usage
+## Fragrance & Colourant Usage
 
-| Medium | Fragrance Load | Recommended Colorants | Notes |
+| Medium | Fragrance Load | Recommended Colourants | Notes |
 |--------|----------------|------------------------|-------|
 | **Soap (M&P)** | 1–3% | Mica, liquid soap dye | Avoid overheating |
 | **Soap (Cold Process)** | 3–5% | Mica, natural clays | Fragrance may accelerate trace |
@@ -82,7 +82,7 @@ seo:
 
 1. **Cut** melt-and-pour base into cubes.  
 2. **Melt** in microwave or double boiler.  
-3. **Add** fragrance and color.  
+3. **Add** fragrance and colour.  
 4. **Pour** into molds.  
 5. **Let set** for 1–2 hours.  
 6. **Unmold**, wrap to preserve scent.
@@ -93,7 +93,7 @@ seo:
 
 1. **Melt wax** to 170–180°F.  
 2. **Add scent** at 150°F.  
-3. **Add colorant** if desired.  
+3. **Add colourant** if desired.  
 4. **Secure wick** in jar with sticker or glue.  
 5. **Pour wax** at 130–140°F.  
 6. **Cool** for 24 hours.  

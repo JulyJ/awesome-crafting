@@ -28,12 +28,12 @@ seo:
 | **Stitching Groover** | Grooves for stitching lines | Guides needle and thread |
 | **Pricking Irons / Chisels** | Mark stitching holes evenly | Various hole spacing options |
 | **Leather Needles** | For hand stitching | Blunt tip needles for durability |
-| **Waxed Thread** | Strong stitching thread | Available in various thicknesses/colors |
+| **Waxed Thread** | Strong stitching thread | Available in various thicknesses/colours |
 | **Mallet / Hammer** | Sets punches and stamps | Rawhide or poly mallet preferred |
 | **Burnishing Tools** | Smooths and seals edges | Wood or bone burnishers |
 | **Cutting Mat** | Protects surfaces | Self-healing mats recommended |
 | **Skiving Knife** | Thins leather edges | Useful for seams and folds |
-| **Leather Dye & Finish** | Colors and protects leather | Oil-based or water-based dyes |
+| **Leather Dye & Finish** | Colours and protects leather | Oil-based or water-based dyes |
 
 ---
 
@@ -57,7 +57,7 @@ seo:
 | **Cutting & Shaping** | Precision cutting and edge beveling | Cutting knife, edge beveler | Beginner |
 | **Hand Stitching (Saddle Stitch)** | Durable two-needle stitch | Pricking irons, needles, waxed thread | Intermediate |
 | **Edge Burnishing** | Smooth, sealed edges | Burnishing tool, water or gum tragacanth | Beginner |
-| **Leather Dyeing** | Coloring leather evenly | Dye, sponge/brush, gloves | Intermediate |
+| **Leather Dyeing** | Colouring leather evenly | Dye, sponge/brush, gloves | Intermediate |
 | **Tooling & Stamping** | Decorative patterns on veg-tan leather | Stamps, mallet | Intermediate |
 | **Skiving** | Thinning leather for folds | Skiving knife | Advanced |
 | **Hardware Installation** | Rivets, snaps, buckles | Hole punches, setters | Beginner-Intermediate |

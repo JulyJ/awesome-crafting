@@ -17,7 +17,7 @@ seo:
 | Material | Usage |
 |----------|-------|
 | Sculpey Premo | Professional-grade polymer clay with strength |
-| Fimo Professional | European clay for precise color mixing |
+| Fimo Professional | European clay for precise colour mixing |
 | Super Sculpey | Flesh-toned clay for figurines |
 | Liquid Sculpey | Adhesive and transfer medium |
 | Pasta Machine | Clay conditioning and sheet rolling |

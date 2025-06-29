@@ -115,7 +115,7 @@ seo:
 | **Sampler Quilt** | Multiple blocks | ⭐⭐⭐ | Cotton or batik |
 | **Modern Minimal Quilt** | Improv piecing | ⭐⭐ | Solids, linen |
 | **Memory Quilt** | T-shirt/fabric collage | ⭐⭐⭐ | Upcycled fabrics |
-| **Bargello Quilt** | Wave illusion | ⭐⭐⭐⭐ | Coordinated color |
+| **Bargello Quilt** | Wave illusion | ⭐⭐⭐⭐ | Coordinated colour |
 | **Appliqué Quilt** | Sew shapes onto base | ⭐⭐–⭐⭐⭐⭐ | Fusible or raw-edge |
 
 ---
@@ -152,7 +152,7 @@ seo:
 | **Home Décor Shops** | Boho/minimalist crowd | Lap quilts, throws |
 | **Craft Markets** | Quilt lovers | Small projects like coasters |
 | **Memory Commissions** | Bereaved families | Use personal clothing pieces |
-| **Online Stores (Etsy, Shopify)** | Global | Offer custom sizing/colors |
+| **Online Stores (Etsy, Shopify)** | Global | Offer custom sizing/colours |
 
 ---
 

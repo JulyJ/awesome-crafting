@@ -120,7 +120,7 @@ seo:
 | Technique | Description |
 |-----------|-------------|
 | **Fringe Brushing** | Use fine-tooth comb for fluffy edges |
-| **Dip Dyeing** | Color gradients with fiber-safe dye |
+| **Dip Dyeing** | Colour gradients with fiber-safe dye |
 | **Bead Insertion** | Add wood or glass beads mid-design |
 | **Cord Singeing** | Use heat to seal synthetic ends |
 | **Mounting** | Frame, dowel rod, or driftwood anchor |

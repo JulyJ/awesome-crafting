@@ -17,8 +17,8 @@ seo:
 | Material | Usage |
 |----------|-------|
 | Sheet Glass | Base material for cutting and shaping |
-| Cathedral Glass | Textured, translucent colored glass |
-| Opalescent Glass | Partially opaque with color variations |
+| Cathedral Glass | Textured, translucent coloured glass |
+| Opalescent Glass | Partially opaque with colour variations |
 | Lead Came | Traditional framework for stained glass |
 | Copper Foil | Tiffany technique for detailed work |
 | Soldering Iron | Join foil and lead came |

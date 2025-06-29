@@ -18,12 +18,12 @@ seo:
 |----------|-------|
 | Acrylic Paint | Versatile, water-based, quick drying |
 | Oil Paint | Traditional, slow drying, blendable |
-| Watercolor Paint | Transparent, water-based, luminous effects |
-| Gouache Paint | Opaque watercolor with matte finish |
+| Watercolour Paint | Transparent, water-based, luminous effects |
+| Gouache Paint | Opaque watercolour with matte finish |
 | Canvas Boards | Affordable painting surface for practice |
 | Stretched Canvas | Professional painting surface, various sizes |
-| Watercolor Paper | Textured paper designed for water media |
-| Palette Knife | Mix colors, apply paint, create textures |
+| Watercolour Paper | Textured paper designed for water media |
+| Palette Knife | Mix colours, apply paint, create textures |
 | Brush Set (Various Sizes) | Different brushes for different techniques |
 | Palette Paper | Disposable mixing surface for paints |
 | Easel | Support canvas while painting |

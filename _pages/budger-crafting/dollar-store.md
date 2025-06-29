@@ -40,10 +40,10 @@ seo:
 
 | Item Type | Typical Price | Best Uses | Quality Notes |
 |-----------|---------------|-----------|---------------|
-| Construction Paper Packs | $1.25 - $2.00 | Kids crafts, card making | Good color variety |
+| Construction Paper Packs | $1.25 - $2.00 | Kids crafts, card making | Good colour variety |
 | Cardstock | $1.25 - $3.00 | Invitations, sturdy projects | Decent weight |
 | Scrapbook Paper | $1.25 - $4.00 | Memory books, decorative projects | Patterns vary seasonally |
-| Tissue Paper | $1.25 - $2.00 | Flower making, gift wrapping | Lightweight, good colors |
+| Tissue Paper | $1.25 - $2.00 | Flower making, gift wrapping | Lightweight, good colours |
 | Specialty Papers | $2.00 - $4.00 | Metallic accents, themed projects | Limited selection |
 
 ### Adhesives & Fasteners
@@ -71,8 +71,8 @@ seo:
 | Supply Type | Quality Level | Best For | Price Range |
 |-------------|---------------|----------|-------------|
 | Acrylic Paints | Basic | General crafts, kids projects | $1.25 - $3.00 |
-| Markers | Good | Drawing, coloring | $1.25 - $4.00 |
-| Colored Pencils | Adequate | Detailed work, adult coloring | $1.25 - $3.00 |
+| Markers | Good | Drawing, colouring | $1.25 - $4.00 |
+| Coloured Pencils | Adequate | Detailed work, adult colouring | $1.25 - $3.00 |
 | Paintbrushes | Basic | Craft painting, touch-ups | $1.25 - $2.50 |
 | Foam Brushes | Good | Staining, base coats | $1.25 - $2.00 |
 
@@ -87,20 +87,20 @@ seo:
 
 ### Textiles & Fabric
 
-| Material | Colors/Patterns | Project Ideas | Price Range |
+| Material | Colours/Patterns | Project Ideas | Price Range |
 |----------|-----------------|---------------|-------------|
-| Felt Sheets | 20+ colors | Appliqué, kids crafts | $1.25 - $2.00 |
+| Felt Sheets | 20+ colours | Appliqué, kids crafts | $1.25 - $2.00 |
 | Fabric Scraps | Seasonal patterns | Quilting, mixed media | $1.25 - $3.00 |
-| Yarn | Basic colors | Simple knitting, pom-poms | $1.25 - $4.00 |
-| Embroidery Floss | Color packs | Hand stitching, friendship bracelets | $1.25 - $2.50 |
+| Yarn | Basic colours | Simple knitting, pom-poms | $1.25 - $4.00 |
+| Embroidery Floss | Colour packs | Hand stitching, friendship bracelets | $1.25 - $2.50 |
 
 ## Seasonal Craft Supply Calendar
 
 | Season | Best Finds | Typical Availability | Project Ideas |
 |--------|------------|---------------------|---------------|
-| **Spring** | Artificial flowers, pastel colors, garden items | March - May | Wreaths, centerpieces, garden crafts |
-| **Summer** | Bright colors, outdoor items, picnic supplies | June - August | Outdoor décor, beach crafts, BBQ decorations |
-| **Fall** | Autumn leaves, pumpkins, warm colors | September - November | Thanksgiving crafts, harvest décor |
+| **Spring** | Artificial flowers, pastel colours, garden items | March - May | Wreaths, centerpieces, garden crafts |
+| **Summer** | Bright colours, outdoor items, picnic supplies | June - August | Outdoor décor, beach crafts, BBQ decorations |
+| **Fall** | Autumn leaves, pumpkins, warm colours | September - November | Thanksgiving crafts, harvest décor |
 | **Winter** | Christmas ornaments, silver/gold, winter themes | December - February | Holiday decorations, gift wrapping |
 
 ## Quick Project Ideas by Supply Category
@@ -112,7 +112,7 @@ seo:
 | Greeting Cards | Cardstock, markers, stickers | Easy | 30 minutes |
 | Paper Flowers | Tissue paper, wire, glue | Medium | 1 hour |
 | Scrapbook Pages | Scrapbook paper, photos, adhesive | Easy | 45 minutes |
-| Origami Decorations | Colored paper, instructions | Medium | 20 minutes each |
+| Origami Decorations | Coloured paper, instructions | Medium | 20 minutes each |
 
 ### Container Transformation Projects
 
@@ -136,9 +136,9 @@ seo:
 
 | Item Category | What to Check | Red Flags |
 |---------------|---------------|-----------|
-| **Paper Products** | Thickness, color consistency | Thin, easily torn paper |
+| **Paper Products** | Thickness, colour consistency | Thin, easily torn paper |
 | **Adhesives** | Expiration dates, cap condition | Dried out, separated glue |
-| **Decorative Items** | Secure attachments, color fastness | Loose parts, fading |
+| **Decorative Items** | Secure attachments, colour fastness | Loose parts, fading |
 | **Containers** | Cracks, lid fit | Damaged seals, warping |
 
 ---

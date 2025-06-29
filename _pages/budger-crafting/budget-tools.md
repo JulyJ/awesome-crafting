@@ -89,7 +89,7 @@ seo:
 | Item | Quality Option | Price | Quantity Needed | Replacement Frequency |
 |------|----------------|-------|-----------------|----------------------|
 | **Needles** | Universal Pack | $3-6 | Variety pack | Annual |
-| **Thread** | Polyester Spools | $1-3 each | 10-15 colors | As needed |
+| **Thread** | Polyester Spools | $1-3 each | 10-15 colours | As needed |
 | **Pins** | Glass Head Pins | $4-8 | 100-200 pins | 2-3 years |
 | **Thimble** | Metal Adjustable | $3-7 | 1-2 sizes | Lifetime |
 | **Pincushion** | Tomato Style | $3-8 | 1 per workspace | 5+ years |

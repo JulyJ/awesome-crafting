@@ -6,13 +6,13 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [art, painting, supplies, cheatsheet, DIY, crafting, small-business]
-tags: [painting, acrylic, watercolor, canvas, brushes, art-supplies, mixed-media, small-business]
+tags: [painting, acrylic, watercolour, canvas, brushes, art-supplies, mixed-media, small-business]
 excerpt: "Explore essential painting supplies, techniques, and materials, from brushes and canvas types to paint formulas and studio setup. Great for hobbyists and creative entrepreneurs."
 seo:
   title: "Painting & Art Supplies Cheatsheet | Crafting Supply Hub"
   description: "Complete cheatsheet for painting tools, mediums, surfaces, and techniques for hobby and small business use."
   type: "article"
-  keywords: [painting, acrylic paint, watercolor, brushes, canvas, art techniques, studio setup]
+  keywords: [painting, acrylic paint, watercolour, brushes, canvas, art techniques, studio setup]
   canonical_url: "https://craftingsupply.ca/cheatsheets/painting-art-supplies/"
 ---
 
@@ -21,7 +21,7 @@ seo:
 | Paint Type | Base | Drying Time | Surface Compatibility | Skill Level | Notes |
 |------------|------|-------------|------------------------|-------------|-------|
 | **Acrylic** | Water-based | Fast (5–30 mins) | Canvas, wood, paper, fabric | ⭐⭐ | Versatile, beginner-friendly |
-| **Watercolor** | Water-based | Very fast (5–15 mins) | Watercolor paper | ⭐ | Transparent layers |
+| **Watercolour** | Water-based | Very fast (5–15 mins) | Watercolour paper | ⭐ | Transparent layers |
 | **Gouache** | Water-based | Medium (15–45 mins) | Paper, wood | ⭐⭐ | Matte, vibrant, reactivates |
 | **Oil** | Oil-based | Slow (days–weeks) | Canvas, board | ⭐⭐⭐ | Blendable, advanced handling |
 | **Tempera** | Water-based | Fast | Paper, cardboard | ⭐ | Best for kids or classroom |
@@ -32,11 +32,11 @@ seo:
 | Brush Type | Shape | Best Use | Works With |
 |------------|-------|----------|------------|
 | **Flat** | Square tip | Bold strokes, edges | Acrylic, oil |
-| **Round** | Pointed tip | Detail, lines | Watercolor, ink |
+| **Round** | Pointed tip | Detail, lines | Watercolour, ink |
 | **Filbert** | Rounded flat | Soft blending | Acrylic, oil |
 | **Fan** | Fanned bristles | Texture, blending skies | Acrylic, oil |
 | **Angular** | Slanted tip | Sharp lines, corners | All types |
-| **Detail/Liner** | Thin tip | Fine lines, signing | Watercolor, ink |
+| **Detail/Liner** | Thin tip | Fine lines, signing | Watercolour, ink |
 
 ## Canvas & Surfaces
 
@@ -44,7 +44,7 @@ seo:
 |---------|-----------|------|-------------|---------------|
 | **Stretched Canvas** | Acrylic, oil | $$ | None (pre-primed) | 8x10, 12x16, etc. |
 | **Canvas Panel** | Studies, beginners | $ | Optional | 5x7, 8x10 |
-| **Watercolor Paper** | Watercolor, gouache | $ | None | 140lb+ preferred |
+| **Watercolour Paper** | Watercolour, gouache | $ | None | 140lb+ preferred |
 | **Wood Panel** | Acrylic, oil, mixed | $$ | Gesso recommended | 6x6, 8x8, etc. |
 | **Mixed Media Paper** | All-in-one option | $ | None | Pads & loose sheets |
 | **Yupo Paper** | Alcohol inks | $$ | No absorbency | Slick surface |
@@ -54,21 +54,21 @@ seo:
 | Technique | Paint Type | Description | Difficulty |
 |-----------|------------|-------------|------------|
 | **Dry Brushing** | Acrylic, oil | Light texture | ⭐ |
-| **Wet-on-Wet** | Watercolor, oil | Soft blending | ⭐⭐ |
+| **Wet-on-Wet** | Watercolour, oil | Soft blending | ⭐⭐ |
 | **Scumbling** | Oil, acrylic | Scratchy, layered look | ⭐⭐ |
 | **Glazing** | Acrylic, oil | Transparent layering | ⭐⭐⭐ |
 | **Impasto** | Acrylic, oil | Thick texture | ⭐⭐ |
-| **Masking & Resist** | Watercolor | Protected white areas | ⭐⭐ |
+| **Masking & Resist** | Watercolour | Protected white areas | ⭐⭐ |
 
 ## Beginner-Friendly Projects
 
 | Project | Paint Type | Supplies Needed | Time | Profit Potential |
 |---------|------------|-----------------|------|------------------|
 | Mini Canvas Art | Acrylic | Canvas, 3 brushes | 1–2 hours | $10–25 |
-| Greeting Cards | Watercolor | Blank cards, brush pen | 1–2 hours | $5–15 |
+| Greeting Cards | Watercolour | Blank cards, brush pen | 1–2 hours | $5–15 |
 | Painted Rocks | Acrylic | Rocks, sealant | 30–90 mins | $5–12 each |
 | Art Prints | Any | Paper, scanner, print setup | 3–5 hours | $10–50/print |
-| Bookmarks | Watercolor/gouache | Paper scraps, brush | 1 hour | $2–10 each |
+| Bookmarks | Watercolour/gouache | Paper scraps, brush | 1 hour | $2–10 each |
 
 ## Intermediate to Advanced Projects
 
@@ -76,7 +76,7 @@ seo:
 |---------|--------|---------------|----------------|----------------|
 | Large Canvas | Acrylic/Oil | Composition, layering | $20–50 | $100–300 |
 | Portrait Painting | Oil/Gouache | Blending, proportion | $30–80 | $200–600 |
-| Custom Pet Art | Watercolor/Acrylic | Detail, likeness | $15–40 | $50–250 |
+| Custom Pet Art | Watercolour/Acrylic | Detail, likeness | $15–40 | $50–250 |
 | Mixed Media Panel | All types | Layering, adhesives | $20–50 | $60–200 |
 | Alcohol Ink Art | Alcohol Ink | Blending, control | $25–50 | $50–150 |
 
@@ -88,7 +88,7 @@ seo:
 | **Flow Improver** | Reduces drag | Acrylic | Fluid blending |
 | **Retarder** | Slows drying | Acrylic | More working time |
 | **Gesso** | Primer for surfaces | All | Preps canvas/wood |
-| **Masking Fluid** | Preserves whites | Watercolor | Peel after dry |
+| **Masking Fluid** | Preserves whites | Watercolour | Peel after dry |
 | **Linseed Oil** | Thinner & shine | Oil | Glossier, slower dry |
 
 ## Studio Setup Essentials
@@ -143,4 +143,4 @@ seo:
 | **Craftsy / Domestika** | Project-based | $10–60 per class | Great for hobbyists |
 
 ---
-*Painting turns blank surfaces into beauty. Whether you’re crafting for joy or profit, let your colors lead the way.*
+*Painting turns blank surfaces into beauty. Whether you’re crafting for joy or profit, let your colours lead the way.*

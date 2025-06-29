@@ -23,8 +23,8 @@ seo:
 | Wood Wicks | Crackling sound, wider flame |
 | Fragrance Oils | Scenting candles with various aromas |
 | Essential Oils | Natural scenting with aromatherapy benefits |
-| Candle Dye Blocks | Solid colorants for consistent color |
-| Liquid Candle Dye | Easy-mix liquid colorants |
+| Candle Dye Blocks | Solid colourants for consistent colour |
+| Liquid Candle Dye | Easy-mix liquid colourants |
 | Wick Stickers | Secure wicks to container bottoms |
 | Wick Bars | Hold wicks centered during pouring |
 | Double Boiler | Gentle, even wax melting |

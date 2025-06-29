@@ -44,10 +44,10 @@ seo:
 
 | Method | Ideal For | Tools |
 |--------|-----------|-------|
-| **By Craft Type** | Multi-crafters | Color-coded bins |
+| **By Craft Type** | Multi-crafters | Colour-coded bins |
 | **By Frequency** | Every setup | Front-row storage |
 | **By Material** | Supply-intensive crafters | Labeled drawers, shelves |
-| **Alphabetical/Color** | Paper, beads | Index boxes, bins |
+| **Alphabetical/Colour** | Paper, beads | Index boxes, bins |
 | **Digital Inventory** | Business makers | Airtable, Notion, spreadsheets |
 
 ---

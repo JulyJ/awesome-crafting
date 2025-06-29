@@ -24,7 +24,7 @@ seo:
 | Original Item | Condition Needed | Upcycling Potential | Skill Level Required |
 |---------------|------------------|---------------------|---------------------|
 | **Wooden Chairs** | Structurally sound | Painted designs, reupholstered seats | Beginner to Intermediate |
-| **Dressers/Nightstands** | Drawers functional | Color updates, hardware changes, decoupage | Beginner to Advanced |
+| **Dressers/Nightstands** | Drawers functional | Colour updates, hardware changes, decoupage | Beginner to Advanced |
 | **Bookcases** | Shelves intact | Paint, wallpaper backing, built-ins | Beginner to Intermediate |
 | **Coffee Tables** | Stable legs | Tile tops, paint, storage additions | Intermediate |
 | **Picture Frames** | Any condition | Gallery walls, mirrors, shadow boxes | Beginner |
@@ -103,7 +103,7 @@ seo:
 
 | Project Category | Unique Supplies | Cost Range | Skill Enhancement |
 |------------------|----------------|------------|-------------------|
-| **Furniture Refinishing** | Wood stain, polyurethane, brushes | $30-60 | Color matching, application techniques |
+| **Furniture Refinishing** | Wood stain, polyurethane, brushes | $30-60 | colour matching, application techniques |
 | **Fabric Upcycling** | Sewing machine, threads, patterns | $50-200 | Sewing skills, pattern reading |
 | **Metal Projects** | Rust remover, metal paint, wire | $20-45 | Surface preparation, welding basics |
 | **Glass Work** | Glass paint, etching cream, brushes | $15-35 | Stenciling, safety handling |
@@ -139,8 +139,8 @@ seo:
 | Technique | When to Use | Skill Level | Time Investment |
 |-----------|-------------|-------------|-----------------|
 | **Sanding** | Remove old finish | Beginner | 1-3 hours |
-| **Staining** | Change wood color | Beginner | 2-4 hours |
-| **Painting** | Complete color change | Beginner | 3-6 hours |
+| **Staining** | Change wood colour | Beginner | 2-4 hours |
+| **Painting** | Complete colour change | Beginner | 3-6 hours |
 | **Distressing** | Vintage appearance | Intermediate | 2-5 hours |
 | **Decoupage** | Add patterns/images | Beginner | 3-4 hours |
 
@@ -157,7 +157,7 @@ seo:
 
 | Method | Best For | Tools Needed | Expected Results |
 |--------|----------|--------------|------------------|
-| **Dyeing** | Color change | Dye, large pot | Complete transformation |
+| **Dyeing** | colour change | Dye, large pot | Complete transformation |
 | **Appliqué** | Adding designs | Sewing supplies | Decorative enhancement |
 | **Patchwork** | Combining pieces | Various fabrics | Unique patterns |
 | **Embroidery** | Personal touches | Needles, thread | Custom details |
@@ -179,7 +179,7 @@ seo:
 | Project Outcome | Success Indicators | Common Challenges |
 |-----------------|-------------------|-------------------|
 | **Functional Improvement** | Item works better than before | Overengineering, complexity |
-| **Aesthetic Enhancement** | Visually appealing result | Color matching, proportion |
+| **Aesthetic Enhancement** | Visually appealing result | colour matching, proportion |
 | **Cost Effectiveness** | Cheaper than buying new | Hidden material costs |
 | **Personal Satisfaction** | Pride in accomplishment | Perfectionism, comparison |
 | **Environmental Impact** | Diverted from landfill | Guilt over imperfect results |

@@ -23,6 +23,6 @@ seo:
 | New Hardware | Replace old knobs and handles |
 | Wood Filler | Repair holes and imperfections |
 | Fabric | Reupholster chairs and cushions |
-| Spray Paint | Quick color transformation |
+| Spray Paint | Quick colour transformation |
 | Stencils | Add patterns to repurposed items |
 | Distressing Tools | Create aged, vintage looks |
