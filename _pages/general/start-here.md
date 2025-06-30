@@ -11,17 +11,33 @@ seo:
   keywords: [start here, crafting, guide, supplies]
   canonical_url: "https://craftingsupply.ca/start-here/"
 ---
-Welcome! This page will help you get started with crafting, finding supplies, and using this site.
 
-## How to Use This Site
+Welcome! This page will help you get started with crafting, finding supplies, and making the most of Crafting Supply Hub.
 
-- **Search:** Use the [Search page](/search/) to quickly find posts, guides, and resources by keyword.
-- **Tags:** Explore topics by [Tags](/tags/). Tags help you discover related posts, such as [#canadian-made](/tags/canadian-made/), tools, DIY, and more.
-- **Navigation:** Use the sidebar or top navigation to browse categories like beginner guides, business tips, and specialty supplies.
-- **Categories:** Visit category pages (e.g., [Canadian-Made Materials](/categories/canadian-made/)) for curated lists and guides.
+## What You'll Find Here
 
-## Get Inspired
+- **Craft Supplies:** Learn how to choose, source, and compare materials for any project.
+- **Cheatsheets:** Quick reference guides for tools, techniques, and materials.
+- **Budget & Sustainable Crafting:** Tips for saving money and crafting with the planet in mind.
+- **Digital Crafting:** Explore digital tools, SVGs, and creative tech for modern makers.
+- **Crafting for Kids:** Safe, fun, and age-appropriate projects for children.
+- **Skill Building:** Tutorials, exercises, and resources to grow your skills at any level.
+- **Material Guides:** In-depth guides to help you pick the right materials for your craft.
+- **Craft Room Organization:** Ideas for organizing your space, tools, and supplies.
+- **Craft Business:** Resources for selling, marketing, and running a creative business.
+- **Inspiration:** Creative prompts, moodboards, and stories to spark your next project.
 
-- Use the [Start Here](/start-here/) page as your launchpad for all things crafting!
+## How to Get Started
+
+1. **Browse the sidebar or top navigation** to jump into any section that interests you.
+2. **Use [Search](/search/)** to find specific topics, guides, or answers fast.
+3. **Check out [Tags](/tags/)** for curated lists of related content.
+4. **Read our [About](/about/)** page to learn more about the project and how to contribute.
+
+## New to Crafting?
+
+- Start with beginner-friendly guides in each section.
+- Look for tips, checklists, and project ideas marked for beginners.
+- Don’t hesitate to ask questions or suggest new topics!
 
 Happy crafting! If you have questions or suggestions, visit our [About](/about/) page to get in touch.

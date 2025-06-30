@@ -1,26 +1,41 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: single
 title: "Welcome to Crafting Supply Hub!"
 excerpt: "Your source for crafting supplies, DIY ideas, and creative inspiration."
 sidebar:
   nav: side
 ---
-Welcome to **Crafting Supply Hub**, an open source resource for crafters in Canada and beyond!
+Your open source resource for crafters in Canada and beyond, no ads, no paid posts, just community-driven, unbiased information and inspiration.
 
-We run **no ads** and accept **no paid posts**. Everything here is community-driven and unbiased.
+**How to use this site:**
 
-This hub is open source and built by volunteers. You can contribute, suggest edits, or just enjoy the resources!
+- Browse by topic below or use the search to find exactly what you need.
+- Every section is curated and regularly updated by volunteers.
+- Want to contribute? Check out our [Contributing Guide](/CONTRIBUTING.md).
 
-**Pick a place to start:**
+## Explore Our Main Sections
 
-- [Start Here](/start-here/)
+| Section | Description |
+|---------|-------------|
+| [Start Here](/start-here/) | New to the site? Start here for an overview and how-to. |
+| [Craft Supplies](/categories/craft-supplies/) | Find materials, suppliers, and product guides. |
+| [Craft Cheatsheets](/cheatsheets/) | Quick reference guides for every craft. |
+| [Budget Crafting](/categories/budget-crafting/) | Save money with budget tips and affordable projects. |
+| [Sustainable Crafting](/categories/sustainable-crafting/) | Eco-friendly materials, methods, and ideas. |
+| [Digital Crafting](/categories/digital-crafting/) | Explore digital tools, SVGs, and tech for crafters. |
+| [Crafting for Kids](/categories/crafting-for-kids/) | Fun, safe, and creative projects for children. |
+| [Skill Building](/skill-building/) | Improve your skills with tutorials and exercises. |
+| [Material Guides](/material-guides/) | In-depth guides to popular crafting materials. |
+| [Craft Room Organization](/categories/craft-room/) | Organize your space for maximum creativity. |
+| [Craft Business](/categories/business/) | Tips and resources for running a craft business. |
+| [Inspiration](/categories/inspiration/) | Get inspired with prompts, moodboards, and stories. |
+
+**Other useful links:**
+
 - [Search](/search/)
-- [Craft Supplies](/categories/craft-supplies/)
-- [Craft Cheatsheets](/cheatsheets/)
-- [Budget Crafting](/categories/budget-crafting/)
-- [Sustainable Crafting](/categories/sustainable-crafting/)
-- [Craft Room Organization](/categories/craft-room/)
-- [Craft Business](/categories/business/)
+- [Tags](/tags/)
+- [About](/about/)
+
+---
+
+*Crafting Supply Hub is open source and built by volunteers. You can contribute, suggest edits, or just enjoy the resources!*
