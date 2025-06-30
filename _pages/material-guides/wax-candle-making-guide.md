@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-29
 categories: [craft-supplies, candle-making]
-tags: [candle wax, candle making, wax types, candle supplies, beginner candle making]
+tags: [candle wax, candle making, wax types, candle supplies, beginner candle making, beginner-friendly]
 excerpt: "Complete guide to candle making materials. Learn about different wax types, wick selection, fragrance oils, and essential supplies for creating professional candles."
 seo:
   title: "Complete Candle Making Material Guide"

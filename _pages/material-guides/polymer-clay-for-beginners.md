@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-29
 categories: [craft-supplies, clay]
-tags: [polymer clay, oven bake clay, clay crafts, beginner clay, clay types]
+tags: [polymer clay, oven bake clay, clay crafts, beginner clay, clay types, beginner-friendly]
 excerpt: "Complete guide to polymer clay as a craft material. Learn about different brands, working properties, baking temperatures, and which clay suits your projects best."
 seo:
   title: "Beginner's Guide to Polymer Clay Materials"

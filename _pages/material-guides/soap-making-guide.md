@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-29
 categories: [craft-supplies, soap-making]
-tags: [soap making, lye, saponification, soap oils, cold process soap, melt and pour]
+tags: [soap making, lye, saponification, soap oils, cold process soap, melt and pour, beginner-friendly]
 excerpt: "Complete guide to soap making materials. Learn about oils, lye, additives, and essential supplies for creating handmade soap safely and successfully."
 seo:
   title: "Complete Soap Making Material Guide"

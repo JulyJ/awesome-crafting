@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [craft-room, tools, storage]
-tags: [tool organization, pegboards, drawers, mobile carts, craft storage]
+tags: [tool-organization, crafting, cutting-tips, beginner, miniatures, heat-transfer-vinyl, pegboards, drawers, mobile carts, craft storage]
 excerpt: "Keep your tools at your fingertips with smart storage systems, from pegboards to rolling carts, that support your creative flow."
 seo:
   title: "Tool Storage Systems | Crafting Supply Hub"

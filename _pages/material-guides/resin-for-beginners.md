@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-29
 categories: [craft-supplies, resin]
-tags: [resin crafting, epoxy resin, UV resin, beginner resin, resin types]
+tags: [resin crafting, epoxy resin, UV resin, beginner resin, resin types, beginner-friendly]
 excerpt: "Complete guide to resin as a craft material. Learn about epoxy vs UV resin properties, working characteristics, and which type suits your projects best."
 seo:
   title: "Beginner's Guide to Craft Resin Materials"

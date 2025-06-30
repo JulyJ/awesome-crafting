@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-29
 categories: [business, events, craft-fairs]
-tags: [craft fairs, market prep, craft booth, vendor checklist, craft sale tips]
+tags: [crafting, tool-organization, cutting-tips, beginner, miniatures, heat-transfer-vinyl, craft fairs, market prep, craft booth, vendor checklist, craft sale tips]
 excerpt: "Heading to a craft fair? Use this checklist to prep like a pro, know what to pack, how to price, and how to set up a booth that brings in sales."
 seo:
   title: "Craft Fair Checklist | Prepare for Craft Shows with Confidence"

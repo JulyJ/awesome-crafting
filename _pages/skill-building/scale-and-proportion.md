@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-29
 categories: [skill-building, design-principles, fundamentals]
-tags: [scale, proportion, design, craft-planning, visual-balance, layout-techniques]
+tags: [scale, proportion, design, craft-planning, visual-balance, layout-techniques, beginner-friendly]
 excerpt: "Learn how scale and proportion influence the visual impact and functionality of your crafts. Whether you’re designing miniatures, decor, or wearables, understanding these principles can transform your work."
 seo:
   title: "Understanding Scale & Proportion | Essential Craft Design Principles"

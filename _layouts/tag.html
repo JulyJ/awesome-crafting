@@ -5,12 +5,59 @@ permalink: /tags/{{ page.tag | slugify }}/
 sidebar:
   nav: side
 ---
-<h2>Posts tagged with <span style="color:#0074d9">#{{ page.tag }}</span></h2>
-<ul>
-  {% assign tag = page.tag %}
-  {% for post in site.posts %}
-    {% if post.tags contains tag %}
+<p>Explore posts and pages by tag. Click a tag to see all related content.</p>
+
+<!-- Popular Tags Section -->
+<div class="popular-tags" style="margin-bottom:2em; padding:0.5em 0;">
+  <strong>Popular Tags:</strong>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/crafting/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#crafting</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/tool-organization/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#tool organization</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/cutting-tips/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#cutting-tips</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/beginner/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#beginner</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/miniatures/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#miniatures</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/heat-transfer-vinyl/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#heat transfer vinyl</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/DIY/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#DIY</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/small-business/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#small-business</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/upcycling/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#upcycling</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/embroidery/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#embroidery</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/jewelry/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#jewelry</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/eco-crafting/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#eco-crafting</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/resin/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#resin</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/sewing/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#sewing</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/painting/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#painting</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/budget-tools/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#budget-tools</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/craft-supplies/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#craft-supplies</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/personalization/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#personalization</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/beginner-friendly/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#beginner-friendly</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/creative-block/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#creative-block</a></span>
+  <span style="display:inline-block; margin:0 0.5em 0.5em 0;"><a href="/tags/craft-room/" class="tag-link" style="background:#f3f3f3; border-radius:16px; padding:0.3em 1em; text-decoration:none; color:#0074d9; font-weight:500;">#craft-room</a></span>
+</div>
+
+<h2>Content tagged with <span style="color:#0074d9">#{{ page.tag }}</span></h2>
+
+{% assign tag = page.tag %}
+
+{% assign tagged_posts = site.posts | where_exp: "post", "post.tags contains tag" %}
+{% assign tagged_pages = site.pages | where_exp: "p", "p.tags contains tag" %}
+
+{% if tagged_posts.size > 0 %}
+  <h3 style="margin-top:2em;">Posts</h3>
+  <ul>
+    {% for post in tagged_posts %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{% if tagged_pages.size > 0 %}
+  <h3 style="margin-top:2em;">Pages</h3>
+  <ul>
+    {% for page in tagged_pages %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{% if tagged_posts.size == 0 and tagged_pages.size == 0 %}
+  <p>No content found for this tag.</p>
+{% endif %}

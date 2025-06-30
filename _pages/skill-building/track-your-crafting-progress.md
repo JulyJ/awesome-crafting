@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-29
 categories: [skill-building, organization, practice]
-tags: [craft journals, progress tracking, practice logs, creative routine, improvement tools, habit building]
+tags: [craft journals, progress tracking, practice logs, creative routine, improvement tools, habit building, beginner-friendly]
 excerpt: "Get better at your craft by tracking what you make. Use creative journals, practice logs, and printable sheets to build habits, measure growth, and stay motivated."
 seo:
   title: "Craft Progress Tracking | Journals, Logs, and Practice Sheets"
