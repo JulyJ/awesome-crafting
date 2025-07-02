@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-27
 categories: [cutting-machines, cricut, cheatsheet, DIY, crafting, small-business]
-tags: [cricut, silhouette, cutting-machine, vinyl, crafting, personalization, small-business, design-space]
+tags: [cricut, silhouette, cutting-machine, vinyl, crafting, personalization, small-business, design-space, cheatsheet]
 excerpt: "Complete cheatsheet for Cricut and cutting machines in crafting and small business. From choosing your first machine to mastering Design Space, materials, and profitable project ideas with detailed comparison tables and skill-building progressions."
 seo:
   title: "Cricut & Cutting Machines Cheatsheet | Crafting Supply Hub"

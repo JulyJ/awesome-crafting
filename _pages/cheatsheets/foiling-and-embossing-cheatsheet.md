@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [foiling, embossing, cheatsheet, crafting, DIY, small-business]
-tags: [foiling, embossing, heat foil, cold foil, embossing powders, crafting, personalization]
+tags: [foiling, embossing, heat foil, cold foil, embossing powders, crafting, personalization, cheatsheet]
 excerpt: "Comprehensive cheatsheet for foiling and embossing techniques for crafters and small businesses. Learn tools, materials, project ideas, and tips to add professional shine and texture to your creations."
 seo:
   title: "Foiling & Embossing Cheatsheet | Crafting Supply Hub"

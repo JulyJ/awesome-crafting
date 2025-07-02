@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [HTV, vinyl, cheatsheet, crafting, DIY, small-business]
-tags: [heat transfer vinyl, HTV, vinyl cutting, crafting, personalization, apparel, DIY]
+tags: [heat transfer vinyl, HTV, vinyl cutting, crafting, personalization, apparel, DIY, cheatsheet]
 excerpt: "Complete cheatsheet for Heat Transfer Vinyl (HTV) in crafting and small business. Learn types, tools, application techniques, and project ideas with comparison tables and tips."
 seo:
   title: "Heat Transfer Vinyl Cheatsheet | Crafting Supply Hub"

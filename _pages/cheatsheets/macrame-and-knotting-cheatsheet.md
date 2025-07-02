@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [macrame, fiber-art, cheatsheet, DIY, crafting, home-decor]
-tags: [macrame, knots, wall hangings, fiber art, boho, cords, DIY decor]
+tags: [macrame, knots, wall hangings, fiber art, boho, cords, DIY decor, cheatsheet]
 excerpt: "Explore the world of macramé and decorative knotting in this beginner-friendly cheatsheet. Learn knots, materials, tools, and project ideas in an easy-to-reference format."
 seo:
   title: "Macramé & Knotting Cheatsheet | Crafting Supply Hub"

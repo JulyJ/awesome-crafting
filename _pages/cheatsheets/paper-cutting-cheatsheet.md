@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [paper-crafting, cheatsheet, DIY, crafting, stationery, small-business]
-tags: [paper, cardstock, papercraft, origami, scrapbooking, journaling, die-cutting, crafting, small-business]
+tags: [paper, cardstock, papercraft, origami, scrapbooking, journaling, die-cutting, crafting, small-business, cheatsheet]
 excerpt: "From beginner scrapbooking to high-end papercut art, this cheatsheet breaks down everything you need to know about paper crafting. Learn materials, tools, business tips, and project ideas across skill levels."
 seo:
   title: "Paper Crafting Cheatsheet | Crafting Supply Hub"
