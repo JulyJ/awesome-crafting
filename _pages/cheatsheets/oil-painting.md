@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [painting, oil, art, DIY, guides]
-tags: [oil painting, brushes, mediums, solvents, layering, beginner oil art, traditional painting]
+tags: [oil painting, brushes, mediums, solvents, layering, beginner oil art, traditional painting, cheatsheet]
 excerpt: "Your ultimate oil painting reference guide—covering materials, solvents, layering rules, techniques, and safety tips for beginners and studio artists alike."
 seo:
   title: "Oil Painting Cheatsheet | Crafting Supply Hub"

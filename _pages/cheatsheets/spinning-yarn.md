@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [fiber-arts, crafts, spinning, DIY]
-tags: [spinning yarn, fiber arts, wool, spinning wheel, drop spindle]
+tags: [spinning yarn, fiber arts, wool, spinning wheel, drop spindle, cheatsheet]
 excerpt: "Essential guide to spinning yarn including fiber types, tools, spinning methods, and tips for beginners and advanced spinners."
 seo:
   title: "Spinning Yarn Cheatsheet | Crafting Supply Hub"

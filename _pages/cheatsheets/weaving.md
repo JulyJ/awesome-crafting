@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [fiber-arts, weaving, DIY, crafts, textiles, guides]
-tags: [weaving, loom weaving, fiber arts, yarn types, tapestry, beginner weaving, textile crafts]
+tags: [weaving, loom weaving, fiber arts, yarn types, tapestry, beginner weaving, textile crafts, cheatsheet]
 excerpt: "Complete weaving cheatsheet covering looms, yarn types, patterns, tools, techniques, project ideas, and finishing tips. Ideal for beginners and fiber art enthusiasts."
 seo:
   title: "Weaving Cheatsheet | Crafting Supply Hub"

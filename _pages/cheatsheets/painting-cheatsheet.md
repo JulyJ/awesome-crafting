@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [art, painting, supplies, cheatsheet, DIY, crafting, small-business]
-tags: [painting, acrylic, watercolour, canvas, brushes, art-supplies, mixed-media, small-business]
+tags: [painting, acrylic, watercolour, canvas, brushes, art-supplies, mixed-media, small-business, cheatsheet]
 excerpt: "Explore essential painting supplies, techniques, and materials, from brushes and canvas types to paint formulas and studio setup. Great for hobbyists and creative entrepreneurs."
 seo:
   title: "Painting & Art Supplies Cheatsheet | Crafting Supply Hub"

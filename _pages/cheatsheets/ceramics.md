@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [ceramics, advanced-pottery, technical-ceramics, industrial-ceramics, cheatsheet, kiln-technology, ceramic-chemistry]
-tags: [ceramic-materials, advanced-glazing, kiln-atmosphere, ceramic-engineering, refractory, porcelain, technical-ceramics, ceramic-chemistry]
+tags: [ceramic-materials, advanced-glazing, kiln-atmosphere, ceramic-engineering, refractory, porcelain, technical-ceramics, ceramic-chemistry, cheatsheet]
 excerpt: "Advanced guide to ceramics covering technical aspects, industrial applications, advanced glazing, kiln atmosphere control, and ceramic material science."
 seo:
   title: "Ceramics Cheatsheet | Crafting Supply Hub"

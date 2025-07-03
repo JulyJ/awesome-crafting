@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [quilling, paper-filigree, paper-crafts, cheatsheet, DIY, paper-rolling, handmade]
-tags: [paper-quilling, filigree, coiling, paper-strips, quilling-tools, rolled-paper, decorative-art]
+tags: [paper-quilling, filigree, coiling, paper-strips, quilling-tools, rolled-paper, decorative-art, cheatsheet]
 excerpt: "Complete guide to paper quilling with essential tools, techniques, and shapes for creating beautiful filigree art and decorative paper designs."
 seo:
   title: "Quilling Cheatsheet | Crafting Supply Hub"

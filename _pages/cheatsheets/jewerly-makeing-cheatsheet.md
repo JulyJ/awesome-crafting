@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [jewelry-making, cheatsheet, DIY, crafting, small-business]
-tags: [jewelry, handmade, beads, wire-wrapping, resin, polymer-clay, accessories, small-business]
+tags: [jewelry, handmade, beads, wire-wrapping, resin, polymer-clay, accessories, small-business, cheatsheet]
 excerpt: "Explore the art and business of handmade jewelry. This cheatsheet covers beginner-friendly techniques, tools, materials, and business tips with comparison tables and product ideas for crafters and aspiring sellers."
 seo:
   title: "Jewelry Making Cheatsheet | Crafting Supply Hub"

@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [floral, crafts, flowers, cheatsheet, tools, DIY, arrangements]
-tags: [flower-arranging, dried-flowers, silk-flowers, wreaths, bouquets, floral-foam, botanical]
+tags: [flower-arranging, dried-flowers, silk-flowers, wreaths, bouquets, floral-foam, botanical, cheatsheet]
 excerpt: "Complete guide to floral crafts with essential techniques, materials, and tools for fresh, dried, and artificial flower arrangements. Perfect for hobbyists and aspiring florists."
 seo:
   title: "Floral Crafts Cheatsheet | Crafting Supply Hub"

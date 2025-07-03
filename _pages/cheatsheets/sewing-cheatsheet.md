@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [sewing, fabric, cheatsheet, tools, DIY, crafting, small-business]
-tags: [sewing, fabric, tools, quilting, embroidery, fashion, DIY, small-business]
+tags: [sewing, fabric, tools, quilting, embroidery, fashion, DIY, small-business, cheatsheet, sewing]
 excerpt: "A complete cheatsheet to essential sewing tools and fabric types for DIY sewing, quilting, fashion, and craft projects. Includes beginner-to-pro tables, comparison charts, and business opportunities."
 seo:
   title: "Sewing Cheatsheet | Crafting Supply Hub"

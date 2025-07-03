@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [painting, watercolour, art, DIY, guides]
-tags: [watercolour, painting, brush techniques, colour mixing, beginner art, art tools, water media]
+tags: [watercolour, painting, brush techniques, colour mixing, beginner art, art tools, water media, cheatsheet]
 excerpt: "Complete watercolour painting cheatsheet with guides on materials, techniques, brush types, colour mixing, and beginner project ideas. Perfect for new and aspiring watercolour artists."
 seo:
   title: "Watercolour Painting Cheatsheet | Crafting Supply Hub"

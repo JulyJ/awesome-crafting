@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [crochet, yarn-crafts, fiber-arts, cheatsheet, DIY, handmade, hook-work]
-tags: [crochet-patterns, yarn-weights, crochet-hooks, stitches, gauge, granny-squares, amigurumi, tapestry-crochet]
+tags: [crochet-patterns, yarn-weights, crochet-hooks, stitches, gauge, granny-squares, amigurumi, tapestry-crochet, cheatsheet]
 excerpt: "Complete guide to crochet with essential tools, techniques, yarn weights, and stitch patterns for creating beautiful crocheted garments and accessories."
 seo:
   title: "Crochet Cheatsheet | Crafting Supply Hub"

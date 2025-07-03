@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [modeling, crafts, scale-models, DIY, miniatures]
-tags: [scale models, model kits, miniature building, painting, assembly]
+tags: [scale models, model kits, miniature building, painting, assembly, cheatsheet]
 excerpt: "A complete guide to scale modeling, covering common scales, essential tools, materials, painting, and assembly techniques for hobbyists and professionals."
 seo:
   title: "Scale Models Cheatsheet | Crafting Supply Hub"

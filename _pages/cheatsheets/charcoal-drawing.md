@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [drawing, charcoal, art, crafts]
-tags: [charcoal drawing, drawing techniques, art supplies, sketching]
+tags: [charcoal drawing, drawing techniques, art supplies, sketching, cheatsheet]
 excerpt: "Essential guide to charcoal drawing including tools, techniques, paper types, and troubleshooting tips for artists of all levels."
 seo:
   title: "Charcoal Drawing Cheatsheet | Crafting Supply Hub"

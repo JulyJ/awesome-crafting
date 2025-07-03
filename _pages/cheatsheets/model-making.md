@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [modeling, hobby, miniatures, cheatsheet, tools, DIY, crafts]
-tags: [plastic-models, scale-models, miniatures, painting, weathering, dioramas, kits]
+tags: [plastic-models, scale-models, miniatures, painting, weathering, dioramas, kits, cheatsheet]
 excerpt: "Complete guide to model making with essential tools, techniques, and materials for plastic models, miniatures, and dioramas. Perfect for beginners and experienced modelers alike."
 seo:
   title: "Model Making Cheatsheet | Crafting Supply Hub"

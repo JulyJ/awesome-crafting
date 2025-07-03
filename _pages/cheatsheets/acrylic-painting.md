@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [painting, acrylic, art, DIY, guides]
-tags: [acrylic, painting, art techniques, beginner art, brushes, canvas painting, colour mixing]
+tags: [acrylic, painting, art techniques, beginner art, brushes, canvas painting, colour mixing, cheatsheet]
 excerpt: "Master acrylic painting with this all-in-one cheatsheet featuring paint types, surfaces, brush guides, layering techniques, colour theory, and beginner-friendly project ideas."
 seo:
   title: "Acrylic Painting Cheatsheet | Crafting Supply Hub"

@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [fabric-crafts, embossing, DIY, textile-art]
-tags: [embossing, fabric embossing, textile embossing, heat embossing, craft techniques, cheatsheet/charcoal-drawing]
+tags: [embossing, fabric embossing, textile embossing, heat embossing, craft techniques, cheatsheet, charcoal-drawing]
 excerpt: "Complete guide to embossing on fabric, covering essential tools, techniques, materials, and project ideas for creative textile art."
 seo:
   title: "Embossing on Fabric Cheatsheet | Crafting Supply Hub"

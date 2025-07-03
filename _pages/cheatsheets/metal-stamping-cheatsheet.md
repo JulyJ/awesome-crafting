@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [metalworking, jewelry, cheatsheet, DIY, tools, small-business]
-tags: [metal stamping, jewelry, blanks, personalization, craft tools, engraving, hand tools]
+tags: [metal stamping, jewelry, blanks, personalization, craft tools, engraving, hand tools, cheatsheet]
 excerpt: "A complete cheatsheet to metal stamping for crafters and small businesses. Discover tools, techniques, metal types, and product ideas in this hands-on art of personalization."
 seo:
   title: "Metal Stamping Cheatsheet | Crafting Supply Hub"

@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [textiles, crafts, dyeing, DIY, traditional]
-tags: [shibori, fabric dyeing, Japanese crafts, resist dyeing, indigo dye]
+tags: [shibori, fabric dyeing, Japanese crafts, resist dyeing, indigo dye, cheatsheet]
 excerpt: "A detailed guide to Shibori, the Japanese resist dyeing technique. Learn about fabric choices, folding methods, dye types, tools, and care tips for stunning results."
 seo:
   title: "Shibori Cheatsheet | Crafting Supply Hub"

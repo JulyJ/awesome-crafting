@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [floral, wreaths, crafts, DIY, botanical, home-decor]
-tags: [wreath making, floral wreaths, seasonal crafts, DIY wreath, home decor, dried flowers, base forms]
+tags: [wreath making, floral wreaths, seasonal crafts, DIY wreath, home decor, dried flowers, base forms, cheatsheet]
 excerpt: "Master wreath making with this detailed guide covering base types, seasonal materials, floral styles, tools, techniques, and beginner project ideas."
 seo:
   title: "Wreath Making Cheatsheet | Crafting Supply Hub"

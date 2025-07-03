@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [soap, candle, cheatsheet, DIY, crafting, small-business]
-tags: [soap making, candle making, melt and pour, cold process, wax, wicks, fragrance, crafting, handmade]
+tags: [soap making, candle making, melt and pour, cold process, wax, wicks, fragrance, crafting, handmade, cheatsheet]
 excerpt: "Beginner to advanced cheatsheet for making candles and soaps. Learn materials, techniques, safety, and business tips through structured tables and expert recommendations."
 seo:
   title: "Soap & Candle Making Cheatsheet | Crafting Supply Hub"

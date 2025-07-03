@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [knitting, yarn-crafts, fiber-arts, cheatsheet, DIY, handmade, needlework]
-tags: [knitting-patterns, yarn-weights, knitting-needles, stitches, gauge, blocking, cable-knitting, colourwork]
+tags: [knitting-patterns, yarn-weights, knitting-needles, stitches, gauge, blocking, cable-knitting, colourwork, cheatsheet]
 excerpt: "Complete guide to knitting with essential tools, techniques, yarn weights, and stitch patterns for creating beautiful handknitted garments and accessories."
 seo:
   title: "Knitting Cheatsheet | Crafting Supply Hub"

@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [woodworking, carving, DIY, crafts, art, guides]
-tags: [wood carving, whittling, wood sculpture, carving tools, beginner carving, techniques]
+tags: [wood carving, whittling, wood sculpture, carving tools, beginner carving, techniques, cheatsheet]
 excerpt: "Complete wood carving cheatsheet covering essential tools, carving styles, wood types, safety tips, techniques, finishing options, and starter project ideas for all skill levels."
 seo:
   title: "Wood Carving Cheatsheet | Crafting Supply Hub"

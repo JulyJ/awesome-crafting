@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [quilting, sewing, textile, patchwork, cheatsheet, DIY, crafting]
-tags: [quilting, patchwork, sewing, fabric art, textile design, DIY quilts, handmade]
+tags: [quilting, patchwork, sewing, fabric art, textile design, DIY quilts, handmade, cheatsheet]
 excerpt: "A complete cheatsheet-style guide for beginners and intermediate quilters. Learn essential tools, materials, techniques, and quilt project ideas for modern and traditional patchwork."
 seo:
   title: "Quilting & Patchwork Cheatsheet | Crafting Supply Hub"

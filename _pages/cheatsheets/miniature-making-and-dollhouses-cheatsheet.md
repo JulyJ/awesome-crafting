@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [miniatures, dollhouses, cheatsheet, DIY, crafting, scale-models]
-tags: [miniatures, dollhouses, diorama, scale modeling, hobby crafts, crafting]
+tags: [miniatures, dollhouses, diorama, scale modeling, hobby crafts, crafting, cheatsheet]
 excerpt: "From hobby crafting to collector pieces, this cheatsheet to miniature making and dollhouses includes tools, materials, scale tips, and project ideas for crafters of all levels."
 seo:
   title: "Miniature Making & Dollhouses Cheatsheet | Crafting Supply Hub"

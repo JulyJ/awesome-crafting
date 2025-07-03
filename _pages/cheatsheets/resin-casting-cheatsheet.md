@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [resin, epoxy, casting, crafting, DIY, small-business]
-tags: [resin casting, epoxy art, molds, curing, crafting, jewelry, coatings]
+tags: [resin casting, epoxy art, molds, curing, crafting, jewelry, coatings, cheatsheet]
 excerpt: "Complete guide to resin casting and epoxy art. Learn about materials, tools, mixing ratios, curing, safety tips, and creative project ideas with step-by-step guidance."
 seo:
   title: "Resin Casting & Epoxy Art | Crafting Supply Hub"

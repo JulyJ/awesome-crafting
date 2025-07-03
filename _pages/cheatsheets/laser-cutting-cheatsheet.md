@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-27
 categories: [laser-cutting, cheatsheet, DIY, technology, small-business]
-tags: [laser-cutter, precision-cutting, engraving, crafting, maker, small-business, digital-fabrication]
+tags: [laser-cutter, precision-cutting, engraving, crafting, maker, small-business, digital-fabrication, cheatsheet]
 excerpt: "Complete cheatsheet for laser cutters in crafting and small business. From choosing your first machine to advanced techniques, materials, and profitable project ideas with organized comparison tables and skill-building progressions."
 seo:
   title: "Laser Cutting Cheatsheet | Crafting Supply Hub"

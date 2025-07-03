@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [glass-fusing, kiln-forming, warm-glass, fused-glass, cheatsheet, DIY, handmade, glass-crafts]
-tags: [glass-fusing-tools, kiln, compatible-glass, firing-schedules, slumping, tack-fusing, full-fusing, COE]
+tags: [glass-fusing-tools, kiln, compatible-glass, firing-schedules, slumping, tack-fusing, full-fusing, COE, cheatsheet]
 excerpt: "Complete guide to glass fusing with essential tools, compatible glass types, firing schedules, temperatures, and techniques for creating beautiful fused glass artwork."
 seo:
   title: "Glass Fusing Cheatsheet | Crafting Supply Hub"

@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [stamp-carving, tools, DIY, crafting, small-business]
-tags: [stamp carving, rubber stamps, linocut, carving tools, DIY, personalization, craft supplies]
+tags: [stamp carving, rubber stamps, linocut, carving tools, DIY, personalization, craft supplies, cheatsheet]
 excerpt: "Complete guide to stamp carving tools and techniques for crafters and small businesses. Learn about essential carving tools, materials, project ideas, and maintenance tips with detailed tables."
 seo:
   title: "Stamp Carving Tools & Techniques | Crafting Supply Hub"

@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [leathercraft, cheatsheet, DIY, crafting, small-business]
-tags: [leathercraft, leather tools, hand stitching, leatherworking, craft supplies, small business]
+tags: [leathercraft, leather tools, hand stitching, leatherworking, craft supplies, small business, cheatsheet]
 excerpt: "Comprehensive cheatsheet for leathercraft tools, techniques, materials, and business ideas. Master hand stitching, cutting, tooling, and finishing for handmade leather goods."
 seo:
   title: "Leathercraft Cheatsheet | Crafting Supply Hub"

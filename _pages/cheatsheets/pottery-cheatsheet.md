@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [clay, ceramics, pottery, equipment, small-business]
-tags: [pottery, ceramics, kiln, wheel, clay, studio, firing, glaze, sculpting]
+tags: [pottery, ceramics, kiln, wheel, clay, studio, firing, glaze, sculpting, cheatsheet]
 excerpt: "Discover the tools, techniques, and essentials of pottery, from electric wheels to kiln types and clay bodies. Ideal for artists, hobbyists, and craft business owners."
 seo:
   title: "Pottery Wheels & Kilns | Crafting Supply Hub"

@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [stained-glass, glass-art, leadlight, copper-foil, cheatsheet, DIY, handmade, glass-crafts]
-tags: [stained-glass-tools, glass-cutting, leading, soldering, glass-types, came, copper-foil, kiln-forming]
+tags: [stained-glass-tools, glass-cutting, leading, soldering, glass-types, came, copper-foil, kiln-forming, cheatsheet]
 excerpt: "Complete guide to stained glass with essential tools, glass types, cutting techniques, leading methods, and soldering for creating beautiful glass artwork."
 seo:
   title: "Stained Glass Cheatsheet | Crafting Supply Hub"

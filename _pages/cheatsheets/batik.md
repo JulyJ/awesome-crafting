@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [textiles, crafts, dyeing, DIY, traditional]
-tags: [batik, wax resist dyeing, fabric dyeing, textile crafts, Indonesian crafts]
+tags: [batik, wax resist dyeing, fabric dyeing, textile crafts, Indonesian crafts, cheatsheet]
 excerpt: "Learn the essentials of batik making—from tools and materials to waxing, dyeing techniques, and finishing steps. Ideal for beginners and artisans."
 seo:
   title: "Batik Cheatsheet | Crafting Supply Hub"

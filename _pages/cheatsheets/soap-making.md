@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [soap-making, natural-skincare, DIY, handmade, cheatsheet, cold-process, hot-process]
-tags: [lye-soap, saponification, essential-oils, soap-base, glycerin, soap-molds, superfat, trace]
+tags: [lye-soap, saponification, essential-oils, soap-base, glycerin, soap-molds, superfat, trace, cheatsheet]
 excerpt: "Complete guide to soap making with essential tools, oil properties, lye calculations, and techniques for creating natural handmade soaps."
 seo:
   title: "Soap Making Cheatsheet | Crafting Supply Hub"

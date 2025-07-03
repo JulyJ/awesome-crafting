@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [sculpture, clay, art, 3D, DIY, modeling]
-tags: [clay sculpture, air-dry clay, polymer clay, ceramic, armature, modeling tools, kiln]
+tags: [clay sculpture, air-dry clay, polymer clay, ceramic, armature, modeling tools, kiln, cheatsheet]
 excerpt: "Explore essential techniques and materials for clay sculpture—from hand-building and armatures to air-dry and kiln-fired projects. Perfect for beginners to studio artists."
 seo:
   title: "Clay Sculpture Cheatsheet | Crafting Supply Hub"

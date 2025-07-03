@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [mosaic, art, tiles, cheatsheet, tools, DIY, crafts]
-tags: [mosaic-art, tesserae, grout, tile-cutting, glass-mosaic, ceramic, stone, installation]
+tags: [mosaic-art, tesserae, grout, tile-cutting, glass-mosaic, ceramic, stone, installation, cheatsheet]
 excerpt: "Complete guide to mosaic art with essential materials, techniques, and tools for creating stunning tile mosaics. Perfect for beginners and experienced mosaic artists."
 seo:
   title: "Mosaic Art Cheatsheet | Crafting Supply Hub"

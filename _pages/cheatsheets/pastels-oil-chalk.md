@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [drawing, pastels, art, crafts]
-tags: [pastels, oil pastels, chalk pastels, drawing techniques, art supplies]
+tags: [pastels, oil pastels, chalk pastels, drawing techniques, art supplies, cheatsheet]
 excerpt: "Comprehensive guide to working with oil and chalk pastels including tools, techniques, paper types, and troubleshooting tips for artists."
 seo:
   title: "Pastels (Oil & Chalk) Cheatsheet | Crafting Supply Hub"

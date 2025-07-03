@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [embroidery, machines, textile, cheatsheet, crafting, small-business]
-tags: [embroidery, embroidery-machine, applique, textile-crafting, monogramming, small-business]
+tags: [embroidery, embroidery-machine, applique, textile-crafting, monogramming, small-business, cheatsheet]
 excerpt: "Your essential cheatsheet to embroidery machines for crafting or business, compare top models, learn embroidery basics, and explore profitable project ideas."
 seo:
   title: "Embroidery Machines Cheatsheet | Crafting Supply Hub"

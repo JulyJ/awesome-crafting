@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [card-making, paper-crafts, stamping, cheatsheet, DIY, greeting-cards, handmade]
-tags: [handmade-cards, paper-crafting, stamping, embossing, die-cutting, cardstock, greeting-cards, invitations]
+tags: [handmade-cards, paper-crafting, stamping, embossing, die-cutting, cardstock, greeting-cards, invitations, cheatsheet]
 excerpt: "Complete guide to card making with essential tools, techniques, and design ideas for creating beautiful handmade greeting cards and invitations."
 seo:
   title: "Card Making Cheatsheet | Crafting Supply Hub"

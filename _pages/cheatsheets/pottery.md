@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [pottery, ceramics, clay-work, kiln-firing, cheatsheet, DIY, handmade, wheel-throwing]
-tags: [clay-types, glazing, firing, pottery-wheel, hand-building, bisque, stoneware, earthenware, porcelain]
+tags: [clay-types, glazing, firing, pottery-wheel, hand-building, bisque, stoneware, earthenware, porcelain, cheatsheet]
 excerpt: "Complete guide to pottery with essential tools, clay types, firing temperatures, glazing techniques, and methods for creating beautiful ceramic pieces."
 seo:
   title: "Pottery Cheatsheet | Crafting Supply Hub"

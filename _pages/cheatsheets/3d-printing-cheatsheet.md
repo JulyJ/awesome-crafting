@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [3d-printing, cheatsheet, crafting, small-business, maker-tech]
-tags: [3d-printer, filament, resin, FDM, SLA, crafting, prototyping, DIY, miniatures, small-business]
+tags: [3d-printer, filament, resin, FDM, SLA, crafting, prototyping, DIY, miniatures, small-business, cheatsheet]
 excerpt: "A complete cheatsheet on 3D printing for crafters and entrepreneurs. Compare FDM vs resin printers, materials, project ideas, and learn how to integrate 3D printing into a profitable small business workflow."
 seo:
   title: "3D Printing Cheatsheet | Crafting Supply Hub"

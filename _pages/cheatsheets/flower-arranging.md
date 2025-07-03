@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [floral, arrangements, crafts, DIY, botanical, flowers]
-tags: [flower arranging, bouquets, centerpieces, floristry, flower design, floral techniques, vase arrangements]
+tags: [flower arranging, bouquets, centerpieces, floristry, flower design, floral techniques, vase arrangements, cheatsheet]
 excerpt: "A complete guide to flower arranging—from choosing blooms and styles to vase selection and composition. Ideal for home decorators, event stylists, and florists in training."
 seo:
   title: "Flower Arranging Cheatsheet | Crafting Supply Hub"

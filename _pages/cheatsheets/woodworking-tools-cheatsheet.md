@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [woodworking, crafting, DIY, tools, small-business]
-tags: [woodworking, tools, saws, sanding, engraving, furniture, DIY, small-business]
+tags: [woodworking, tools, saws, sanding, engraving, furniture, DIY, small-business, cheatsheet]
 excerpt: "An essential guide to woodworking tools for crafters and small business makers, covering basic hand tools, machines, project types, safety tips, and profitable ideas."
 seo:
   title: "Woodworking Tools for Crafters | Crafting Supply Hub"

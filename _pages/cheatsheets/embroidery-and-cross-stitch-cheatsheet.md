@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [embroidery, cross-stitch, textile-art, cheatsheet, needlecraft, DIY, crafting]
-tags: [embroidery, cross-stitch, hoop art, floss, pattern, textile, handmade, DIY]
+tags: [embroidery, cross-stitch, hoop art, floss, pattern, textile, handmade, DIY, cheatsheet]
 excerpt: "Explore hand embroidery and cross-stitch with this beginner-friendly cheatsheet. Learn about materials, tools, patterns, and stitches through comparison tables and project ideas."
 seo:
   title: "Embroidery & Cross-Stitch Cheatsheet | Crafting Supply Hub"

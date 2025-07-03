@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-01
 categories: [candle-making, wax-crafts, home-decor, cheatsheet, DIY, handmade, aromatherapy]
-tags: [candle-wax, wicks, fragrance-oils, candle-containers, soy-wax, beeswax, paraffin, candle-dyes]
+tags: [candle-wax, wicks, fragrance-oils, candle-containers, soy-wax, beeswax, paraffin, candle-dyes, cheatsheet]
 excerpt: "Complete guide to candle making with essential tools, wax types, wick selection, and techniques for creating beautiful scented and unscented candles."
 seo:
   title: "Candle Making Cheatsheet | Crafting Supply Hub"

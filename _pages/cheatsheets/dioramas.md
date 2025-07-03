@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [miniatures, crafts, dioramas, modeling, DIY]
-tags: [dioramas, miniature scenes, model making, scenery, crafting]
+tags: [dioramas, miniature scenes, model making, scenery, crafting, cheatsheet]
 excerpt: "Complete guide to diorama making with essential materials, tools, techniques, and tips for creating stunning miniature scenes. Perfect for hobbyists and modelers."
 seo:
   title: "Dioramas Cheatsheet | Crafting Supply Hub"

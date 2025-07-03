@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [textiles, crafts, dyeing, DIY, fashion]
-tags: [tie-dye, fabric dyeing, textile crafts, DIY fashion, colourful crafts]
+tags: [tie-dye, fabric dyeing, textile crafts, DIY fashion, colourful crafts, cheatsheet]
 excerpt: "Everything you need to know about tie-dyeing—from fabric selection and dye types to folding techniques and care tips. Perfect for beginners and seasoned crafters."
 seo:
   title: "Tie-Dye Cheatsheet | Crafting Supply Hub"

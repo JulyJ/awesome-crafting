@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-07-02
 categories: [woodburning, pyrography, DIY, crafts, art, guides]
-tags: [woodburning, pyrography tools, beginner pyrography, wood art, tips, techniques, safety]
+tags: [woodburning, pyrography tools, beginner pyrography, wood art, tips, techniques, safety, cheatsheet]
 excerpt: "Complete guide to pyrography with essential tools, materials, safety tips, wood types, and techniques. Ideal for beginners to advanced woodburning artists."
 seo:
   title: "Pyrography Cheatsheet | Crafting Supply Hub"

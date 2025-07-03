@@ -6,7 +6,7 @@ sidebar:
   nav: side
 date: 2025-06-28
 categories: [calligraphy, art, lettering, cheatsheet, tools, DIY, small-business]
-tags: [calligraphy, hand-lettering, pens, dip-ink, brush, nibs, typography, design]
+tags: [calligraphy, hand-lettering, pens, dip-ink, brush, nibs, typography, design, cheatsheet]
 excerpt: "Master the art of calligraphy with our complete cheatsheet to pens, papers, inks, and scripts. Perfect for beginners, hobbyists, or small businesses creating wedding stationery and art prints."
 seo:
   title: "Calligraphy & Lettering Cheatsheet | Crafting Supply Hub"
