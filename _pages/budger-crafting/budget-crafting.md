@@ -15,7 +15,11 @@ Discover affordable crafting ideas, deals, and money-saving tips in this section
 
 ## Explore Budget Crafting Topics
 
-- [Dollar Store Crafts](/categories/dollar-store/)
-- [Upcycled Projects](/categories/upcycling/)
-- [Best Budget Tools](/categories/budget-tools/)
-- [Splurge or Save](/categories/splurge-vs-save/)
+| Article | Description |
+|---|---|
+| [Best Budget Tools](/categories/budget-tools/) | Essential affordable tools for crafters and DIY enthusiasts. Complete guide to budget-friendly tools that deliver professional results without breaking the bank. |
+| [Crafting with Free Materials](/budget-crafting/crafting-with-free-materials/) | A guide to finding and transforming free materials into creative craft projects. |
+| [DIY Craft Supply Alternatives](/budget-crafting/diy-craft-supply-alternatives/) | Learn how to make your own craft supplies using common household items and natural ingredients. |
+| [Dollar Store Crafts](/categories/dollar-store/) | Discover amazing craft supplies at Canadian dollar stores like Dollarama and Dollar Tree. Complete guide to budget-friendly crafting with organized tables of supplies and project ideas. |
+| [Thrift Store Craft Supplies](/budget-crafting/thrift-store-craft-supplies/) | A guide to finding hidden gems and affordable craft supplies at thrift stores. |
+| [Upcycled Projects](/categories/upcycling/) | Transform household items and thrift store finds into beautiful, functional pieces. Complete guide to upcycling with organized project tables, supply lists, and step-by-step difficulty ratings. |
