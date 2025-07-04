@@ -55,8 +55,8 @@ seo:
 
 | Pattern       | How to Create It                                      |
 |---------------|-------------------------------------------------------|
-| **Stone**     | The random pattern created by dropping colors.        |
-| **Gel-Git**   | Raking the colors back and forth in parallel lines.   |
+| **Stone**     | The random pattern created by dropping colours.        |
+| **Gel-Git**   | Raking the colours back and forth in parallel lines.   |
 | **Nonpareil** | Combing through the Gel-Git pattern at a 90-degree angle. |
 | **Feather**   | Drawing a wavy line down the center of a Nonpareil pattern. |
 
@@ -67,5 +67,5 @@ seo:
 | Problem               | Possible Cause                               | Solution                                                  |
 |-----------------------|----------------------------------------------|-----------------------------------------------------------|
 | **Paints sink**       | Size is too thin, or paint is too heavy.     | Add more carrageenan to the size. Add a drop of dispersant (ox gall) to the paint. |
-| **Colors are pale**   | Paper was not treated with alum.             | Ensure paper is properly treated with alum before marbling. |
-| **Pattern is muddy**  | Over-working the paints, colors are bleeding.| Use a lighter touch with the stylus/comb.                 |
+| **Colours are pale**   | Paper was not treated with alum.             | Ensure paper is properly treated with alum before marbling. |
+| **Pattern is muddy**  | Over-working the paints, colours are bleeding.| Use a lighter touch with the stylus/comb.                 |

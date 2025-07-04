@@ -28,7 +28,7 @@ seo:
 
 | Craft Type | Water-Saving Tip |
 |---|---|
-| **Painting (Acrylics, Watercolors)** | Use multiple water jars (one for initial rinse, one for cleaner rinse). Use a spray bottle to keep paints wet instead of constantly rinsing brushes. |
+| **Painting (Acrylics, Watercolours)** | Use multiple water jars (one for initial rinse, one for cleaner rinse). Use a spray bottle to keep paints wet instead of constantly rinsing brushes. |
 | **Dyeing (Fabric, Yarn)** | Reuse dye baths for lighter shades. Use low-water immersion dyeing techniques. Batch dye larger quantities at once. |
 | **Pottery/Ceramics** | Reuse clay water for wedging or reclaiming clay. Use a two-bucket system for cleaning tools and hands. |
 | **Printmaking** | Use a spray bottle for dampening paper instead of soaking. Reuse water from cleaning plates/screens for initial rinses. |

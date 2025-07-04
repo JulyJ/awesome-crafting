@@ -31,7 +31,7 @@ Smocking is a decorative embroidery technique that gathers fabric in regular ple
 | **Honeycomb Stitch** | Crisscross forming diamond shapes| Creates texture and stretch       | Intermediate|
 | **Cable Ladder**  | Ladder-like lines with cable edges | Decorative bands                   | Advanced    |
 | **Stem Stitch**   | Simple curved stitch               | Outlining and detailing            | Beginner    |
-| **Ribbon Smocking** | Incorporates ribbons into smocking| Adds color and texture             | Intermediate|
+| **Ribbon Smocking** | Incorporates ribbons into smocking| Adds colour and texture             | Intermediate|
 | **Checkerboard**  | Grid pattern with evenly spaced stitches| Basic pattern for beginners    | Beginner    |
 
 ---

@@ -32,4 +32,4 @@ seo:
 |---|---|
 | **The 10-Minute Challenge** | Set a timer for 10 minutes and create something without overthinking it. The goal is to just make, not to make something perfect. |
 | **The Random Word Association** | Pick a random word from a book or dictionary and create something inspired by that word. |
-| **The "What If?" Game** | Ask yourself "what if?" questions about your project. What if I used a different color? What if I made it bigger? What if I used a different material? |
+| **The "What If?" Game** | Ask yourself "what if?" questions about your project. What if I used a different colour? What if I made it bigger? What if I used a different material? |

@@ -33,7 +33,7 @@ seo:
 |-------------|-----------------------------------------------|---------------------------------------|
 | **Cutting** | Craft knife, cutting mat, small saw, scissors.| Precision cutting of materials.       |
 | **Assembly**| Wood glue, super glue, hot glue, tweezers.    | Joining and placing small parts.      |
-| **Painting**| Acrylic paints, small brushes, primer.        | Coloring and adding detail.           |
+| **Painting**| Acrylic paints, small brushes, primer.        | Colouring and adding detail.           |
 | **Structure** | Basswood, foam board, chipboard, MDF.         | Building the box and main structures. |
 | **Scenery** | Flock, static grass, texture paste, pebbles.  | Creating realistic ground cover.      |
 

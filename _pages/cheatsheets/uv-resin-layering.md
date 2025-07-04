@@ -81,7 +81,7 @@ UV resin layering is a technique where clear resin is cured in multiple thin sta
 | **Glossy Dome**      | Shiny rounded surface                   | Add final thick clear layer             |
 | **Matte Finish**     | Soft-touch effect                       | Sand with fine grit and finish spray    |
 | **Polished Clear**   | Smooth glass-like finish                | Sand > polish with resin compound       |
-| **Backed with Colour**| Opaque bottom for clarity               | Use white/black resin or colored clay   |
+| **Backed with Colour**| Opaque bottom for clarity               | Use white/black resin or coloured clay   |
 
 ---
 

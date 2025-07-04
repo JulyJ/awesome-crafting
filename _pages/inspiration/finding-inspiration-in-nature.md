@@ -10,7 +10,7 @@ tags: [nature-inspiration, creativity, crafting, nature-journaling]
 excerpt: "A guide to finding creative inspiration for your craft projects in the natural world."
 seo:
   title: "Finding Inspiration in Nature | Crafting Supply Hub"
-  description: "Learn how to draw creative inspiration from the colors, textures, and patterns of the natural world."
+  description: "Learn how to draw creative inspiration from the colours, textures, and patterns of the natural world."
   type: "article"
   keywords: [nature inspiration, craft ideas from nature, creative observation]
   canonical_url: "https://craftingsupply.ca/inspiration/finding-inspiration-in-nature/"
@@ -22,22 +22,22 @@ Nature is a treasure trove of inspiration. Here are some ways to observe and rec
 
 | Technique | Description | Tools |
 |---|---|---|
-| **Nature Journaling** | A place to record your observations, sketches, and ideas. | Notebook, pens, pencils, watercolors |
-| **Photography** | Capture images of interesting colors, textures, and patterns. | Camera or smartphone |
+| **Nature Journaling** | A place to record your observations, sketches, and ideas. | Notebook, pens, pencils, watercolours |
+| **Photography** | Capture images of interesting colours, textures, and patterns. | Camera or smartphone |
 | **Collecting** | Gather natural objects like leaves, stones, and shells. | Collection bag or box |
 
 ## Translating Nature into Crafts
 
 | Natural Element | Craft Idea |
 |---|---|
-| **Colors of a Sunset** | A gradient-dyed scarf or a painting. |
+| **Colours of a Sunset** | A gradient-dyed scarf or a painting. |
 | **Texture of Bark** | An embossed leather journal cover or a textured clay pot. |
 | **Pattern of a Leaf** | A block-printed fabric or a piece of jewelry. |
 | **Shape of a Flower** | A crocheted or felted flower. |
 
-## Nature-Inspired Color Palettes
+## Nature-Inspired Colour Palettes
 
-| Environment | Dominant Colors |
+| Environment | Dominant Colours |
 |---|---|
 | **Forest** | Greens, browns, greys |
 | **Beach** | Blues, tans, whites |

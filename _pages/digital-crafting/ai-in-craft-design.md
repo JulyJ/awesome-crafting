@@ -29,7 +29,7 @@ seo:
 | Tool Type | Description | Craft Application |
 |---|---|---|
 | **Vectorization Tools** | Convert raster images (photos) into scalable vector graphics. | Turn hand-drawn sketches into SVG files for cutting machines (Cricut, Silhouette, laser cutters). |
-| **Color Palette Generators** | AI suggests harmonious color schemes. | Find perfect color combinations for knitting, painting, or jewelry design. |
+| **Colour Palette Generators** | AI suggests harmonious colour schemes. | Find perfect colour combinations for knitting, painting, or jewelry design. |
 | **Layout & Composition Assistants** | AI helps arrange elements for visual balance. | Optimize layouts for quilt blocks, scrapbook pages, or digital collages. |
 
 ## Ethical Considerations & Best Practices

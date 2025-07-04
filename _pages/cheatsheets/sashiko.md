@@ -51,8 +51,8 @@ Sashiko is a traditional Japanese form of hand embroidery using simple running s
 | Thread Type         | Thickness        | Common Colours                   | Notes                           |
 |---------------------|------------------|-------------------------------|--------------------------------|
 | **Sashiko Thread**  | Thick cotton     | White, indigo blue             | Strong and slightly glossy      |
-| **Perle Cotton**    | Medium           | Variety of colors              | Alternative for sashiko         |
-| **Embroidery Floss**| Fine             | Many colors                   | Separate strands for thickness  |
+| **Perle Cotton**    | Medium           | Variety of colours              | Alternative for sashiko         |
+| **Embroidery Floss**| Fine             | Many colours                   | Separate strands for thickness  |
 
 ---
 
@@ -109,7 +109,7 @@ Sashiko is a traditional Japanese form of hand embroidery using simple running s
 | Coasters            | Cotton & white thread | Asanoha or Kikkō           | Small and quick                 |
 | Tote Bags           | Denim & white thread  | Seigaiha                   | Durable and decorative          |
 | Patch for Clothing  | Indigo cotton & thread| Simple running stitch lines| Adds texture and repairs        |
-| Pillow Covers       | Linen & colored thread| Shippo Tsunagi             | Elegant and homey               |
+| Pillow Covers       | Linen & coloured thread| Shippo Tsunagi             | Elegant and homey               |
 | Table Runners       | Cotton & indigo thread| Kōjitsunagi                | Classic Japanese style          |
 
 ---
@@ -117,7 +117,7 @@ Sashiko is a traditional Japanese form of hand embroidery using simple running s
 ## FAQ
 
 **Is sashiko embroidery only done with white thread?**  
-Traditionally, yes — white on indigo is classic, but colored threads can be used creatively.
+Traditionally, yes — white on indigo is classic, but coloured threads can be used creatively.
 
 **Can sashiko be machine embroidered?**  
 It can, but hand stitching preserves the authentic look and texture.

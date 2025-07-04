@@ -36,20 +36,20 @@ seo:
 | Mesh Count | Thread Diameter | Ink Deposit | Best Applications | Detail Level |
 |------------|----------------|-------------|-------------------|--------------|
 | **110 mesh** | Coarse | Heavy | Glitter, puff, specialty inks | Low detail |
-| **156 mesh** | Medium-coarse | Heavy | Opaque colors, white ink | Medium detail |
+| **156 mesh** | Medium-coarse | Heavy | Opaque colours, white ink | Medium detail |
 | **200 mesh** | Medium | Medium | Standard plastisol, water-based | Good detail |
 | **230 mesh** | Medium-fine | Medium-light | Fine detail, halftones | High detail |
-| **280 mesh** | Fine | Light | Process colors, fine text | Very high detail |
-| **305 mesh** | Very fine | Very light | Four-color process, photographic | Extremely high detail |
+| **280 mesh** | Fine | Light | Process colours, fine text | Very high detail |
+| **305 mesh** | Very fine | Very light | Four-colour process, photographic | Extremely high detail |
 
 ### Press Types & Capacity
 
 | Press Type | Stations | Price Range | Production Rate | Skill Level | Best For |
 |------------|----------|-------------|----------------|-------------|----------|
-| **Manual Tabletop** | 1-4 colors | $100-$800 | 20-50 pcs/hour | Beginner | Small runs, samples |
-| **Manual Carousel** | 4-8 colors | $800-$5,000 | 50-150 pcs/hour | Intermediate | Medium runs, multi-color |
-| **Semi-Auto** | 6-12 colors | $5,000-$20,000 | 150-400 pcs/hour | Advanced | Large runs, consistency |
-| **Automatic** | 8-16 colors | $20,000-$100,000 | 400-1,200 pcs/hour | Professional | Mass production |
+| **Manual Tabletop** | 1-4 colours | $100-$800 | 20-50 pcs/hour | Beginner | Small runs, samples |
+| **Manual Carousel** | 4-8 colours | $800-$5,000 | 50-150 pcs/hour | Intermediate | Medium runs, multi-colour |
+| **Semi-Auto** | 6-12 colours | $5,000-$20,000 | 150-400 pcs/hour | Advanced | Large runs, consistency |
+| **Automatic** | 8-16 colours | $20,000-$100,000 | 400-1,200 pcs/hour | Professional | Mass production |
 
 ## Ink Types & Applications
 
@@ -59,7 +59,7 @@ seo:
 |----------|-----------|---------|------------|-------------|----------|
 | **Standard Plastisol** | 320°F (160°C) | High | Excellent | $25-$40 | General printing, dark garments |
 | **Low-Cure Plastisol** | 280°F (138°C) | High | Excellent | $30-$45 | Heat-sensitive fabrics |
-| **High-Opacity** | 320°F (160°C) | Very High | Excellent | $35-$50 | White on dark, bright colors |
+| **High-Opacity** | 320°F (160°C) | Very High | Excellent | $35-$50 | White on dark, bright colours |
 | **Stretch Plastisol** | 320°F (160°C) | Medium | Good | $40-$55 | Athletic wear, spandex |
 | **Puff Plastisol** | 320°F (160°C) | High | Good | $45-$60 | Raised texture effects |
 | **Glitter Plastisol** | 320°F (160°C) | Medium | Good | $50-$70 | Decorative effects |
@@ -70,7 +70,7 @@ seo:
 |----------|-----------|-----------|------------|-------------|----------|
 | **Standard Water-Based** | 300°F (149°C) | Soft | Good | $20-$35 | Light garments, vintage look |
 | **Discharge Ink** | 320°F (160°C) | Very Soft | Good | $35-$50 | Removing dye, soft prints |
-| **Pigment Ink** | 320°F (160°C) | Soft | Very Good | $25-$40 | Eco-friendly, vibrant colors |
+| **Pigment Ink** | 320°F (160°C) | Soft | Very Good | $25-$40 | Eco-friendly, vibrant colours |
 | **Acrylic Ink** | Air dry/heat | Soft | Fair | $15-$25 | Posters, paper, fabric |
 
 ### Specialty Inks

@@ -29,7 +29,7 @@ seo:
 | Craft Idea | Materials Needed | Age Range |
 |---|---|---|
 | **Seashell Creatures** | Seashells, paint, googly eyes, glue | 4+ |
-| **DIY Sidewalk Chalk Paint** | Cornstarch, water, food coloring | 3+ |
+| **DIY Sidewalk Chalk Paint** | Cornstarch, water, food colouring | 3+ |
 | **Nature Sun Catchers** | Clear contact paper, flowers, leaves, yarn | 4+ |
 
 ## Autumn Crafts

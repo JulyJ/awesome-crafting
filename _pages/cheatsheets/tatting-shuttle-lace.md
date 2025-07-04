@@ -43,7 +43,7 @@ Tatting is a form of handmade lace created by knotting thread with a shuttle or 
 | **Picot**             | Small loop left between stitches | Decoration and joins          | Beginner    |
 | **Ring**              | Circular motif made of DS and picots | Main structural unit          | Beginner    |
 | **Chain**             | Curved segments connecting rings | Links motifs                  | Beginner    |
-| **Split Ring**        | Ring worked in two halves        | Allows color changes and shaping| Intermediate|
+| **Split Ring**        | Ring worked in two halves        | Allows colour changes and shaping| Intermediate|
 | **Josephine Knot**    | Decorative knot resembling flower | Embellishments               | Intermediate|
 
 ---

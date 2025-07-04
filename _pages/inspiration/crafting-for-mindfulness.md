@@ -29,7 +29,7 @@ seo:
 
 | Practice | Description |
 |---|---|
-| **Focus on Your Senses** | Pay attention to the feel of the materials in your hands, the sounds of your tools, and the colors and textures of your project. |
+| **Focus on Your Senses** | Pay attention to the feel of the materials in your hands, the sounds of your tools, and the colours and textures of your project. |
 | **Embrace Imperfection** | Let go of the need for your project to be perfect. The goal is to enjoy the process, not to create a masterpiece. |
 | **Set an Intention** | Before you begin crafting, set an intention for your practice. For example, you might intend to be more present, to be more patient, or to simply have fun. |
 
@@ -38,6 +38,6 @@ seo:
 | Craft | Why It's Mindful |
 |---|---|
 | **Knitting & Crochet** | The repetitive stitches can be very meditative. |
-| **Coloring** | A simple and accessible way to focus the mind. |
+| **Colouring** | A simple and accessible way to focus the mind. |
 | **Pottery** | The tactile nature of clay can be very grounding. |
 | **Weaving** | The rhythmic process of weaving can be very calming. |

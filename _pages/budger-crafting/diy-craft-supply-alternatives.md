@@ -20,10 +20,10 @@ seo:
 
 | Supply | DIY Alternative | Ingredients |
 |---|---|---|
-| **Finger Paint** | Homemade Finger Paint | Flour, water, salt, food coloring |
-| **Puffy Paint** | Homemade Puffy Paint | Shaving cream, white glue, food coloring |
+| **Finger Paint** | Homemade Finger Paint | Flour, water, salt, food colouring |
+| **Puffy Paint** | Homemade Puffy Paint | Shaving cream, white glue, food colouring |
 | **Natural Dyes** | Vegetable Dyes | Onion skins, avocado pits, turmeric, berries |
-| **Sidewalk Chalk Paint** | DIY Sidewalk Chalk Paint | Cornstarch, water, food coloring |
+| **Sidewalk Chalk Paint** | DIY Sidewalk Chalk Paint | Cornstarch, water, food colouring |
 
 ## Homemade Adhesives & Sealants
 
@@ -37,7 +37,7 @@ seo:
 
 | Supply | DIY Alternative | Ingredients |
 |---|---|---|
-| **Playdough** | Homemade Playdough | Flour, salt, cream of tartar, water, oil, food coloring |
+| **Playdough** | Homemade Playdough | Flour, salt, cream of tartar, water, oil, food colouring |
 | **Salt Dough** | Salt Dough | Flour, salt, water |
 | **Cold Porcelain Clay** | Cold Porcelain Clay | Cornstarch, white glue, baby oil, vinegar |
 | **Paper Mache Paste** | Paper Mache Paste | Flour, water |

@@ -21,7 +21,7 @@ seo:
 | Requirement | Description | Best Practice |
 |---|---|---|
 | **Resolution (DPI)** | Dots Per Inch. Determines print quality. | Aim for 150-300 DPI for fabric. Lower DPI results in pixelation. |
-| **Color Mode** | How colors are represented. | Use RGB for digital design, but be aware that printers use CMYK. Some services convert automatically. |
+| **Colour Mode** | How colours are represented. | Use RGB for digital design, but be aware that printers use CMYK. Some services convert automatically. |
 | **File Type** | The format your design is saved in. | JPEG, PNG, or TIFF for raster images. SVG for vector patterns (if applicable). |
 | **Repeat Type** | How your pattern tiles to create a seamless design. | Basic, half-drop, brick, or mirror repeats. |
 

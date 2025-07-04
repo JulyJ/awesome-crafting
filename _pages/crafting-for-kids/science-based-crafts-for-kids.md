@@ -36,6 +36,6 @@ seo:
 
 | Craft Idea | Materials Needed | Scientific Principle |
 |---|---|---|
-| **Celery Food Coloring Experiment** | Celery, food coloring, water | Capillary Action |
+| **Celery Food Colouring Experiment** | Celery, food colouring, water | Capillary Action |
 | **Bean Sprouting in a Jar** | Bean, jar, paper towel | Germination |
-| **Play-Doh DNA Models** | Play-Doh in different colors | Genetics, DNA Structure |
+| **Play-Doh DNA Models** | Play-Doh in different colours | Genetics, DNA Structure |

@@ -27,7 +27,7 @@ Visible mending is a creative technique that repairs holes, tears, or worn areas
 | Item               | Description                                | Notes                              |
 |--------------------|--------------------------------------------|-----------------------------------|
 | **Darning Needle**  | Thick needle with large eye for embroidery | Use embroidery or tapestry needles |
-| **Embroidery Thread / Floss** | Colourful or neutral, cotton or wool        | Choose contrasting or matching colors |
+| **Embroidery Thread / Floss** | Colourful or neutral, cotton or wool        | Choose contrasting or matching colours |
 | **Fabric Scraps / Patches** | Cotton, denim, linen, or decorative fabrics | Use for patching holes or reinforcing areas |
 | **Embroidery Hoop** | Keeps fabric taut while stitching          | Helps with precision               |
 | **Scissors**       | Sharp fabric scissors                       | For trimming threads and patches   |
@@ -81,7 +81,7 @@ Visible mending is a creative technique that repairs holes, tears, or worn areas
 | 2     | Cut patch fabric slightly larger than hole | Use coordinating or contrasting fabric |
 | 3     | Secure patch on fabric (pins or adhesive) | Ensure smooth, wrinkle-free placement  |
 | 4     | Hoop fabric if possible                  | Keeps area taut for stitching           |
-| 5     | Choose stitch style and thread color     | Consider decorative effect               |
+| 5     | Choose stitch style and thread colour     | Consider decorative effect               |
 | 6     | Stitch patch or mend using chosen technique | Maintain even tension                   |
 | 7     | Tie off thread securely                   | Hide knots on fabric underside           |
 
@@ -107,7 +107,7 @@ Visible mending is a creative technique that repairs holes, tears, or worn areas
 | Sweater elbow mending    | Wool                 | Sashiko darning       | Adds warmth and texture           |
 | Cotton shirt small holes | Cotton               | Running stitch + embroidery | Quick, decorative fixes         |
 | Canvas tote bag tears    | Canvas               | Patch + backstitch    | Functional and stylish            |
-| Kids’ clothes patches    | Mixed fabrics        | Iron-on patches + embroidery | Fun and colorful                  |
+| Kids’ clothes patches    | Mixed fabrics        | Iron-on patches + embroidery | Fun and colourful                  |
 
 ---
 
@@ -120,7 +120,7 @@ Yes, but use fine threads, gentle stitches, and lightweight patches.
 When done properly with good materials and stitches, visible mending can extend garment life significantly.
 
 **Can visible mending be decorative?**  
-Absolutely! Many use it as a creative expression, adding color and texture.
+Absolutely! Many use it as a creative expression, adding colour and texture.
 
 **Do I need a sewing machine?**  
 No, visible mending is traditionally hand-stitched, which allows more control and creativity.

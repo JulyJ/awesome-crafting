@@ -35,4 +35,4 @@ seo:
 | Craft Idea | Materials Needed | Age Range |
 |---|---|---|
 | **Paper Plate Bears** | Paper plates, paint, construction paper | 3+ |
-| **Button Sorting** | Buttons of various sizes and colors | 2+ |
+| **Button Sorting** | Buttons of various sizes and colourrs | 2+ |

@@ -46,8 +46,8 @@ seo:
 |-----------------|-----------------------------------------------------------|
 | **The Drip**    | Dripping ink and alcohol directly onto the surface.       |
 | **The Push**    | Using an air blower to push the ink and create wispy effects. |
-| **The Blend**   | Using an applicator tool to blend colors together.        |
-| **The Lift**    | Removing color with a clean brush dipped in alcohol to create highlights. |
+| **The Blend**   | Using an applicator tool to blend colours together.        |
+| **The Lift**    | Removing colour with a clean brush dipped in alcohol to create highlights. |
 
 ---
 

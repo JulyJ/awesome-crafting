@@ -37,7 +37,7 @@ seo:
 
 | Material      | Characteristics                               |
 |---------------|-----------------------------------------------|
-| **Paper**     | Heavyweight, natural fiber papers (cotton rag, watercolor paper) work best. |
+| **Paper**     | Heavyweight, natural fiber papers (cotton rag, watercolour paper) work best. |
 | **Fabric**    | Natural fibers like cotton, linen, silk, and canvas absorb the chemistry well. |
 
 ---
@@ -52,7 +52,7 @@ seo:
 | **4**  | Create your composition.                     | Arrange objects (plants, lace, etc.) or a negative on the surface. |
 | **5**  | Expose to UV light.                          | Place in direct sunlight. Exposure times vary (5-30 mins). |
 | **6**  | Rinse in water.                              | Wash the print in a tray of cool water for 5-10 minutes. |
-| **7**  | Dry your print.                              | Hang to dry. The blue color will deepen as it oxidizes.  |
+| **7**  | Dry your print.                              | Hang to dry. The blue colour will deepen as it oxidizes.  |
 
 ---
 
@@ -61,14 +61,14 @@ seo:
 | Exposure Level  | Appearance During Exposure                  | Result                                      |
 |-----------------|---------------------------------------------|---------------------------------------------|
 | **Under-exposed**| Pale blue or yellow-green.                  | Washed-out, light blue print.               |
-| **Correctly exposed**| Turns to a bronze or grey-blue color.       | Deep Prussian blue with clear highlights.   |
+| **Correctly exposed**| Turns to a bronze or grey-blue colour.       | Deep Prussian blue with clear highlights.   |
 | **Over-exposed**| Dark grey or slate blue.                    | Dark blue print with loss of detail in highlights. |
 
 ---
 
 ## Toning Cyanotypes
 
-| Toning Agent | Color Result      | Process                                               |
+| Toning Agent | Colour Result      | Process                                               |
 |--------------|-------------------|-------------------------------------------------------|
 | **Black Tea**| Brown/Sepia       | Steep print in strong black tea after rinsing.        |
 | **Washing Soda**| Yellow-brown      | Briefly dip in a weak washing soda solution.          |

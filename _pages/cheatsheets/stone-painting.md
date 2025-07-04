@@ -21,10 +21,10 @@ seo:
 | Item                  | Use                                             | Notes                                   |
 |-----------------------|--------------------------------------------------|------------------------------------------|
 | Smooth Stones         | Painting surface                                | River rocks or landscaping stones work best |
-| Acrylic Paints        | Main coloring medium                            | Use outdoor-safe paints for durability   |
+| Acrylic Paints        | Main colouring medium                            | Use outdoor-safe paints for durability   |
 | Paint Pens            | Fine detail work                                | Great for outlines, lettering            |
 | Brushes (Various Sizes)| Detail and fill areas                          | Round and liner brushes recommended      |
-| Palette & Water Cup   | Mixing and cleaning                             | Keep brushes clean to avoid muddy colors |
+| Palette & Water Cup   | Mixing and cleaning                             | Keep brushes clean to avoid muddy colours |
 | Sealer (Spray or Brush)| Protects finished work                         | Use matte, satin, or gloss as preferred  |
 | Primer (Optional)     | Prepares surface                                | White gesso or acrylic basecoat          |
 | Cotton Rags or Towels | Cleaning hands and tools                        | Use water-damp cloth for cleanup         |
@@ -47,12 +47,12 @@ seo:
 
 | Technique       | Description                                        | Best For                                |
 |------------------|----------------------------------------------------|------------------------------------------|
-| **Base Coating** | Painting a single background color                | Characters, mandalas, lettering           |
+| **Base Coating** | Painting a single background colour                | Characters, mandalas, lettering           |
 | **Dry Brushing** | Minimal paint for textured effects                 | Rocks, animals, galaxy themes             |
 | **Dotting**      | Creating dots using tools or brush ends            | Mandalas, flowers, pointillism            |
 | **Layering**     | Multiple layers for shading or effects             | Depth, highlights, blending               |
 | **Stippling**    | Repeated dabbing for texture                       | Grass, sand, animal fur                   |
-| **Tape Masking** | Use painter’s tape for clean edges                 | Geometric designs, flags, color blocking  |
+| **Tape Masking** | Use painter’s tape for clean edges                 | Geometric designs, flags, colour blocking  |
 | **Stamping**     | Using carved stamps or found textures              | Backgrounds, texture-rich effects         |
 
 ---

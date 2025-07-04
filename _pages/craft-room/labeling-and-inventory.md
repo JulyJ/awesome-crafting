@@ -22,8 +22,8 @@ seo:
 |---|---|---|
 | **Label Maker** | Creating neat and uniform labels. | Label maker, tape cartridges |
 | **Chalkboard Labels** | Reusable and easy to update. | Chalkboard labels, chalk markers |
-| **Printable Labels** | Customizable with different fonts and colors. | Printer, sticker paper |
-| **Color-Coding** | Quickly identifying categories of supplies. | Colored tape, stickers, or labels |
+| **Printable Labels** | Customizable with different fonts and colours. | Printer, sticker paper |
+| **Colour-Coding** | Quickly identifying categories of supplies. | Coloured tape, stickers, or labels |
 
 ## Inventory Tracking Methods
 
@@ -41,4 +41,4 @@ seo:
 | **Category** | The type of supply (e.g., paint, yarn, fabric). |
 | **Quantity** | How much of the supply you have on hand. |
 | **Location** | Where the supply is stored. |
-| **Notes** | Any other relevant information, such as the brand or color. |
+| **Notes** | Any other relevant information, such as the brand or colour. |

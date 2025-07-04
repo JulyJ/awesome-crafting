@@ -27,7 +27,7 @@ seo:
 | **Epson WorkForce WF-7710** | 13" x 19" | Sublimation cartridges | $200-$300 | 18 ppm | Wide format, posters |
 | **Epson SureColour F170** | 8.5" x 11" | Dedicated sublimation | $300-$400 | 17 ppm | Professional, reliable |
 | **Epson SureColour F570** | 24" wide | Dedicated sublimation | $2,000-$3,000 | 21 sqft/hr | Commercial, large format |
-| **Sawgrass SG500** | 8.5" x 11" | SubliJet-UHD | $600-$800 | 17 ppm | Professional, color accuracy |
+| **Sawgrass SG500** | 8.5" x 11" | SubliJet-UHD | $600-$800 | 17 ppm | Professional, colour accuracy |
 | **Sawgrass SG1000** | 11" x 17" | SubliJet-UHD | $1,200-$1,500 | 28 ppm | High-volume production |
 
 ## Heat Press Equipment & Settings
@@ -65,9 +65,9 @@ seo:
 
 | Material | Polyester Content | Sublimation Quality | Colour Results | Durability |
 |----------|-------------------|---------------------|---------------|------------|
-| **100% Polyester** | 100% | Excellent | Vibrant, true colors | Excellent |
+| **100% Polyester** | 100% | Excellent | Vibrant, true colours | Excellent |
 | **Poly Blend 65/35** | 65% | Good | Slightly muted | Good |
-| **Poly Blend 50/50** | 50% | Fair | Muted colors | Fair |
+| **Poly Blend 50/50** | 50% | Fair | Muted colours | Fair |
 | **Cotton** | 0% | Poor | Washes out | Poor |
 | **Polyester Coated** | Coated surface | Excellent | Vibrant | Excellent |
 
@@ -101,7 +101,7 @@ seo:
 | Paper Type | GSM Weight | Release Quality | Price/Sheet | Best For |
 |------------|------------|-----------------|-------------|----------|
 | **A-SUB** | 100-120 GSM | Excellent | $0.15-$0.25 | General use, crisp images |
-| **TexPrint-R** | 120 GSM | Excellent | $0.20-$0.30 | Textiles, vibrant colors |
+| **TexPrint-R** | 120 GSM | Excellent | $0.20-$0.30 | Textiles, vibrant colours |
 | **JetCol DHT** | 100 GSM | Good | $0.12-$0.22 | Budget option, decent quality |
 | **Beaver Paper** | 105 GSM | Very Good | $0.18-$0.28 | Hard substrates, mugs |
 | **Neenah JetPro** | 120 GSM | Excellent | $0.25-$0.35 | Premium quality, archival |
@@ -113,7 +113,7 @@ seo:
 | Software | Cost | Skill Level | Best For | Sublimation Features |
 |----------|------|-------------|----------|---------------------|
 | **Canva** | Free-$15/month | Beginner | Templates, social media | Basic editing, templates |
-| **Adobe Illustrator** | $23/month | Advanced | Vector graphics, logos | Professional color control |
+| **Adobe Illustrator** | $23/month | Advanced | Vector graphics, logos | Professional colour control |
 | **Adobe Photoshop** | $23/month | Intermediate | Photo editing, mockups | Advanced image manipulation |
 | **Procreate** | $13 one-time | Intermediate | Digital art, iPad design | Hand-drawn designs |
 | **GIMP** | Free | Intermediate | Photo editing | Open-source alternative |
@@ -168,7 +168,7 @@ seo:
 | **Blurry Images** | Low resolution, printer settings | Use 300+ DPI, check print quality settings |
 | **Incomplete Transfer** | Insufficient pressure/time | Increase pressure, extend time |
 | **Ghost Images** | Paper movement, double pressing | Secure paper, single press only |
-| **Colour Shift** | Wrong color profile | Use RGB mode, calibrate monitor |
+| **Colour Shift** | Wrong colour profile | Use RGB mode, calibrate monitor |
 | **Bleeding Colours** | Excessive ink, wrong paper | Reduce saturation, use quality paper |
 | **White Marks** | Contaminated platen | Clean heat press thoroughly |
 | **Uneven Transfer** | Uneven pressure | Check press calibration, even pressure |
@@ -186,10 +186,10 @@ seo:
 
 ### Post-Production Quality Check
 
-- [ ] Complete color transfer achieved
+- [ ] Complete colour transfer achieved
 - [ ] No white spots or missed areas
 - [ ] Crisp, clear image quality
-- [ ] Proper color vibrancy
+- [ ] Proper colour vibrancy
 - [ ] No ghost images or bleeding
 - [ ] Substrate undamaged
 - [ ] Cool completely before handling

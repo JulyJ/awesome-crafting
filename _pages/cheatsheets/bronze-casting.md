@@ -32,4 +32,4 @@ seo:
 | **8**  | Casting.                                     | Molten bronze is poured into the hollow ceramic shell.   |
 | **9**  | Devesting.                                   | The ceramic shell is broken away from the cooled bronze. |
 | **10** | Metal Chasing and Finishing.                 | The sprues are cut off and the metal is cleaned, sanded, and polished. |
-| **11** | Patination.                                  | Chemicals are applied to the surface to color the bronze. |
+| **11** | Patination.                                  | Chemicals are applied to the surface to colour the bronze. |

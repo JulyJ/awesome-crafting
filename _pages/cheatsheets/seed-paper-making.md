@@ -117,7 +117,7 @@ Yes, but use inkjet printing and avoid heavy ink coverage. Best results are with
 **How long will seed paper last?**  
 Up to 12 months if stored in a cool, dry place.
 
-**Can I color the paper pulp?**  
-Yes! Use natural dyes (beets, turmeric) or add a tiny drop of food coloring during blending.
+**Can I colour the paper pulp?**  
+Yes! Use natural dyes (beets, turmeric) or add a tiny drop of food colouring during blending.
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Starting a Craft Side Hustle"
-permalink: /categories/business/starting-craft-side-hustle/
+permalink: /business/starting-craft-side-hustle/
 sidebar:
   nav: side
 date: 2025-06-28

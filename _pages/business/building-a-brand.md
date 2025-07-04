@@ -22,7 +22,7 @@ seo:
 |---|---|
 | **Brand Name** | The name of your business. It should be memorable and easy to spell. |
 | **Logo** | A visual representation of your brand. It should be simple, recognizable, and versatile. |
-| **Color Palette** | The colors you use in your branding. They should be consistent across all of your marketing materials. |
+| **Colour Palette** | The colours you use in your branding. They should be consistent across all of your marketing materials. |
 | **Typography** | The fonts you use in your branding. They should be easy to read and reflect your brand's personality. |
 | **Brand Voice** | The tone and personality of your brand. It should be consistent in all of your communications. |
 

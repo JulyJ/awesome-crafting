@@ -17,7 +17,7 @@ Find creative inspiration, project ideas, and stories from the crafting communit
 
 | Article | Description |
 |---|---|
-| [Color Theory for Crafters](/inspiration/color-theory-for-crafters/) | A practical guide to color theory for crafters. Learn how to use color to create mood, harmony, and visual interest in your projects. |
+| [Colour Theory for Crafters](/inspiration/colourr-theory-for-crafters/) | A practical guide tocolourur theory for crafters. Learn how to uscolourour to create mood, harmony, and visual interest in your projects. |
 | [Crafting for Mindfulness and Relaxation](/inspiration/crafting-for-mindfulness/) | A guide to using crafting as a tool for mindfulness and relaxation. |
 | [Creative Prompts for Crafters](/inspiration/creative-prompts-for-crafters/) | Feeling stuck? Use these craft prompts to spark ideas and challenge yourself with limited tools, random themes, or new materials. |
 | [Finding Inspiration in Nature](/inspiration/finding-inspiration-in-nature/) | A guide to finding creative inspiration for your craft projects in the natural world. |

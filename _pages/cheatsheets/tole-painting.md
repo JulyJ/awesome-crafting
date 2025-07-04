@@ -66,7 +66,7 @@ Tole painting is a decorative folk art technique that uses detailed brushwork—
 
 | Technique           | Description                                 | Tip                                   |
 |---------------------|---------------------------------------------|---------------------------------------|
-| **Base Coating**    | Laying flat background color                 | Apply 2 thin coats for opacity        |
+| **Base Coating**    | Laying flat background colour                 | Apply 2 thin coats for opacity        |
 | **Floating**        | Blending with wet edges for shading          | Use side-loading technique            |
 | **Detailing**       | Adding fine lines, dots, flourishes          | Use liner brush with thinned paint    |
 | **Stippling**       | Dabbing brush to add texture or depth        | Great for flowers, backgrounds        |
@@ -113,7 +113,7 @@ Tole painting is a decorative folk art technique that uses detailed brushwork—
 ## FAQ
 
 **Do I need to seal between paint layers?**  
-No, but make sure each layer is dry before painting over it to avoid lifting or muddying colors.
+No, but make sure each layer is dry before painting over it to avoid lifting or muddying colours.
 
 **Can I use oil paints for tole painting?**  
 Traditionally yes, but acrylics are now preferred for their fast drying time and ease of use.

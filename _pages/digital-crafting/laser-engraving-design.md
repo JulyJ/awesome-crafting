@@ -37,7 +37,7 @@ seo:
 | Design Element | Optimization Tip |
 |---|---|
 | **Line Thickness** | Use "hairline" or 0.001" thickness for cutting lines. |
-| **Colors** | Assign specific RGB colors to different operations (e.g., red for cut, black for engrave). |
+| **Colours** | Assign specific RGB colourrs to different operations (e.g., red for cut, black for engrave). |
 | **Text** | Convert text to paths/outlines to ensure fonts render correctly on any machine. |
 | **Overlapping Lines** | Remove duplicate or overlapping lines to prevent multiple passes and burning. |
 | **Material Kerf** | Account for the laser beam's width (kerf) for precise fits. |
