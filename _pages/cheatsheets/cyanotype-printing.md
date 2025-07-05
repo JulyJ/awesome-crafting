@@ -16,23 +16,6 @@ seo:
   canonical_url: "https://craftingsupply.ca/cheatsheets/cyanotype-printing/"
 ---
 
-## Cyanotype Chemistry
-
-*Warning: Handle chemicals with care. Wear gloves and eye protection.*
-
-| Chemical                   | Formula                               | Role in Process                               |
-|----------------------------|---------------------------------------|-----------------------------------------------|
-| **Potassium Ferricyanide** | K₃[Fe(CN)₆]                           | Part A of the sensitizer solution.            |
-| **Ferric Ammonium Citrate**| (NH₄)₅[Fe(C₆H₄O₇)₂]                   | Part B of the sensitizer solution.            |
-
-**Standard Recipe:**
-*   **Solution A:** 25g Ferric Ammonium Citrate in 100ml water.
-*   **Solution B:** 10g Potassium Ferricyanide in 100ml water.
-
-*Store solutions in separate, labeled, light-proof bottles. They will last for months.*
-
----
-
 ## Suitable Papers & Fabrics
 
 | Material      | Characteristics                               |
@@ -46,7 +29,7 @@ seo:
 
 | Step # | Action                                       | Notes                                                    |
 |--------|----------------------------------------------|----------------------------------------------------------|
-| **1**  | Mix sensitizer solution.                     | In a dimly lit room, mix equal parts of Solution A and B. |
+| **1**  | Make your cyanotype solution.                | Prepare the cyanotype sensitizer according to the instructions provided with your kit or chemicals. |
 | **2**  | Coat your paper or fabric.                   | Apply a thin, even coat with a brush or coating rod.     |
 | **3**  | Let it dry completely.                       | Dry in a dark place. A hairdryer can speed this up.      |
 | **4**  | Create your composition.                     | Arrange objects (plants, lace, etc.) or a negative on the surface. |
