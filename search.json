@@ -2,13 +2,17 @@
 layout: null
 ---
 [
-  {% for post in site.posts %}
+  {% assign all_content = site.posts | concat: site.pages %}
+  {% for item in all_content %}
+    {% if item.title and item.url and item.published != false and item.search_exclude != true and item.layout != nil %}
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.categories | join: ', ' }}",
-      "url"      : "{{ post.url | prepend: site.baseurl }}",
-      "date"     : "{{ post.date | date: '%Y-%m-%d' }}",
-      "content"  : {{ post.content | strip_html | strip_newlines | jsonify }}
-    } {% unless forloop.last %},{% endunless %}
+      "title"    : "{{ item.title | escape }}",
+      "type"     : "{% if item.collection == 'posts' %}post{% else %}page{% endif %}",
+      "category" : "{{ item.categories | join: ', ' }}",
+      "url"      : "{{ item.url | prepend: site.baseurl }}",
+      "date"     : "{{ item.date | date: '%Y-%m-%d' }}",
+      "content"  : {{ item.content | strip_html | strip_newlines | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+    {% endif %}
   {% endfor %}
 ]
