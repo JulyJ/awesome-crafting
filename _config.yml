@@ -37,12 +37,6 @@ footer:
       url: "/contact/"
   text: "© 2025 Crafting Supply Hub. Made with ❤️ in Canada."
 
-# Collections
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
 # Include folders
 include:
   - _pages
@@ -54,6 +48,7 @@ exclude:
   - Gemfile.lock
   - node_modules/
   - vendor/
+  - .trash/
 
 # Defaults for sidebar usage
 defaults:
