@@ -37,6 +37,8 @@ module Jekyll
       end
 
       # Write to search.json in the site root
+      dest_dir = File.dirname(File.join(site.dest, 'search.json'))
+      FileUtils.mkdir_p(dest_dir) unless File.exist?(dest_dir)
       File.open(File.join(site.dest, 'search.json'), 'w') do |f|
         f.write(JSON.pretty_generate(items))
       end
