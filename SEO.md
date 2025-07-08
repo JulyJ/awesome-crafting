@@ -29,7 +29,7 @@
 <meta name="description" content="An open-source, ad-free hub for crafters to find resources, guides, and inspiration." />
 <meta property="og:title" content="Crafting Supply Hub" />
 <meta property="og:description" content="An open-source, ad-free hub for crafters." />
-<meta property="og:url" content="https://craftingsupply.com" />
+<meta property="og:url" content="https://craftingsupply.ca" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary_large_image" />
 ```
