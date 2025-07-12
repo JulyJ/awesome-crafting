@@ -38,6 +38,7 @@ seo:
 | **Streaky** | Transparent | Mixed colours | Unpredictable patterns | Artistic effects | Medium |
 | **Waterglass** | Textured | Clear and coloured | Surface texture both sides | Privacy, light diffusion | Medium |
 | **Rondel** | Transparent | Limited colours | Circular, pontil mark | Traditional windows | High |
+| **Acrylic Sheets (Substitute)** | Transparent/Opaque | Full spectrum | Easy to cut, safer | Modern designs, kids' crafts | Low. Source <a href="https://yxecreations.ca/pages/acrylic-sheets" target="_blank" rel="noopener noreferrer">acrylic sheets from YXE Creations Craft Hub</a>. |
 
 ## Lead Came Specifications
 

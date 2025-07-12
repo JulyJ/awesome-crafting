@@ -43,4 +43,6 @@ seo:
 | Gravit Designer | Export > SVG |
 | Illustrator (if used) | SVG 1.1, no CSS |
 
+For laser or machine cutting, you can generate SVG designs with <a href="https://mylasertools.com" target="_blank" rel="noopener noreferrer">My Laser Tools' online SVG generator
+
 ---

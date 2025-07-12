@@ -134,7 +134,7 @@ seo:
 | **Beginner-Friendly** | Glowforge App, LightBurn | 1-2 weeks | $0-60 one-time | Simple cuts, built-in designs |
 | **Professional 2D** | Adobe Illustrator, Inkscape | 1-3 months | $0-240/year | Complex vector work |
 | **CAD Integration** | Fusion 360, SolidWorks | 3-6 months | $60-4000/year | Precision engineering |
-| **Specialized Laser** | RDWorks, LaserGRBL | 2-4 weeks | Free-$100 | Machine-specific optimization |
+| **Specialized Laser** | RDWorks, LaserGRBL, <a href="https://mylasertools.com" target="_blank" rel="noopener noreferrer">My Laser Tools</a> | 2-4 weeks | Free-$100 | Machine-specific optimization |
 
 ### Design File Preparation
 

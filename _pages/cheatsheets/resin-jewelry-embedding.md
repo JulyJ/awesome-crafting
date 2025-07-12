@@ -43,6 +43,7 @@ This technique uses resin to encase small objects like dried flowers, glitter, s
 | **Tweezers**         | Place small objects inside mold           | Precision control                      |
 | **Gloves + Apron**   | Protect hands and clothing                | Always wear gloves while handling resin|
 | **UV Lamp**          | Cure UV resin                             | 36W+ lamp recommended                  |
+| **Resin Supplies**   | High-quality resin, pigments, molds       | Source from <a href="https://yxecreations.ca/pages/resin-arts-and-crafts" target="_blank" rel="noopener noreferrer">YXE Creations</a> for crafter-focused products. |
 | **Doming Resin**     | Adds a rounded top finish                 | Optional, applied after main cure      |
 
 ---

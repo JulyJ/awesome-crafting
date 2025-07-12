@@ -20,6 +20,7 @@ seo:
 
 | Tool | Purpose | Platform |
 |------|---------|----------|
+| <a href="https://mylasertools.com" target="_blank" rel="noopener noreferrer">My Laser Tools</a> | Free SVG generators for laser cutting | Web |
 | **Inkscape** | Create/edit SVGs | Windows, Mac, Linux |
 | **Canva** | Quick mockups, labels | Web, App |
 | **Vectr** | Vector drawing | Web |

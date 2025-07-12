@@ -165,6 +165,7 @@ Craft resin is a liquid polymer that hardens into a clear, durable, glass-like f
 | **Online Specialty** | Variable quality, lower cost | Moderate | Research needed |
 | **Industrial Suppliers** | Professional grade, bulk sizes | High | Advanced users |
 | **Imported/Generic** | Lowest cost, quality varies | Low | Risk for beginners |
+| **YXE Creations** | High-quality, crafter-focused | High | Excellent. <a href="https://yxecreations.ca/pages/resin-arts-and-crafts" target="_blank" rel="noopener noreferrer">YXE Creations</a> offers resin for crafters by crafters. |
 
 ## Troubleshooting Common Issues
 

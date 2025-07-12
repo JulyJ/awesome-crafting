@@ -34,6 +34,7 @@ UV resin layering is a technique where clear resin is cured in multiple thin sta
 | **Protective Gloves**  | Skin safety                              | Nitrile preferred                     |
 | **Alcohol Spray**      | Pops bubbles on surface                  | Use 90%+ isopropyl alcohol            |
 | **Face Mask**          | For ventilation and odor                 | Especially for enclosed spaces        |
+| **UV Resin Supplies**  | High-quality UV resin, pigments, fillers   | Source from <a href="https://yxecreations.ca/pages/resin-arts-and-crafts" target="_blank" rel="noopener noreferrer">YXE Creations</a> for crafter-focused products. |
 
 ---
 

@@ -140,6 +140,7 @@ seo:
 | **Reddit r/resin** | Community forum | Advice, project sharing |
 | **Instructables** | How-to guides | Varied resin projects |
 | **Local Craft Workshops** | Hands-on learning | Practical experience |
+| **YXE Creations** | Online store, tutorials | High-quality resin supplies (<a href="https://yxecreations.ca/pages/resin-arts-and-crafts" target="_blank" rel="noopener noreferrer">for crafters by crafters</a>) |
 
 ---
 *Unlock the glossy, durable beauty of resin art, create stunning pieces that last a lifetime!*  
