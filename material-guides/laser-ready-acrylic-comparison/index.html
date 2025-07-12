@@ -638,6 +638,13 @@
       <td>Low</td>
       <td>Test before bulk purchase</td>
     </tr>
+    <tr>
+      <td><strong>YXE Creations</strong></td>
+      <td>Cast &amp; Extruded</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td><a href="https://yxecreations.ca/pages/acrylic-sheets" target="_blank">YXE Creations</a> offers laser-ready acrylic for crafters by crafters.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -993,6 +1000,20 @@
     </div>
   </footer>
 
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll('a');
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i];
+      // Check if the link has an href attribute and if it's an external link
+      if (link.href && (link.hostname !== window.location.hostname) && !link.target) {
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+    }
+  });
+</script>
 
     <button onclick="window.print()" class="pdf-btn">Download PDF</button>
   </body>

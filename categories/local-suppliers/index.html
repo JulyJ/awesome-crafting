@@ -451,7 +451,7 @@
       <td>SK</td>
       <td>YXE Creations Craft Hub</td>
       <td><a href="https://yxecreations.ca/" target="_blank">yxecreations.ca</a></td>
-      <td>Laser-ready plywood, acrylic, resin, paper</td>
+      <td>Laser-ready plywood, acrylic, resin, paper (for crafters by crafters)</td>
     </tr>
     <tr>
       <td>SK</td>
@@ -567,6 +567,20 @@
     </div>
   </footer>
 
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll('a');
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i];
+      // Check if the link has an href attribute and if it's an external link
+      if (link.href && (link.hostname !== window.location.hostname) && !link.target) {
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+    }
+  });
+</script>
 
     <button onclick="window.print()" class="pdf-btn">Download PDF</button>
   </body>

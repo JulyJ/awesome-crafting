@@ -391,6 +391,13 @@
       <td>Reversible or decorative use</td>
       <td>Needs adhesion prep</td>
     </tr>
+    <tr>
+      <td><strong>Acrylic Sheets</strong></td>
+      <td>Minimal prep</td>
+      <td>Smooth</td>
+      <td>Modern art, signs, mixed media</td>
+      <td>Source <a href="https://yxecreations.ca/pages/acrylic-sheets" target="_blank" rel="noopener noreferrer">acrylic sheets from YXE Creations</a>.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -885,6 +892,20 @@
     </div>
   </footer>
 
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll('a');
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i];
+      // Check if the link has an href attribute and if it's an external link
+      if (link.href && (link.hostname !== window.location.hostname) && !link.target) {
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+    }
+  });
+</script>
 
     <button onclick="window.print()" class="pdf-btn">Download PDF</button>
   </body>

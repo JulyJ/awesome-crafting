@@ -436,6 +436,11 @@
       <td>Shipping Zone</td>
       <td>Near finished goods shelf</td>
     </tr>
+    <tr>
+      <td>Laser Cutter</td>
+      <td>Work Zone / Dedicated Zone</td>
+      <td>Requires ventilation, safety considerations. Find <a href="https://yxecreations.ca/blogs/laser-cutting-and-engraving/laser-cutting-acrylic-safety-concerns" target="_blank" rel="noopener noreferrer">Safety Considerations for Laser Cutting Acrylic</a>.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -483,6 +488,20 @@
     </div>
   </footer>
 
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll('a');
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i];
+      // Check if the link has an href attribute and if it's an external link
+      if (link.href && (link.hostname !== window.location.hostname) && !link.target) {
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+    }
+  });
+</script>
 
     <button onclick="window.print()" class="pdf-btn">Download PDF</button>
   </body>

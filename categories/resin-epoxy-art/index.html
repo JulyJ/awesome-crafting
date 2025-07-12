@@ -749,6 +749,11 @@
       <td>Hands-on learning</td>
       <td>Practical experience</td>
     </tr>
+    <tr>
+      <td><strong>YXE Creations</strong></td>
+      <td>Online store, tutorials</td>
+      <td>High-quality resin supplies (<a href="https://yxecreations.ca/pages/resin-arts-and-crafts" target="_blank" rel="noopener noreferrer">for crafters by crafters</a>)</td>
+    </tr>
   </tbody>
 </table>
 
@@ -796,6 +801,20 @@
     </div>
   </footer>
 
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll('a');
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i];
+      // Check if the link has an href attribute and if it's an external link
+      if (link.href && (link.hostname !== window.location.hostname) && !link.target) {
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+    }
+  });
+</script>
 
     <button onclick="window.print()" class="pdf-btn">Download PDF</button>
   </body>

@@ -484,7 +484,7 @@
 
 <ul>
   <li><strong>Baltic Birch</strong>: Produces clean edges with minimal charring</li>
-  <li><strong>Apple Plywood</strong>: Specifically designed for laser cutting</li>
+  <li><strong>MDF-Core Plywood</strong>: Specifically designed for laser cutting. Source <a href="https://yxecreations.ca/collections/laser-grade-plywood" target="_blank" rel="noopener noreferrer">laser plywood from YXE Creations</a> for consistent quality.</li>
   <li><strong>Poplar</strong>: Good alternative for budget projects</li>
 </ul>
 
@@ -681,6 +681,20 @@
     </div>
   </footer>
 
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll('a');
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i];
+      // Check if the link has an href attribute and if it's an external link
+      if (link.href && (link.hostname !== window.location.hostname) && !link.target) {
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+    }
+  });
+</script>
 
     <button onclick="window.print()" class="pdf-btn">Download PDF</button>
   </body>

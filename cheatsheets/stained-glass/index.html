@@ -411,6 +411,14 @@
       <td>Traditional windows</td>
       <td>High</td>
     </tr>
+    <tr>
+      <td><strong>Acrylic Sheets (Substitute)</strong></td>
+      <td>Transparent/Opaque</td>
+      <td>Full spectrum</td>
+      <td>Easy to cut, safer</td>
+      <td>Modern designs, kids’ crafts</td>
+      <td>Low. Source <a href="https://yxecreations.ca/pages/acrylic-sheets" target="_blank" rel="noopener noreferrer">acrylic sheets from YXE Creations Craft Hub</a>.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1258,6 +1266,20 @@
     </div>
   </footer>
 
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll('a');
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i];
+      // Check if the link has an href attribute and if it's an external link
+      if (link.href && (link.hostname !== window.location.hostname) && !link.target) {
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+    }
+  });
+</script>
 
     <button onclick="window.print()" class="pdf-btn">Download PDF</button>
   </body>

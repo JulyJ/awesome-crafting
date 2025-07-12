@@ -834,7 +834,7 @@
     </tr>
     <tr>
       <td><strong>Specialized Laser</strong></td>
-      <td>RDWorks, LaserGRBL</td>
+      <td>RDWorks, LaserGRBL, <a href="https://mylasertools.com" target="_blank" rel="noopener noreferrer">My Laser Tools</a></td>
       <td>2-4 weeks</td>
       <td>Free-$100</td>
       <td>Machine-specific optimization</td>
@@ -1485,6 +1485,20 @@
     </div>
   </footer>
 
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll('a');
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i];
+      // Check if the link has an href attribute and if it's an external link
+      if (link.href && (link.hostname !== window.location.hostname) && !link.target) {
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+      }
+    }
+  });
+</script>
 
     <button onclick="window.print()" class="pdf-btn">Download PDF</button>
   </body>
