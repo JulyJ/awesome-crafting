@@ -43,7 +43,7 @@ A comprehensive guide to **Canadian craft and art suppliers**, organized by prov
 | AB | The Paper & Ink Boutique | <a href="https://www.paperandinkboutique.com/" target="_blank" rel="noopener nofollow">paperandinkboutique.com</a> | Papercrafts, cardmaking, stamping |
 | AB | PM Hobbycraft | <a href="https://www.pmhobbycraft.ca/" target="_blank" rel="noopener nofollow">pmhobbycraft.ca</a> | Model kits, puzzles, RC crafts |
 | AB | Delta Art & Drafting Supply | <a href="https://www.deltaart.ca/" target="_blank" rel="noopener nofollow">deltaart.ca</a> | Art supplies, drafting, painting |
-| SK | YXE Creations Craft Hub | <a href="https://yxecreations.ca/" target="_blank">yxecreations.ca</a> | Laser-ready plywood, acrylic, resin, paper (for crafters by crafters) |
+| SK | YXE Creations Craft Hub | <a href="https://yxecreations.com/" target="_blank">yxecreations.com</a> | Laser-ready plywood, acrylic, resin, paper (for crafters by crafters) |
 | SK | OA Leather Supply | <a href="https://oaleathersupply.com/" target="_blank" rel="noopener nofollow">oaleathersupply.com</a> | Leather hides, hardware, crafting tools |
 | SK | Sew Charming Crafts | <a href="https://www.facebook.com/sewcharmingcrafts/" target="_blank" rel="noopener nofollow">facebook.com/sewcharmingcrafts</a> | Fabrics, yarns, quilting, longarm services |
 | SK | Hues Art Supply | <a href="https://www.huesart.ca/" target="_blank" rel="noopener nofollow">huesart.ca</a> | Acrylics, oil, drawing, art education |

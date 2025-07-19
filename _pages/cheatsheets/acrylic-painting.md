@@ -38,7 +38,7 @@ seo:
 | **Wood Panels**       | Gesso recommended   | Smooth-Hard  | Mixed media, heavy texture    | Durable and professional finish   |
 | **Watercolour Paper**  | Gesso required      | Textured     | Mixed media                   | Use thicker (300gsm+) paper       |
 | **Glass/Plastic**     | Sealer/Primer       | Smooth       | Reversible or decorative use  | Needs adhesion prep               |
-| **Acrylic Sheets**    | Minimal prep        | Smooth       | Modern art, signs, mixed media | Source <a href="https://yxecreations.ca/pages/acrylic-sheets" target="_blank" rel="noopener noreferrer">acrylic sheets from YXE Creations</a>. |
+| **Acrylic Sheets**    | Minimal prep        | Smooth       | Modern art, signs, mixed media | Source <a href="https://yxecreations.com/pages/acrylic-sheets" target="_blank" rel="noopener noreferrer">acrylic sheets from YXE Creations</a>. |
 
 ---
 

@@ -88,7 +88,7 @@ seo:
 | Optix | Extruded | Medium | Medium | Budget-friendly |
 | Plaskolite | Mixed | Variable | Low-Medium | Check specifications |
 | Generic | Usually Extruded | Variable | Low | Test before bulk purchase |
-| **YXE Creations** | Cast & Extruded | High | Medium | <a href="https://yxecreations.ca/pages/acrylic-sheets" target="_blank">YXE Creations</a> offers laser-ready acrylic for crafters by crafters. |
+| **YXE Creations** | Cast & Extruded | High | Medium | <a href="https://yxecreations.com/pages/acrylic-sheets" target="_blank">YXE Creations</a> offers laser-ready acrylic for crafters by crafters. |
 
 ## Troubleshooting Common Issues
 

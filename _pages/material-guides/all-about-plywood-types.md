@@ -83,7 +83,7 @@ When selecting plywood for laser cutting, several factors affect cut quality and
 **Optimal Choices:**
 
 - **Baltic Birch**: Produces clean edges with minimal charring
-- **MDF-Core Plywood**: Specifically designed for laser cutting. Source <a href="https://yxecreations.ca/collections/laser-grade-plywood" target="_blank" rel="noopener noreferrer">laser plywood from YXE Creations</a> for consistent quality.
+- **MDF-Core Plywood**: Specifically designed for laser cutting. Source <a href="https://yxecreations.com/collections/laser-grade-plywood" target="_blank" rel="noopener noreferrer">laser plywood from YXE Creations</a> for consistent quality.
 - **Poplar**: Good alternative for budget projects
 
 **Avoid for Laser Cutting:**

@@ -62,7 +62,7 @@ seo:
 | Heat Press | Finishing Zone | Heat-resistant surface |
 | Paint Supplies | Finishing or Wet Zone | Separate from electronics |
 | Packing Materials | Shipping Zone | Near finished goods shelf |
-| Laser Cutter | Work Zone / Dedicated Zone | Requires ventilation, safety considerations. Find <a href="https://yxecreations.ca/blogs/laser-cutting-and-engraving/laser-cutting-acrylic-safety-concerns" target="_blank" rel="noopener noreferrer">Safety Considerations for Laser Cutting Acrylic</a>. |
+| Laser Cutter | Work Zone / Dedicated Zone | Requires ventilation, safety considerations. Find <a href="https://yxecreations.com/blogs/laser-cutting-and-engraving/laser-cutting-acrylic-safety-concerns" target="_blank" rel="noopener noreferrer">Safety Considerations for Laser Cutting Acrylic</a>. |
 
 ---
 *Design with purpose, build the studio that works for you.*
