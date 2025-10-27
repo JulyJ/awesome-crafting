@@ -23,6 +23,7 @@ Explore in-depth guides and comparisons for popular crafting materials.
 | [Embroidery Floss & Thread Guide](/material-guides/embroidery-floss-thread-guide/) | Guide to embroidery floss, thread types, and techniques. |
 | [Jewelry Beads & Stringing Guide](/material-guides/jewelry-beads-stringing-guide/) | Guide to jewelry beads, stringing materials, and tools. |
 | [Jewelry Wire & Findings Guide](/material-guides/jewelry-wire-findings-guide/) | Guide to jewelry wire gauges, findings, and components. |
+| [Paper Types for Crafting](/material-guides/paper-types-for-crafting/) | Master paper crafting with this comprehensive guide covering weights, finishes, specialty papers, and the best types for every project from origami to scrapbooking. |
 | [Polymer Clay for Beginners](/material-guides/polymer-clay-for-beginners/) | Guide to polymer clay types, properties, and working tips. |
 | [Resin for Beginners](/material-guides/resin-for-beginners/) | Guide to resin types, properties, and applications. |
 | [Soap Making Guide](/material-guides/soap-making-guide/) | Complete guide to soap making materials and supplies. |
