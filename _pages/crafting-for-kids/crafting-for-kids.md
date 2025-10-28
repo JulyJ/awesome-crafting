@@ -26,4 +26,5 @@ Discover fun, safe, and creative craft ideas and resources for children of all a
 | [Recycled Crafts for Kids](/crafting-for-kids/recycled-crafts-for-kids/) | Teach kids about sustainability and creativity at the same time. These projects use cardboard, paper scraps, and found items for maximum fun with minimal cost. |
 | [Science-Based Crafts for Kids](/crafting-for-kids/science-crafts/) | A collection of fun and educational craft ideas for kids that teach scientific principles. |
 | [Seasonal Crafts for Kids](/crafting-for-kids/seasonal-crafts/) | A collection of fun and easy craft ideas for kids, inspired by the four seasons. |
+| [Seasonal Toddler Crafts](/crafting-for-kids/seasonal-toddler-crafts/) | Discover easy, age-appropriate seasonal crafts for toddlers with minimal mess, maximum fun, and developmental benefits. Includes safety tips, supply lists, and step-by-step guidance for every season. |
 | [Storybook Crafts for Kids](/crafting-for-kids/storybook-crafts/) | A collection of fun and creative craft ideas for kids based on popular children's books. |

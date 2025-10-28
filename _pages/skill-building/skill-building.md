@@ -22,6 +22,7 @@ seo:
 | [Advanced Techniques](/skill-building/advanced-techniques/) | Take your skills to the next level with advanced methods. |
 | [Beginner Friendly Projects](/skill-building/beginner-friendly-projects/) | Easy projects to get you started. |
 | [Colour Confidence](/skill-building/colour-confidence/) | Master colour theory and application. |
+| [Color Theory for Crafters](/skill-building/color-theory-for-crafters/) | Learn practical color theory to create stunning craft projects. Master color wheels, harmonies, psychology, and professional palette selection for any craft medium. |
 | [Cross-Craft Skills](/skill-building/cross-craft-skills/) | Skills that apply across multiple crafts. |
 | [Cutting Mastery](/skill-building/cutting-mastery/) | Improve your cutting accuracy and safety. |
 | [Miniatures & Tiny Details](/skill-building/miniatures-tiny-details/) | Tips for working with miniatures and fine details. |
