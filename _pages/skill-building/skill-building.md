@@ -29,4 +29,5 @@ seo:
 | [Practice Exercises](/skill-building/practice-exercises/) | Exercises to build and maintain your skills. |
 | [Practice to Reignite Inspiration](/skill-building/practice-to-reignite-inspiration/) | Get inspired and break creative blocks. |
 | [Scale and Proportion](/skill-building/scale-and-proportion/) | Learn about scale and proportion in crafting. |
+| [Soldering for Crafters: Complete Electronics Basics Guide](/skill-building/soldering-for-crafters-electronics-basics/) | Master soldering and electronics basics for craft projects. Learn tools, techniques, safety, circuit fundamentals, LED projects, and troubleshooting—from your first solder joint to creating illuminated displays. |
 | [Track Your Crafting Progress](/skill-building/track-your-crafting-progress/) | Methods to track and reflect on your progress. |
