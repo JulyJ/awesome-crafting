@@ -49,3 +49,10 @@ Feel free to open issues or submit pull requests for new ideas, bug fixes, or im
 ## License
 
 This blog’s content is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). See the LICENSE file for details.
+
+## Project Support
+This project is supported by a few maker-focused businesses. If you work with laser cutting, CNC, or digital art, you might find them useful too.
+- **[MyLaserTools](https://mylasertools.com)** — tools and resources for laser cutting, CNC machining, and 3D printing.
+- **[YXE Creations Craft Hub](https://yxecreations.com)** — a laser craft supply store for acrylic, plywood, and maker materials.
+- **[Lumicry](https://lumicry.com)** — digital luminous neon and acrylic art powered by LEDs and custom electronics.
+
