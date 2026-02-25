@@ -17,6 +17,8 @@ Find creative inspiration, project ideas, and stories from the crafting communit
 
 | Article | Description |
 |---|---|
+| [Crochet Amigurumi: TikTok's Viral Plushie Obsession](/inspiration/crochet-amigurumi-trend/) | From frog mochi to axolotl plushies, discover the viral TikTok craft of crocheting stuffed animals. Covers supplies, core techniques, trending patterns, and tips for beginners. |
+| [Book Nook Dioramas: Build a Tiny World Inside Your Bookshelf](/inspiration/book-nook-dioramas/) | Learn how to create book nook dioramas — the viral TikTok craft that turns empty shelf space into magical miniature worlds with forced perspective, LED lighting, and tiny details. |
 | [Building a Craft Portfolio](/inspiration/building-craft-portfolio/) | Create a compelling craft portfolio that showcases your skills, attracts clients, and opens opportunities. Learn photography, curation, presentation formats, and strategies for every craft type and career goal. |
 | [Colour Theory for Crafters](/inspiration/colourr-theory-for-crafters/) | A practical guide tocolourur theory for crafters. Learn how to uscolourour to create mood, harmony, and visual interest in your projects. |
 | [Crafting for Mindfulness and Relaxation](/inspiration/crafting-for-mindfulness/) | A guide to using crafting as a tool for mindfulness and relaxation. |
@@ -30,6 +32,7 @@ Find creative inspiration, project ideas, and stories from the crafting communit
 | [Moodboard Your Ideas](/inspiration/moodboard-your-ideas/) | Before you begin your next big craft project, gather your thoughts and visuals into a clear, inspiring moodboard. It's a simple way to stay on theme and improve your results. |
 | [Overcoming Creative Block](/inspiration/overcoming-creative-block/) | A guide to overcoming creative block and reigniting your passion for crafting. |
 | [Pretty but Wrong: When Crafts Are Slightly Uncomfortable](/inspiration/pretty-but-wrong-crafts/) | Master the art of intentional wrongness: symmetry that's slightly off, colors that almost match, objects that look fine until you stare. Explore the aesthetic space between perfect and broken where discomfort becomes compelling. |
+| [Punch Needle Embroidery: TikTok's Most Satisfying Craft Trend](/inspiration/punch-needle-embroidery/) | Punch needle is flooding TikTok feeds with its hypnotic looping motion and chunky textured results. Learn what you need, how the technique works, and tips for creating your first looped textile art piece. |
 | [Soft Apocalypse: Crafting Cute Things That Look Slightly Cursed](/inspiration/soft-apocalypse-crafting/) | Explore the Soft Apocalypse aesthetic—where pastel colors meet dark symbolism, cozy intersects with wrong, and adorable objects carry unsettling undertones. Learn to craft pieces that comfort and unsettle in equal measure. |
 | [The Soft Machinery Trend: Crafting Fake Tech That Feels Emotional](/inspiration/soft-machinery-trend/) | Create technology that comforts instead of functions. Explore the soft machinery trend—buttons, wires, screens, circuits—made cozy, emotional, and entirely non-functional. Tech as feeling instead of tool. |
 | [Turning a Crafting Hobby into a Business](/inspiration/crafting-hobby-to-business/) | A guide to turning your crafting hobby into a successful business. |
