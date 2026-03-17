@@ -30,7 +30,6 @@ A directory of Canadian manufacturers producing craft materials domestically.
 | Material | Manufacturer | Location | Website |
 |----------|--------------|----------|---------|
 | TruFlat Laser Plywood | TruFlat Plywood | Canada | <a href="https://truflatplywood.com" target="_blank" rel="noopener nofollow">truflatplywood.com</a> |
-| Baltic Birch Plywood | KJP Select Hardwoods | Canada | <a href="https://kjpselecthardwoods.com" target="_blank" rel="noopener nofollow">kjpselecthardwoods.com</a> |
 
 ## Resins & Epoxy
 
