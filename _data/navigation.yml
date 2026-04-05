@@ -37,3 +37,5 @@ side:
     url: "/categories/business/"
   - title: "Inspiration"
     url: "/categories/inspiration/"
+  - title: "Start a Hobby Right"
+    url: "/categories/hobby-starter/"

@@ -30,6 +30,16 @@ Your open source resource for crafters in Canada and beyond, no ads, no paid pos
 | [Craft Business](/categories/business/) | Tips and resources for running a craft business. |
 | [Inspiration](/categories/inspiration/) | Get inspired with prompts, moodboards, and stories. |
 
+## How to Start a Hobby Right
+
+New to a machine-based craft? These guides are written for people who just unboxed their first laser cutter, CNC router, or 3D printer and have no idea where to begin.
+
+| Guide | What You'll Learn |
+|---|---|
+| [I Bought a Laser Cutter — What's Next?](/hobby-starter/laser-cutter-first-steps/) | Safety, software, SVG basics, and your first cut: a plant stake. |
+| [I Bought a CNC Router — What's Next?](/hobby-starter/cnc-router-first-steps/) | Tooling, feeds and speeds, CAM software, and a first wood plant stake project. |
+| [I Bought a 3D Printer — What's Next?](/hobby-starter/3d-printer-first-steps/) | Bed levelling, slicers, finding free models, and printing your first plant stake. |
+
 **Other useful links:**
 
 - [Search](/search/)
