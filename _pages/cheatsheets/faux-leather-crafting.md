@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [fabrics, sewing, upcycling, DIY, accessories]
 tags: [faux leather, leather crafting, vegan leather, bag making, cutting machines, cheatsheet]
-excerpt: "Master faux leather crafting with this cheatsheet—learn tools, adhesives, cutting methods, project tips, and finishing techniques for stylish and durable creations."
+excerpt: "Master faux leather crafting with this cheatsheet, learn tools, adhesives, cutting methods, project tips, and finishing techniques for stylish and durable creations."
 seo:
   title: "Faux Leather Crafting Cheatsheet | Crafting Supply Hub"
-  description: "Complete guide to working with faux leather—cutting tools, adhesives, machine tips, beginner projects, and edge finishing techniques."
+  description: "Complete guide to working with faux leather, cutting tools, adhesives, machine tips, beginner projects, and edge finishing techniques."
   type: "article"
   keywords: [faux leather, vegan leather, DIY accessories, Cricut faux leather, machine cutting, handmade bags]
   canonical_url: "https://craftingsupply.ca/cheatsheets/faux-leather-crafting/"
@@ -122,15 +122,15 @@ Faux leather is a synthetic material that mimics the look and feel of genuine le
 ## FAQ
 
 **Can I sew faux leather with a regular machine?**  
-Yes—with a heavy-duty needle, long stitch length, and walking foot (if possible).
+Yes, with a heavy-duty needle, long stitch length, and walking foot (if possible).
 
 **What’s the best faux leather for earrings?**  
-Thin PU or glitter-backed faux leather—lightweight but holds shape well.
+Thin PU or glitter-backed faux leather, lightweight but holds shape well.
 
 **Does faux leather fray?**  
-No—it doesn’t fray like fabric, but raw edges can look unfinished if not sealed.
+No, it doesn’t fray like fabric, but raw edges can look unfinished if not sealed.
 
 **Can you iron faux leather?**  
-Generally not directly—use a pressing cloth and low heat cautiously.
+Generally not directly, use a pressing cloth and low heat cautiously.
 
 ---

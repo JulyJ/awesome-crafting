@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [DIY, painting, home-decor, crafts, surface-arts]
 tags: [stone painting, rock art, painted rocks, acrylic painting, nature crafts, cheatsheet, mandala stones]
-excerpt: "Get started with stone painting using this cheatsheet—covering stone prep, brush types, paint choices, sealing tips, and fun beginner project ideas."
+excerpt: "Get started with stone painting using this cheatsheet, covering stone prep, brush types, paint choices, sealing tips, and fun beginner project ideas."
 seo:
   title: "Stone Painting Cheatsheet | Crafting Supply Hub"
-  description: "Learn how to paint stones with this complete guide—includes prep tips, best paints and brushes, sealing methods, and beginner design ideas."
+  description: "Learn how to paint stones with this complete guide, includes prep tips, best paints and brushes, sealing methods, and beginner design ideas."
   type: "article"
   keywords: [stone painting, painted rocks, acrylic paint on stone, rock art guide, nature painting, mandala rock art]
   canonical_url: "https://craftingsupply.ca/cheatsheets/stone-painting/"
@@ -112,10 +112,10 @@ seo:
 Yes, but seal it to protect from moisture and wear.
 
 **How long should I wait before sealing?**  
-Wait until the paint is completely dry—typically 24 hours for safety.
+Wait until the paint is completely dry, typically 24 hours for safety.
 
 **Can I use nail polish instead of paint?**  
-It’s not recommended—it can chip, yellow over time, and is hard to seal.
+It’s not recommended, it can chip, yellow over time, and is hard to seal.
 
 **Do I have to seal indoor stones?**  
 Not always, but sealing adds a professional finish and protects the paint.

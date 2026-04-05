@@ -154,4 +154,4 @@ seo:
 | **Brush Care**          | Rinse immediately, store bristle-up    | Prevents damage                      |
 | **Organized Palette**   | Arrange by colour family                | Faster mixing and cleaner work       |
 | **Lighting**            | Natural light or daylight bulbs        | Accurate colour perception            |
-| **Surface Protection**  | Drop cloth or plastic sheet            | Acrylic dries hard—difficult to clean|
+| **Surface Protection**  | Drop cloth or plastic sheet            | Acrylic dries hard, difficult to clean|

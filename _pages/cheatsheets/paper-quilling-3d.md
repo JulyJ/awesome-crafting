@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [paper crafts, sculpting, DIY, quilling]
 tags: [paper quilling, 3D quilling, paper sculpture, quilled art, cheatsheet]
-excerpt: "Build beautiful dimensional paper art with this paper quilling 3D sculptures cheatsheet—learn tools, techniques, coil types, and construction tips."
+excerpt: "Build beautiful dimensional paper art with this paper quilling 3D sculptures cheatsheet, learn tools, techniques, coil types, and construction tips."
 seo:
   title: "Paper Quilling 3D Sculptures Cheatsheet | Crafting Supply Hub"
-  description: "Learn how to create 3D paper quilling sculptures with this complete guide—tools, shapes, gluing tips, and beginner project ideas."
+  description: "Learn how to create 3D paper quilling sculptures with this complete guide, tools, shapes, gluing tips, and beginner project ideas."
   type: "article"
   keywords: [paper quilling, 3D paper art, paper sculpture, quilling techniques, DIY paper crafts]
   canonical_url: "https://craftingsupply.ca/cheatsheets/paper-quilling-3d/"
@@ -18,7 +18,7 @@ seo:
 
 ## What is 3D Paper Quilling?
 
-3D paper quilling is the art of rolling, shaping, and assembling strips of paper into dimensional sculptures—like animals, flowers, figures, and decorative objects—by stacking and shaping basic coils and forms.
+3D paper quilling is the art of rolling, shaping, and assembling strips of paper into dimensional sculptures, like animals, flowers, figures, and decorative objects, by stacking and shaping basic coils and forms.
 
 ---
 
@@ -132,7 +132,7 @@ Yes! Use rounded objects like marbles or the back of a spoon as a substitute.
 Use wider paper strips and reinforce internal layers with glue as you build.
 
 **What kind of glue should I use?**  
-Clear-drying white craft glue works best—avoid runny or watery glues.
+Clear-drying white craft glue works best, avoid runny or watery glues.
 
 **Can kids do 3D quilling?**  
 Absolutely! Supervise with scissors and use larger shapes for ease.

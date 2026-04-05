@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [natural dyeing, foraging, eco-crafts, DIY, fiber arts, sustainability]
 tags: [natural dyes, foraging, botanical dyeing, eco printing, fabric dyeing, sustainable crafts, cheatsheet]
-excerpt: "Explore the world of natural dyeing with this handy guide—learn safe foraging, plant-based colour sources, extraction techniques, and beginner projects."
+excerpt: "Explore the world of natural dyeing with this handy guide, learn safe foraging, plant-based colour sources, extraction techniques, and beginner projects."
 seo:
   title: "Foraging & Natural Dyeing Cheatsheet | Crafting Supply Hub"
-  description: "Complete guide to foraging and natural dyeing—includes colour charts, dye plant lists, safety tips, fiber prep, mordanting methods, and beginner projects."
+  description: "Complete guide to foraging and natural dyeing, includes colour charts, dye plant lists, safety tips, fiber prep, mordanting methods, and beginner projects."
   type: "article"
   keywords: [natural dyeing, plant dyeing, eco dye, foraging guide, fiber arts, botanical colour, DIY dyes]
   canonical_url: "https://craftingsupply.ca/cheatsheets/foraging-natural-dyeing/"
@@ -37,7 +37,7 @@ seo:
 | **Orange**     | Coreopsis, carrot tops, lichen                   | Bright with alum mordant               |
 | **Red**        | Madder root, sumac berries, strawberry leaves    | Madder is cultivated, not wild         |
 | **Pink**       | Avocado skins/pits, raspberry leaves             | Avocados give dusty rose, not hot pink |
-| **Purple**     | Elderberries, pokeweed (toxic), purple basil     | Delicate—can fade                      |
+| **Purple**     | Elderberries, pokeweed (toxic), purple basil     | Delicate, can fade                      |
 | **Blue**       | Woad, indigo (not wild), red cabbage (modifier)  | Harder to extract from wild plants     |
 | **Brown**      | Black walnut husks, acorns, alder cones          | Excellent for warm tones               |
 | **Gray/Black** | Iron modifiers + tannin-rich plants              | Use oak galls, black tea, sumac        |

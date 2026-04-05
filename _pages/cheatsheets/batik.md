@@ -7,7 +7,7 @@ sidebar:
 date: 2025-07-02
 categories: [textiles, crafts, dyeing, DIY, traditional]
 tags: [batik, wax resist dyeing, fabric dyeing, textile crafts, Indonesian crafts, cheatsheet]
-excerpt: "Learn the essentials of batik making—from tools and materials to waxing, dyeing techniques, and finishing steps. Ideal for beginners and artisans."
+excerpt: "Learn the essentials of batik making, from tools and materials to waxing, dyeing techniques, and finishing steps. Ideal for beginners and artisans."
 seo:
   title: "Batik Cheatsheet | Crafting Supply Hub"
   description: "Comprehensive guide to batik fabric art covering wax application, dye types, fabric selection, tools, and care tips."
@@ -98,7 +98,7 @@ seo:
 | **Use Natural Fibers**     | Easier dye absorption and better results |
 | **Work in Sections**       | Apply wax and dye in manageable areas  |
 | **Plan Colour Order**       | Dye from light to dark for layering     |
-| **Protect Work Area**      | Wax and dye can be messy—use covers     |
+| **Protect Work Area**      | Wax and dye can be messy, use covers     |
 
 ---
 

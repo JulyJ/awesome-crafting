@@ -20,7 +20,7 @@ seo:
 
 The maker movement has transformed crafting from purely hands-on techniques into a hybrid discipline where soldering irons work alongside paintbrushes, microcontrollers complement fabric, and code brings static art to life. Modern makers are redefining what it means to be a craftsperson by seamlessly integrating electronics, programming, and engineering with traditional artistic skills.
 
-This isn't about replacing traditional craft—it's about expansion. The same patience required for hand-embroidery translates to careful PCB soldering. The color theory used in painting applies to LED selection. The precision of woodworking matches the exactness needed for circuit design. Today's makers prove that craft and technology aren't opposing forces—they're collaborative partners creating entirely new forms of expression.
+This isn't about replacing traditional craft, it's about expansion. The same patience required for hand-embroidery translates to careful PCB soldering. The color theory used in painting applies to LED selection. The precision of woodworking matches the exactness needed for circuit design. Today's makers prove that craft and technology aren't opposing forces, they're collaborative partners creating entirely new forms of expression.
 
 ## Why Craft and Technology Belong Together
 
@@ -37,21 +37,21 @@ This isn't about replacing traditional craft—it's about expansion. The same pa
 
 | Technology | Craft Applications | Skill Level | Learning Curve | Cost to Start |
 |---|---|---|---|---|
-| **LED Lighting** | Illuminated displays, wearables, home decor | Beginner | Low—simple circuits | $10-30 |
-| **Arduino/Microcontrollers** | Interactive art, sensors, automation | Intermediate | Medium—basic programming | $25-50 |
-| **Soldering** | Permanent circuits, repairs, custom electronics | Beginner-Intermediate | Low-Medium—practice needed | $30-60 |
-| **PCB Design** | Custom circuit boards, professional projects | Advanced | High—technical knowledge | $0 (software) |
-| **3D Printing** | Enclosures, mounts, custom parts | Intermediate | Medium—CAD skills | $200-500 (printer) |
-| **Laser Cutting** | Precise acrylic work, enclosures, templates | Intermediate | Low-Medium—design software | $300-3000 or makerspace |
-| **E-Textiles** | Wearable electronics, soft circuits | Beginner-Intermediate | Medium—electronics + sewing | $20-50 |
+| **LED Lighting** | Illuminated displays, wearables, home decor | Beginner | Low, simple circuits | $10-30 |
+| **Arduino/Microcontrollers** | Interactive art, sensors, automation | Intermediate | Medium, basic programming | $25-50 |
+| **Soldering** | Permanent circuits, repairs, custom electronics | Beginner-Intermediate | Low-Medium, practice needed | $30-60 |
+| **PCB Design** | Custom circuit boards, professional projects | Advanced | High, technical knowledge | $0 (software) |
+| **3D Printing** | Enclosures, mounts, custom parts | Intermediate | Medium, CAD skills | $200-500 (printer) |
+| **Laser Cutting** | Precise acrylic work, enclosures, templates | Intermediate | Low-Medium, design software | $300-3000 or makerspace |
+| **E-Textiles** | Wearable electronics, soft circuits | Beginner-Intermediate | Medium, electronics + sewing | $20-50 |
 
 ## Featured Maker: Lumicry
 
-One inspiring example of craft meeting engineering is [Lumicry](https://lumicry.com/), a Canadian artist and maker who creates stunning luminous acrylic displays and illuminated art pieces. Their work exemplifies how traditional craft skills—precision cutting, aesthetic design, and careful assembly—combine with modern technology like LED programming, circuit design, and engineering principles.
+One inspiring example of craft meeting engineering is [Lumicry](https://lumicry.com/), a Canadian artist and maker who creates stunning luminous acrylic displays and illuminated art pieces. Their work exemplifies how traditional craft skills, precision cutting, aesthetic design, and careful assembly, combine with modern technology like LED programming, circuit design, and engineering principles.
 
-What makes Lumicry's approach remarkable is the seamless integration: the electronics aren't an afterthought or a gimmick—they're fundamental to the artistic vision. Each piece demonstrates that understanding both the craft of working with acrylic and the science of lighting creates something neither discipline could achieve alone. Their luminous displays showcase how computer science, engineering, and hands-on craftsmanship can merge into cohesive, beautiful functional art.
+What makes Lumicry's approach remarkable is the seamless integration: the electronics aren't an afterthought or a gimmick, they're fundamental to the artistic vision. Each piece demonstrates that understanding both the craft of working with acrylic and the science of lighting creates something neither discipline could achieve alone. Their luminous displays showcase how computer science, engineering, and hands-on craftsmanship can merge into cohesive, beautiful functional art.
 
-For crafters interested in exploring this intersection, Lumicry's work offers a masterclass in balancing technical precision with artistic vision—every LED placement is intentional, every acrylic edge is clean, and every piece of code serves the overall aesthetic. This is the essence of modern making: technology in service of craft, craft elevated by technology.
+For crafters interested in exploring this intersection, Lumicry's work offers a masterclass in balancing technical precision with artistic vision, every LED placement is intentional, every acrylic edge is clean, and every piece of code serves the overall aesthetic. This is the essence of modern making: technology in service of craft, craft elevated by technology.
 
 ## Types of Tech-Enhanced Craft
 
@@ -127,7 +127,7 @@ For crafters interested in exploring this intersection, Lumicry's work offers a 
 | **Hide or Showcase** | Intentional visibility of technology | Either conceal wires cleanly or make them a design element |
 | **Accessibility** | Maintenance and batteries | Design for easy battery changes, troubleshooting |
 | **Safety First** | Prevent shorts, overheating, hazards | Insulate connections, use appropriate power, heat management |
-| **Iteration** | First version rarely perfect | Prototype, test, refine—embrace the process |
+| **Iteration** | First version rarely perfect | Prototype, test, refine, embrace the process |
 | **User Experience** | Interaction should feel natural | Test with others, consider interface design |
 
 ## Inspirational Project Ideas
@@ -260,16 +260,16 @@ For crafters interested in exploring this intersection, Lumicry's work offers a 
 
 | Emerging Trend | What It Enables | Accessibility | Future Impact |
 |---|---|---|---|
-| **Affordable PCB Manufacturing** | Custom electronics for everyone | Growing—services like JLCPCB | More makers create unique products |
-| **AI-Assisted Design** | Code generation, design optimization | Emerging—ChatGPT, GitHub Copilot | Lower barrier to technical projects |
-| **Better LEDs** | More colors, control, efficiency | High—constant innovation | More sophisticated light art |
-| **Maker Education** | Schools teaching electronics, making | Growing—STEM focus, makerspaces | Next generation of tech-craft makers |
-| **Sustainable Tech** | Eco-friendly materials, solar power | Growing—increased awareness | Responsible, environmentally conscious making |
-| **Open Source Hardware** | Shared designs, collaborative innovation | High—platforms like GitHub | Faster innovation, community building |
+| **Affordable PCB Manufacturing** | Custom electronics for everyone | Growing, services like JLCPCB | More makers create unique products |
+| **AI-Assisted Design** | Code generation, design optimization | Emerging, ChatGPT, GitHub Copilot | Lower barrier to technical projects |
+| **Better LEDs** | More colors, control, efficiency | High, constant innovation | More sophisticated light art |
+| **Maker Education** | Schools teaching electronics, making | Growing, STEM focus, makerspaces | Next generation of tech-craft makers |
+| **Sustainable Tech** | Eco-friendly materials, solar power | Growing, increased awareness | Responsible, environmentally conscious making |
+| **Open Source Hardware** | Shared designs, collaborative innovation | High, platforms like GitHub | Faster innovation, community building |
 
 ## Your Maker Journey Starts Here
 
-The intersection of craft and technology isn't reserved for engineers or programmers—it's open to anyone willing to learn, experiment, and embrace the blend of traditional skills and modern tools. You already have the most important skill: the maker mindset. Patience, attention to detail, problem-solving, and creative vision transfer directly from traditional craft to technical work.
+The intersection of craft and technology isn't reserved for engineers or programmers, it's open to anyone willing to learn, experiment, and embrace the blend of traditional skills and modern tools. You already have the most important skill: the maker mindset. Patience, attention to detail, problem-solving, and creative vision transfer directly from traditional craft to technical work.
 
 **Start today:**
 1. **Choose one simple project** from the beginner list above
@@ -280,8 +280,8 @@ The intersection of craft and technology isn't reserved for engineers or program
 6. **Share your work** online or with friends
 7. **Keep learning** one new skill at a time
 
-The makers featured here—from [Lumicry's](https://lumicry.com/) luminous acrylic displays to e-textile artists creating wearable technology—all started exactly where you are: curious, uncertain, but willing to try. The only difference between them and beginners is time, practice, and persistence.
+The makers featured here, from [Lumicry's](https://lumicry.com/) luminous acrylic displays to e-textile artists creating wearable technology, all started exactly where you are: curious, uncertain, but willing to try. The only difference between them and beginners is time, practice, and persistence.
 
-Technology doesn't diminish craft—it expands what's possible. Your unique combination of artistic vision and emerging technical skills will create things that couldn't exist otherwise. Whether you're adding a simple LED to a card or building complex interactive installations, you're part of a movement redefining what it means to be a craftsperson in the modern age.
+Technology doesn't diminish craft, it expands what's possible. Your unique combination of artistic vision and emerging technical skills will create things that couldn't exist otherwise. Whether you're adding a simple LED to a card or building complex interactive installations, you're part of a movement redefining what it means to be a craftsperson in the modern age.
 
 The tools are accessible. The community is welcoming. The possibilities are limitless. Your first tech-enhanced craft project awaits.

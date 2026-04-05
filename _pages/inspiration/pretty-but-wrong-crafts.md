@@ -10,7 +10,7 @@ tags: [uncanny-crafts, aesthetic-discomfort, intentional-wrongness, art-theory, 
 excerpt: "Master the art of intentional wrongness: symmetry that's slightly off, colors that almost match, objects that look fine until you stare. Explore the aesthetic space between perfect and broken where discomfort becomes compelling."
 seo:
   title: "Pretty but Wrong: Crafting Intentional Visual Discomfort | Crafting Supply Hub"
-  description: "Learn to create crafts with intentional wrongness—slight asymmetry, near-matching colors, and subtle unsettling details that create compelling aesthetic discomfort."
+  description: "Learn to create crafts with intentional wrongness, slight asymmetry, near-matching colors, and subtle unsettling details that create compelling aesthetic discomfort."
   type: "article"
   keywords: [uncanny crafts, aesthetic discomfort, intentional wrongness, asymmetrical art, visual tension, conceptual crafting, alternative aesthetics, art theory]
   canonical_url: "https://craftingsupply.ca/inspiration/pretty-but-wrong-crafts/"
@@ -18,7 +18,7 @@ seo:
 
 ## The Aesthetic of Almost
 
-There's a specific kind of visual discomfort that comes from things that are *almost* right. Not broken, not chaotic, not grotesque—just slightly wrong in a way that you can't stop looking at. The symmetry is off by three degrees. The colors are related but clash. The pattern repeats, but not quite correctly.
+There's a specific kind of visual discomfort that comes from things that are *almost* right. Not broken, not chaotic, not grotesque, just slightly wrong in a way that you can't stop looking at. The symmetry is off by three degrees. The colors are related but clash. The pattern repeats, but not quite correctly.
 
 This is "Pretty but Wrong" crafting: making objects that are technically well-executed, aesthetically appealing, and fundamentally unsettling. They don't announce their wrongness. They make you discover it.
 
@@ -26,7 +26,7 @@ This is "Pretty but Wrong" crafting: making objects that are technically well-ex
 
 ### The Psychology of Near-Miss Aesthetics
 
-Our brains are pattern-recognition machines. When patterns are close to correct but subtly off, we notice—but we keep processing, trying to resolve the dissonance. This creates engagement through low-level discomfort.
+Our brains are pattern-recognition machines. When patterns are close to correct but subtly off, we notice, but we keep processing, trying to resolve the dissonance. This creates engagement through low-level discomfort.
 
 **The uncanny valley principle applies to objects, not just faces**: Things that are almost-but-not-quite-right trigger deeper attention than things that are obviously wrong or perfectly right.
 
@@ -105,9 +105,9 @@ Colors that "go together" create harmony. Colors that clash create energy. Color
 - **Ceramics**: Glaze combinations that run together wrong
 
 **Testing Discord**:
-- Take a photo in black and white—if colors become same value, they'll vibrate in color
-- Stare at it for 30 seconds—does your eye keep trying to "fix" it?
-- Ask someone what color it is—if they struggle to name it, you've succeeded
+- Take a photo in black and white, if colors become same value, they'll vibrate in color
+- Stare at it for 30 seconds, does your eye keep trying to "fix" it?
+- Ask someone what color it is, if they struggle to name it, you've succeeded
 
 ### Scale Wrongness: Proportion as Disruption
 
@@ -135,7 +135,7 @@ Repeat creates expectation. Breaking that repeat creates a hitch in perception.
 1. **The One Wrong Note**: Repeat pattern perfectly, single intentional break
 2. **Drift**: Pattern slowly changes (spacing increases, size decreases)
 3. **Substitution**: One element replaced with something almost-but-not same
-4. **Rhythm Break**: Musical approach—4/4 time with one measure of 5/4
+4. **Rhythm Break**: Musical approach, 4/4 time with one measure of 5/4
 5. **Mirror Break**: Symmetrical pattern with one break in symmetry
 
 **Craft Applications**:
@@ -199,7 +199,7 @@ Some materials should not touch. Some textures create instant discomfort togethe
 **Scale-Confused Diorama**
 - Build miniature scene
 - Mix scales deliberately (1:12 and 1:24)
-- Make it subtle—wrong but not obvious
+- Make it subtle, wrong but not obvious
 - Photograph to emphasize the wrongness
 - Skills: Scale relationships, spatial composition
 
@@ -350,7 +350,7 @@ This work is niche but has market:
 - **Teaching**: Workshops on intentional imperfection
 - **Critical Craft**: Academic and museum contexts
 
-Price higher than "normal" work—the market is smaller but values the concept.
+Price higher than "normal" work, the market is smaller but values the concept.
 
 ## Developing Your Wrongness Practice
 

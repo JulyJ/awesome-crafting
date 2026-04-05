@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [science-crafts, kids, DIY, sensory, eco-crafts]
 tags: [hydrogel, water beads, sensory play, crafts for kids, slime, eco crafts, cheatsheet]
-excerpt: "Dive into the world of hydrogel crafting—learn about water beads, colour techniques, mold projects, safety tips, and creative applications for all ages."
+excerpt: "Dive into the world of hydrogel crafting, learn about water beads, colour techniques, mold projects, safety tips, and creative applications for all ages."
 seo:
   title: "Hydrogel Crafts Cheatsheet | Crafting Supply Hub"
-  description: "Explore hydrogel crafts with this beginner-friendly guide—covering water bead art, colouring, safety, DIY projects, and sensory play activities."
+  description: "Explore hydrogel crafts with this beginner-friendly guide, covering water bead art, colouring, safety, DIY projects, and sensory play activities."
   type: "article"
   keywords: [hydrogel crafts, water beads, hydrogel art, sensory DIY, eco crafts, slime, water crystals]
   canonical_url: "https://craftingsupply.ca/cheatsheets/hydrogel-crafts/"

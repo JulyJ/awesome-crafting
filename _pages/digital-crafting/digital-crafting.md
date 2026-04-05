@@ -18,9 +18,9 @@ Explore digital tools, techniques, and inspiration for modern makers and crafter
 | Article | Description |
 |---|---|
 | [3D Printing for Crafters](/digital-crafting/3d-printing-for-crafters/) | An introduction to 3D printing for crafters. Learn the basics of how 3D printers work, common materials, and how to integrate 3D printed components into your handmade projects. |
-| [I Bought a Laser Cutter — What's Next?](/hobby-starter/laser-cutter-first-steps/) | From unboxing to first cut. Safety, software, SVG design basics, and a plant stake as your first real project. Includes free SVG resources. |
-| [I Bought a CNC Router — What's Next?](/hobby-starter/cnc-router-first-steps/) | Tooling, feeds and speeds, software setup, and a beginner wood plant stake project to learn the full workflow. |
-| [I Bought a 3D Printer — What's Next?](/hobby-starter/3d-printer-first-steps/) | Bed levelling, slicer software, free model sources, and your first print: a personalised plant stake. |
+| [I Bought a Laser Cutter - What's Next?](/hobby-starter/laser-cutter-first-steps/) | From unboxing to first cut. Safety, software, SVG design basics, and a plant stake as your first real project. Includes free SVG resources. |
+| [I Bought a CNC Router - What's Next?](/hobby-starter/cnc-router-first-steps/) | Tooling, feeds and speeds, software setup, and a beginner wood plant stake project to learn the full workflow. |
+| [I Bought a 3D Printer - What's Next?](/hobby-starter/3d-printer-first-steps/) | Bed levelling, slicer software, free model sources, and your first print: a personalised plant stake. |
 | [Creating Illuminated Acrylic Displays: LED Art for Makers](/digital-crafting/illuminated-acrylic-displays-led-art/) | Master the art of creating stunning illuminated acrylic displays. Learn acrylic properties, LED integration, edge lighting techniques, circuit design, and fabrication methods to create luminous art and displays. |
 | [Free Design Tools for Crafters](/digital-crafting/free-design-tools-for-crafters/) | No Illustrator? No problem. Explore powerful free tools that help crafters create, edit, and export SVGs and digital assets. |
 | [Free SVG Generator for Laser Cutting: MyLaserTools Complete Guide](/digital-crafting/mylasertools-laser-cutting-svg/) | Discover 40+ free SVG generators on MyLaserTools.com for laser cutting projects. Create connected text, ornaments, keychains, layered maps, and slice 3D models - all free for commercial use. |

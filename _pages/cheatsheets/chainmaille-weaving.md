@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [metalwork, jewelry, historical crafts, DIY]
 tags: [chainmaille, jump rings, jewelry making, medieval crafts, weave patterns, cheatsheet]
-excerpt: "Master chainmaille with this cheatsheet—explore ring types, common weaves, essential tools, and beginner-friendly project ideas."
+excerpt: "Master chainmaille with this cheatsheet, explore ring types, common weaves, essential tools, and beginner-friendly project ideas."
 seo:
   title: "Chainmaille Weaving Cheatsheet | Crafting Supply Hub"
-  description: "Explore the art of chainmaille—learn ring sizes, essential weaves, jewelry techniques, and tool tips for stunning metalwork pieces."
+  description: "Explore the art of chainmaille, learn ring sizes, essential weaves, jewelry techniques, and tool tips for stunning metalwork pieces."
   type: "article"
   keywords: [chainmaille, chain mail, jump ring jewelry, chainmail weaves, DIY metal jewelry]
   canonical_url: "https://craftingsupply.ca/cheatsheets/chainmaille-weaving/"
@@ -109,10 +109,10 @@ Chainmaille is the art of interlocking metal rings (jump rings) in patterned wea
 ## FAQ
 
 **What’s the best metal for beginners?**  
-Anodized aluminum—it’s lightweight, affordable, and easy to open/close.
+Anodized aluminum, it’s lightweight, affordable, and easy to open/close.
 
 **Can I make my own rings?**  
-Yes—with wire and mandrels. Use flush cutters or a jeweler's saw for best results.
+Yes, with wire and mandrels. Use flush cutters or a jeweler's saw for best results.
 
 **Do I need special pliers?**  
 Flat-nose or chain-nose jewelry pliers without teeth are ideal to avoid scratching.

@@ -10,7 +10,7 @@ tags: [tatting, shuttle lace, lace making, needlework, handcraft, DIY lace, craf
 excerpt: "Master Tatting and Shuttle Lace techniques with this comprehensive cheatsheet covering tools, stitches, patterns, and helpful tips."
 seo:
   title: "Tatting & Shuttle Lace Cheatsheet | Crafting Supply Hub"
-  description: "Learn Tatting and Shuttle Lace basics—explore essential tools, stitch types, pattern styles, and troubleshooting tips for delicate hand-made lace."
+  description: "Learn Tatting and Shuttle Lace basics, explore essential tools, stitch types, pattern styles, and troubleshooting tips for delicate hand-made lace."
   type: "article"
   keywords: [tatting, shuttle lace, lace making, embroidery, needlework, DIY lace]
   canonical_url: "https://craftingsupply.ca/cheatsheets/tatting-shuttle-lace/"

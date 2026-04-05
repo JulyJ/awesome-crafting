@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [paper crafts, bookbinding, DIY, fine arts]
 tags: [coptic binding, bookbinding, handmade books, journal making, book art, paper crafts, cheatsheet]
-excerpt: "Learn the essentials of Coptic binding and book art—tools, materials, stitching techniques, cover options, and creative ideas for handmade books."
+excerpt: "Learn the essentials of Coptic binding and book art, tools, materials, stitching techniques, cover options, and creative ideas for handmade books."
 seo:
   title: "Coptic Binding & Book Art Cheatsheet | Crafting Supply Hub"
-  description: "A comprehensive guide to Coptic binding and book art—tools, thread, stitches, covers, tips, and creative ideas for handmade journals and art books."
+  description: "A comprehensive guide to Coptic binding and book art, tools, thread, stitches, covers, tips, and creative ideas for handmade journals and art books."
   type: "article"
   keywords: [coptic binding, bookbinding, handmade books, journal making, book art, paper crafts, DIY notebooks]
   canonical_url: "https://craftingsupply.ca/cheatsheets/coptic-binding/"
@@ -120,7 +120,7 @@ Coptic binding is a centuries-old bookbinding technique using exposed chain stit
 ## FAQ
 
 **Do I need special thread?**  
-Waxed linen or polyester thread works best—avoid stretchy threads like embroidery floss.
+Waxed linen or polyester thread works best, avoid stretchy threads like embroidery floss.
 
 **Can I glue the spine instead of stitching?**  
 Not for Coptic binding. The stitch structure is what allows the book to open flat.

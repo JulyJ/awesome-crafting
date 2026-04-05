@@ -10,7 +10,7 @@ tags: [moss art, living wall, vertical garden, preserved moss, biophilic design,
 excerpt: "Create stunning moss art and living walls with this beginner-friendly cheatsheet covering moss types, mounting techniques, moisture care, and design tips."
 seo:
   title: "Moss Art & Living Wall Cheatsheet | Crafting Supply Hub"
-  description: "Complete guide to moss art and living walls—learn about preserved vs. live moss, mounting methods, moisture care, and design layouts for green decor."
+  description: "Complete guide to moss art and living walls, learn about preserved vs. live moss, mounting methods, moisture care, and design layouts for green decor."
   type: "article"
   keywords: [moss art, living wall, DIY vertical garden, preserved moss decor, biophilic design, green home, moss wall how-to]
   canonical_url: "https://craftingsupply.ca/cheatsheets/moss-art-living-wall/"
@@ -48,7 +48,7 @@ seo:
 | 1    | Choose your moss types             | Combine textures: sheet + reindeer + mood   |
 | 2    | Pick a frame or backing board      | Wood, MDF, or foam board work well          |
 | 3    | Arrange moss before gluing         | Visualize layers and colours                 |
-| 4    | Attach using hot glue or tacky glue| Avoid too much glue—it seeps through        |
+| 4    | Attach using hot glue or tacky glue| Avoid too much glue, it seeps through        |
 | 5    | Add accents (bark, pebbles, lichen)| Keep natural; optional faux florals         |
 | 6    | Hang away from direct sunlight     | Preserved moss can fade with UV             |
 
@@ -59,9 +59,9 @@ seo:
 | Step | Task                                | Tips                                         |
 |------|-------------------------------------|----------------------------------------------|
 | 1    | Build or buy a wall frame           | Use waterproof backing & shallow tray        |
-| 2    | Add growing medium (felt, sphagnum)| Avoid soil—holds too much water              |
+| 2    | Add growing medium (felt, sphagnum)| Avoid soil, holds too much water              |
 | 3    | Choose low-light mosses            | Sheet, mood, or rock cap moss                |
-| 4    | Water regularly (mist or drip)      | Keep evenly moist—not soggy                 |
+| 4    | Water regularly (mist or drip)      | Keep evenly moist, not soggy                 |
 | 5    | Maintain humidity                   | 40–60% ideal for most moss types             |
 | 6    | Trim dead or dry spots              | Use sharp scissors; sterilize blades         |
 
@@ -122,7 +122,7 @@ Yes, but clean and dry thoroughly. Baking at low temp or freezing can help elimi
 No. It's treated to stay soft and coloured but will not regenerate or root.
 
 **Is moss art suitable for bathrooms?**  
-Preserved moss is ideal—high humidity can help it stay soft, and no light is needed.
+Preserved moss is ideal, high humidity can help it stay soft, and no light is needed.
 
 **Can I combine moss with succulents or air plants?**  
 Yes! In living walls, both work well with moss in shared humid environments.

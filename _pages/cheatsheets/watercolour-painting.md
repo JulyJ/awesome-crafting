@@ -10,7 +10,7 @@ tags: [watercolour, painting, brush techniques, colour mixing, beginner art, art
 excerpt: "Complete watercolour painting cheatsheet with guides on materials, techniques, brush types, colour mixing, and beginner project ideas. Perfect for new and aspiring watercolour artists."
 seo:
   title: "Watercolour Painting Cheatsheet | Crafting Supply Hub"
-  description: "Explore our complete guide to watercolour painting—covering paper, brushes, paints, techniques, blending tips, colour theory, and easy project ideas for all skill levels."
+  description: "Explore our complete guide to watercolour painting, covering paper, brushes, paints, techniques, blending tips, colour theory, and easy project ideas for all skill levels."
   type: "article"
   keywords: [watercolour painting, brush guide, watercolour tips, paint mixing, beginner watercolour, painting techniques]
   canonical_url: "https://craftingsupply.ca/cheatsheets/watercolour-painting/"

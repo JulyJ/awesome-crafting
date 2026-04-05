@@ -232,6 +232,6 @@ Thrift stores offer incredible opportunities for crafters to find unique materia
 
 ## Final Tips for Successful Thrifting
 
-Master the art of thrift store shopping by visiting regularly, building relationships with staff, learning your local stores' stocking schedules, and keeping an open mind about potential transformations. The best crafters see possibilities where others see junk—and save thousands while creating one-of-a-kind projects that showcase creativity and sustainability.
+Master the art of thrift store shopping by visiting regularly, building relationships with staff, learning your local stores' stocking schedules, and keeping an open mind about potential transformations. The best crafters see possibilities where others see junk, and save thousands while creating one-of-a-kind projects that showcase creativity and sustainability.
 
 Remember: not every trip will yield treasures, but consistency and a trained eye will build an incredible supply stash at a fraction of retail cost. Happy thrifting and crafting!

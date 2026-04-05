@@ -10,7 +10,7 @@ tags: [broderie anglaise, embroidery, eyelet lace, sewing techniques, needlework
 excerpt: "Master Broderie Anglaise embroidery with this cheatsheet covering stitch types, fabrics, tools, pattern styles, and beginner tips."
 seo:
   title: "Broderie Anglaise Cheatsheet | Crafting Supply Hub"
-  description: "Learn Broderie Anglaise embroidery basics—explore stitch types, fabric choices, tools, patterns, and practical tips for beautiful eyelet lace."
+  description: "Learn Broderie Anglaise embroidery basics, explore stitch types, fabric choices, tools, patterns, and practical tips for beautiful eyelet lace."
   type: "article"
   keywords: [broderie anglaise, eyelet embroidery, needlework, textile crafts, sewing, DIY embroidery]
   canonical_url: "https://craftingsupply.ca/cheatsheets/broderie-anglaise/"

@@ -7,7 +7,7 @@ sidebar:
 date: 2025-07-02
 categories: [textile, embroidery, traditional crafts, Japanese crafts, DIY]
 tags: [sashiko, embroidery, Japanese stitching, running stitch, visible mending, cheatsheet]
-excerpt: "Master sashiko with this cheatsheet—tools, fabrics, threads, traditional patterns, stitching techniques, and care instructions for beautiful Japanese hand embroidery."
+excerpt: "Master sashiko with this cheatsheet, tools, fabrics, threads, traditional patterns, stitching techniques, and care instructions for beautiful Japanese hand embroidery."
 seo:
   title: "Sashiko Cheatsheet | Crafting Supply Hub"
   description: "Complete guide to sashiko embroidery including essential tools, fabric and thread types, traditional patterns, stitch techniques, and maintenance tips."
@@ -117,7 +117,7 @@ Sashiko is a traditional Japanese form of hand embroidery using simple running s
 ## FAQ
 
 **Is sashiko embroidery only done with white thread?**  
-Traditionally, yes — white on indigo is classic, but coloured threads can be used creatively.
+Traditionally, yes - white on indigo is classic, but coloured threads can be used creatively.
 
 **Can sashiko be machine embroidered?**  
 It can, but hand stitching preserves the authentic look and texture.

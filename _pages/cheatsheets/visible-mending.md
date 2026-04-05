@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [textile, sewing, upcycling, crafts, DIY]
 tags: [visible mending, darning, embroidery repair, fabric patching, sustainable fashion, cheatsheet]
-excerpt: "Learn how to repair and personalize clothing with visible mending—explore tools, materials, techniques, stitches, and care tips in this comprehensive cheatsheet."
+excerpt: "Learn how to repair and personalize clothing with visible mending, explore tools, materials, techniques, stitches, and care tips in this comprehensive cheatsheet."
 seo:
   title: "Visible Mending Cheatsheet | Crafting Supply Hub"
-  description: "A practical guide to visible mending—discover essential tools, materials, stitch techniques, and project ideas to extend your wardrobe life creatively."
+  description: "A practical guide to visible mending, discover essential tools, materials, stitch techniques, and project ideas to extend your wardrobe life creatively."
   type: "article"
   keywords: [visible mending, darning, embroidery repair, fabric patching, sustainable fashion, textile repair]
   canonical_url: "https://craftingsupply.ca/cheatsheets/visible-mending/"

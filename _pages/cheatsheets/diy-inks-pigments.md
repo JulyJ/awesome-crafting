@@ -10,7 +10,7 @@ tags: [DIY inks, pigments, natural dyes, colour mixing, ink recipes, art supplie
 excerpt: "Learn how to create your own inks and pigments from natural and synthetic sources, with recipes, mixing tips, tools, and safety guidelines."
 seo:
   title: "DIY Inks & Pigments Cheatsheet | Crafting Supply Hub"
-  description: "Discover DIY inks and pigments—natural sources, basic recipes, colour mixing, tools, and safety for homemade art materials."
+  description: "Discover DIY inks and pigments, natural sources, basic recipes, colour mixing, tools, and safety for homemade art materials."
   type: "article"
   keywords: [DIY inks, natural pigments, ink making, pigments, colour mixing, art supplies, craft recipes]
   canonical_url: "https://craftingsupply.ca/cheatsheets/diy-inks-pigments/"
@@ -115,7 +115,7 @@ Yes, but ink may be less smooth and durable.
 Store in airtight containers; many last months to years if kept cool and dark.
 
 **Are natural pigments safe?**  
-Most are safe with gloves, but some (like ochre or malachite) contain heavy metals—handle carefully.
+Most are safe with gloves, but some (like ochre or malachite) contain heavy metals, handle carefully.
 
 **Can I use these inks for printing?**  
 Depends on viscosity; charcoal and thick inks work best for stamping.

@@ -7,7 +7,7 @@ sidebar:
 date: 2025-07-02
 categories: [textile, fiber arts, embroidery, DIY, crafts]
 tags: [punch needle, embroidery, fiber art, needlework, rug hooking, surface embroidery, cheatsheet]
-excerpt: "Master punch needle embroidery with this cheatsheet—explore tools, fabrics, thread types, stitching techniques, and care instructions for beautiful fiber art."
+excerpt: "Master punch needle embroidery with this cheatsheet, explore tools, fabrics, thread types, stitching techniques, and care instructions for beautiful fiber art."
 seo:
   title: "Punch Needle Embroidery Cheatsheet | Crafting Supply Hub"
   description: "Complete guide to punch needle embroidery including tools, fabric choices, thread types, stitch styles, and maintenance tips."
@@ -118,7 +118,7 @@ seo:
 No, punch needle tools have a hollow shaft designed for looping thread/yarn.
 
 **How tight should my fabric be?**  
-Taut but not overstretched — too tight makes punching hard; too loose causes uneven loops.
+Taut but not overstretched - too tight makes punching hard; too loose causes uneven loops.
 
 **What thread thickness is best for beginners?**  
 Start with medium-weight embroidery floss or wool yarn size 3–4 mm needles.

@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [sewing, textile arts, crafts, appliqué, DIY]
 tags: [reverse appliqué, appliqué, sewing techniques, fabric layering, textile crafts, cheatsheet]
-excerpt: "Learn the essentials of reverse appliqué with this cheatsheet—tools, fabric choices, stitching methods, and project ideas for creative fabric layering."
+excerpt: "Learn the essentials of reverse appliqué with this cheatsheet, tools, fabric choices, stitching methods, and project ideas for creative fabric layering."
 seo:
   title: "Reverse Appliqué Cheatsheet | Crafting Supply Hub"
-  description: "Complete guide to reverse appliqué—discover fabrics, tools, stitching techniques, layering methods, and care instructions for beautiful textile projects."
+  description: "Complete guide to reverse appliqué, discover fabrics, tools, stitching techniques, layering methods, and care instructions for beautiful textile projects."
   type: "article"
   keywords: [reverse appliqué, appliqué, fabric layering, sewing, textile crafts, hand stitching]
   canonical_url: "https://craftingsupply.ca/cheatsheets/reverse-applique/"

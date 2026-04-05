@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [wall-art, crafts, home-decor, mixed-media, DIY, decor]
 tags: [wall art, canvas painting, mixed media, home decor crafts, gallery wall, art techniques, cheatsheet]
-excerpt: "Explore the essentials of wall art creation with this cheatsheet—covering materials, techniques, framing, mounting options, and project inspiration for all skill levels."
+excerpt: "Explore the essentials of wall art creation with this cheatsheet, covering materials, techniques, framing, mounting options, and project inspiration for all skill levels."
 seo:
   title: "Wall Art Making Cheatsheet | Crafting Supply Hub"
-  description: "A complete guide to creating stunning wall art—includes styles, surfaces, painting techniques, tools, framing, and hanging options for beginners to pros."
+  description: "A complete guide to creating stunning wall art, includes styles, surfaces, painting techniques, tools, framing, and hanging options for beginners to pros."
   type: "article"
   keywords: [wall art, DIY wall decor, canvas painting, art mounting, acrylic painting, framing techniques]
   canonical_url: "https://craftingsupply.ca/cheatsheets/wall-art-making/"

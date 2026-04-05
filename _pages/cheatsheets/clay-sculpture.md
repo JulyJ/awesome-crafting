@@ -7,7 +7,7 @@ sidebar:
 date: 2025-07-02
 categories: [sculpture, clay, art, 3D, DIY, modeling]
 tags: [clay sculpture, air-dry clay, polymer clay, ceramic, armature, modeling tools, kiln, cheatsheet]
-excerpt: "Explore essential techniques and materials for clay sculpture—from hand-building and armatures to air-dry and kiln-fired projects. Perfect for beginners to studio artists."
+excerpt: "Explore essential techniques and materials for clay sculpture, from hand-building and armatures to air-dry and kiln-fired projects. Perfect for beginners to studio artists."
 seo:
   title: "Clay Sculpture Cheatsheet | Crafting Supply Hub"
   description: "Everything you need to know about clay sculpture, including types of clay, tools, building techniques, drying, firing, finishing, and beginner-friendly project ideas."
@@ -34,7 +34,7 @@ seo:
 |--------------------|-------------------------------------|-------------------------------------|
 | **Loop Tools**         | Hollowing, shaping               | Various sizes and shapes            |
 | **Wire Cutter**        | Slicing clay blocks              | Especially for ceramic clay         |
-| **Needle Tool**        | Detailing, scoring               | Sharp—use for precision             |
+| **Needle Tool**        | Detailing, scoring               | Sharp, use for precision             |
 | **Modeling Tools**     | Smoothing, shaping               | Plastic or wooden sets              |
 | **Rubber Shapers**     | Blending fine details            | Ideal for facial features           |
 | **Sponge**             | Moisture control, smoothing      | Essential for ceramics              |

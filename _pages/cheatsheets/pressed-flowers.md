@@ -7,7 +7,7 @@ sidebar:
 date: 2025-07-02
 categories: [pressed-flowers, botanical, art, crafting, nature, DIY]
 tags: [pressed flowers, flower pressing, floral crafts, botanical art, nature crafts, eco art, cheatsheet]
-excerpt: "Master the timeless craft of pressed flower art with this complete guide—covering pressing methods, best flowers, tools, preservation, and creative project ideas."
+excerpt: "Master the timeless craft of pressed flower art with this complete guide, covering pressing methods, best flowers, tools, preservation, and creative project ideas."
 seo:
   title: "Pressed Flower Art Cheatsheet | Crafting Supply Hub"
   description: "Comprehensive guide to pressed flower art including how to press flowers, best flowers to use, preservation methods, tools, project ideas, and framing techniques."

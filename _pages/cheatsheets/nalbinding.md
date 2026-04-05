@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [fiber arts, textile crafts, traditional crafts, knitting, crochet]
 tags: [nalbinding, traditional fiber craft, looped sewing, yarn crafts, historical crafts, cheatsheet]
-excerpt: "Discover nalbinding—a traditional looping technique—with this cheatsheet covering tools, yarn choices, common stitches, techniques, and care tips."
+excerpt: "Discover nalbinding, a traditional looping technique, with this cheatsheet covering tools, yarn choices, common stitches, techniques, and care tips."
 seo:
   title: "Nalbinding Cheatsheet | Crafting Supply Hub"
-  description: "Complete guide to nalbinding—learn about tools, yarn types, basic stitches, techniques, and project care for this ancient fiber craft."
+  description: "Complete guide to nalbinding, learn about tools, yarn types, basic stitches, techniques, and project care for this ancient fiber craft."
   type: "article"
   keywords: [nalbinding, traditional fiber craft, loop sewing, yarn crafts, historical textile techniques]
   canonical_url: "https://craftingsupply.ca/cheatsheets/nalbinding/"

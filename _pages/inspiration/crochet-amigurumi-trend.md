@@ -10,7 +10,7 @@ tags: [amigurumi, crochet, tiktok-crafts, plushie, stuffed-animals, viral-crafts
 excerpt: "From frog mochi to axolotl plushies, crochet amigurumi has taken TikTok by storm. Learn how to get started with the viral craft of crocheting your own adorable stuffed creatures."
 seo:
   title: "Crochet Amigurumi Guide | TikTok's Viral Plushie Trend"
-  description: "Discover amigurumi — the TikTok-viral craft of crocheting tiny stuffed animals. Learn what supplies you need, how to start, and which viral patterns are trending right now."
+  description: "Discover amigurumi - the TikTok-viral craft of crocheting tiny stuffed animals. Learn what supplies you need, how to start, and which viral patterns are trending right now."
   type: "article"
   keywords: [amigurumi, crochet amigurumi, frog mochi crochet, tiktok crochet trend, beginner amigurumi, crochet plushie, stuffed animal crochet]
   canonical_url: "https://craftingsupply.ca/inspiration/crochet-amigurumi-trend/"
@@ -30,7 +30,7 @@ Amigurumi (編みぐるみ) literally means "crocheted or knitted stuffed toy" i
 
 | Feature | Description |
 |---|---|
-| **Primary stitch** | Single crochet (sc) — the simplest crochet stitch |
+| **Primary stitch** | Single crochet (sc) - the simplest crochet stitch |
 | **Construction method** | Continuous rounds with a stitch marker to track your place |
 | **Typical hook size** | 2.5–4 mm (smaller than the yarn label recommends, to create tight stitches that don't show stuffing) |
 | **Finishing technique** | Stuffed with polyfill, assembled with a yarn needle, safety eyes added before closing |
@@ -42,8 +42,8 @@ Amigurumi (編みぐるみ) literally means "crocheted or knitted stuffed toy" i
 | Supply | What to Look For |
 |---|---|
 | **Crochet hook (3.5–4 mm)** | Ergonomic handle hooks reduce hand fatigue during long sessions. Clover Amour or Tulip Etimo are popular choices. |
-| **DK or worsted weight yarn** | Acrylic yarn is most beginner-friendly — it's affordable, easy to wash, and comes in hundreds of colours. Cotton yarn gives a firmer result. |
-| **Polyfill stuffing** | Standard craft stuffing. Don't overstuff — it stretches the stitches and shows gaps. |
+| **DK or worsted weight yarn** | Acrylic yarn is most beginner-friendly - it's affordable, easy to wash, and comes in hundreds of colours. Cotton yarn gives a firmer result. |
+| **Polyfill stuffing** | Standard craft stuffing. Don't overstuff - it stretches the stitches and shows gaps. |
 | **Safety eyes** | Plastic safety eyes with locking washers. Sizes 6 mm to 12 mm cover most projects. **Note:** omit safety eyes for toys made for children under 3. |
 | **Yarn needle / tapestry needle** | For weaving in ends and sewing pieces together (attaching arms, legs, ears). |
 | **Stitch markers** | Mark the first stitch of each round so you don't lose count. Even a scrap of yarn works. |
@@ -58,12 +58,12 @@ Amigurumi (編みぐるみ) literally means "crocheted or knitted stuffed toy" i
 | Design | Why It's Trending |
 |---|---|
 | **Frog mochi** | The round, squishy, wide-eyed frog has become an internet icon. Simple shape, extremely satisfying to make. |
-| **Axolotl** | Feathery pink gill stalks and a permanent smile — endlessly photogenic and beginner-friendly. |
+| **Axolotl** | Feathery pink gill stalks and a permanent smile - endlessly photogenic and beginner-friendly. |
 | **Mushroom cottage / gnome** | Cottagecore aesthetic; mushroom cap hats and tiny doors make these highly shareable. |
 | **Sleepy bear or bunny** | Closed-eye, chubby-cheeked animals in pastel yarn photograph beautifully. |
-| **Mini food characters** | Tiny strawberry, avocado toast, boba cup — the food-character niche has its own passionate community. |
+| **Mini food characters** | Tiny strawberry, avocado toast, boba cup - the food-character niche has its own passionate community. |
 | **Winged creatures (bats, owls, moths)** | Trending alongside dark academia and goblincore aesthetics. |
-| **Custom pet portraits** | Crocheting a likeness of someone's cat or dog — a very popular commission item. |
+| **Custom pet portraits** | Crocheting a likeness of someone's cat or dog - a very popular commission item. |
 
 ---
 
@@ -107,7 +107,7 @@ Amigurumi patterns use abbreviations. Here are the most common:
 | **Count every round** | A missed increase or decrease shifts the whole shape. Mark your stitch count after every round. |
 | **Insert safety eyes before closing** | Once the piece is stuffed and sewn shut, it's very difficult to reopen. Add eyes while you can still reach inside. |
 | **Don't overstuff** | Polyfill stretches the fabric and makes stitches visible. Stop when the piece holds its shape but isn't tight. |
-| **Leave a long yarn tail when finishing** | Use this to sew limbs on. Weave in ends securely — plushies get handled a lot. |
+| **Leave a long yarn tail when finishing** | Use this to sew limbs on. Weave in ends securely - plushies get handled a lot. |
 | **Block your finished pieces** | A light misting with water and gentle shaping before drying evens out any lumpy stitches. |
 
 ---

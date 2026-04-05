@@ -280,4 +280,4 @@ Proper lighting reduces eye strain, improves colour accuracy, prevents mistakes,
 
 The best craft room lighting combines layers: quality overhead ambient lighting (4000-5000K, 90+ CRI), adjustable task lighting positioned to minimize shadows (5000-6500K), and natural light control. Invest in high-quality LED bulbs rather than expensive fixtures, prioritize adjustable options for flexibility, and consider smart lighting if you craft at different times or do multiple craft types.
 
-Start with the essentials—overhead ambient and one excellent task light—then add specialized lighting as your crafts and budget allow. Proper lighting isn't an expense; it's an investment in your eyes, your work quality, and your crafting enjoyment for years to come.
+Start with the essentials, overhead ambient and one excellent task light, then add specialized lighting as your crafts and budget allow. Proper lighting isn't an expense; it's an investment in your eyes, your work quality, and your crafting enjoyment for years to come.

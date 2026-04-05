@@ -10,7 +10,7 @@ tags: [tole painting, folk art, decorative painting, acrylics, brushwork, cheats
 excerpt: "Master tole painting with this cheatsheet covering paints, surfaces, brushes, strokes, techniques, and traditional folk art motifs."
 seo:
   title: "Tole Painting Cheatsheet | Crafting Supply Hub"
-  description: "Learn tole painting step by step—tools, techniques, brush strokes, surface prep, and traditional decorative motifs all in one place."
+  description: "Learn tole painting step by step, tools, techniques, brush strokes, surface prep, and traditional decorative motifs all in one place."
   type: "article"
   keywords: [tole painting, decorative art, folk art, brush strokes, acrylic painting, DIY crafts]
   canonical_url: "https://craftingsupply.ca/cheatsheets/tole-painting/"
@@ -18,7 +18,7 @@ seo:
 
 ## What is Tole Painting?
 
-Tole painting is a decorative folk art technique that uses detailed brushwork—often with acrylic paints—on wooden or metal objects. It combines flat base painting with intricate floral, scroll, or seasonal designs.
+Tole painting is a decorative folk art technique that uses detailed brushwork, often with acrylic paints, on wooden or metal objects. It combines flat base painting with intricate floral, scroll, or seasonal designs.
 
 ---
 
@@ -53,7 +53,7 @@ Tole painting is a decorative folk art technique that uses detailed brushwork—
 
 | Stroke Name         | Brush Type Used         | Description                               | Common Use                            |
 |---------------------|-------------------------|--------------------------------------------|----------------------------------------|
-| **Comma Stroke**    | Round or filbert         | Press, drag, lift—teardrop shape           | Flowers, leaves                        |
+| **Comma Stroke**    | Round or filbert         | Press, drag, lift, teardrop shape           | Flowers, leaves                        |
 | **S-Stroke**        | Filbert or round         | Continuous S curve                         | Scrolls, ribbon, petals                |
 | **C-Stroke**        | Flat brush               | One-side curve resembling “C”              | Rose petals, flourishes                |
 | **Comma-Dot**       | Liner brush              | A small dot with tapered end               | Flower buds, accents                   |

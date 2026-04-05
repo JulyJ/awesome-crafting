@@ -18,7 +18,7 @@ seo:
 
 ## What is Mixed Media Sculpture?
 
-Mixed media sculpture involves combining different materials—such as wood, metal, paper, clay, and found objects—into a single 3D artwork. It blends techniques from traditional sculpting with collage, painting, and installation art.
+Mixed media sculpture involves combining different materials, such as wood, metal, paper, clay, and found objects, into a single 3D artwork. It blends techniques from traditional sculpting with collage, painting, and installation art.
 
 ---
 

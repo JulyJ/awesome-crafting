@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [resin, jewelry, crafts, DIY]
 tags: [UV resin, resin layering, embedded objects, clear resin, jewelry, cheatsheet, small crafts]
-excerpt: "Master UV resin layering with this guide—tools, curing tips, layering techniques, safety advice, and easy project ideas for beginners."
+excerpt: "Master UV resin layering with this guide, tools, curing tips, layering techniques, safety advice, and easy project ideas for beginners."
 seo:
   title: "UV Resin Layering Cheatsheet | Crafting Supply Hub"
-  description: "Step-by-step guide to UV resin layering—learn how to work in layers, cure properly, embed objects, and avoid sticky finishes."
+  description: "Step-by-step guide to UV resin layering, learn how to work in layers, cure properly, embed objects, and avoid sticky finishes."
   type: "article"
   keywords: [UV resin, resin layering, embedded resin, jewelry making, doming resin, UV curing, resin art]
   canonical_url: "https://craftingsupply.ca/cheatsheets/uv-resin-layering/"
@@ -134,6 +134,6 @@ Either the light is too weak, layer is too thick, or it hasn’t fully cured.
 There’s no hard limit, but very thick pieces should be layered carefully to avoid internal stress or distortion.
 
 **Can I use UV resin outdoors?**  
-Yes, but avoid direct sunlight during layering—UV light may cure it too fast and unevenly.
+Yes, but avoid direct sunlight during layering, UV light may cure it too fast and unevenly.
 
 ---

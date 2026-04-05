@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [textile, fiber arts, rug making, crafts, DIY]
 tags: [latch hook, rug tufting, latch hook rug, tufting gun, fiber crafts, DIY rugs, cheatsheet]
-excerpt: "Learn the essentials of latch hook and rug tufting with this cheatsheet—tools, materials, techniques, project ideas, and maintenance tips all in one place."
+excerpt: "Learn the essentials of latch hook and rug tufting with this cheatsheet, tools, materials, techniques, project ideas, and maintenance tips all in one place."
 seo:
   title: "Latch Hook & Rug Tufting Cheatsheet | Crafting Supply Hub"
-  description: "Complete guide to latch hook and rug tufting—explore tools, yarn types, canvases, methods, patterns, and care instructions for DIY rug making."
+  description: "Complete guide to latch hook and rug tufting, explore tools, yarn types, canvases, methods, patterns, and care instructions for DIY rug making."
   type: "article"
   keywords: [latch hook, rug tufting, latch hook rugs, tufting gun, fiber art, handmade rugs, latch hook tools]
   canonical_url: "https://craftingsupply.ca/cheatsheets/latch-hook-rug-tufting/"

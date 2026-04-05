@@ -98,13 +98,13 @@ A portfolio showcases your best work, demonstrates skill progression, attracts c
 
 | Adjustment | What It Does | When to Use | How Much? |
 |---|---|---|---|
-| **Brightness** | Lightens or darkens overall image | Dark photos, underexposed | Subtle—don't blow out whites |
-| **Contrast** | Difference between lights and darks | Flat images, add depth | Moderate—avoid harsh |
-| **Saturation** | Intensity of colors | Dull colors, need vibrancy | Minimal—oversaturation looks fake |
+| **Brightness** | Lightens or darkens overall image | Dark photos, underexposed | Subtle, don't blow out whites |
+| **Contrast** | Difference between lights and darks | Flat images, add depth | Moderate, avoid harsh |
+| **Saturation** | Intensity of colors | Dull colors, need vibrancy | Minimal, oversaturation looks fake |
 | **White Balance** | Corrects color temperature (warm/cool) | Colors look off, orange/blue tint | Until colors look natural |
-| **Sharpness** | Clarity of edges and details | Slightly soft images | Light touch—over-sharpening looks bad |
+| **Sharpness** | Clarity of edges and details | Slightly soft images | Light touch, over-sharpening looks bad |
 | **Crop** | Remove unnecessary elements, improve composition | Better framing, distractions | As needed for composition |
-| **Shadows/Highlights** | Lighten shadows, tone down bright areas | High contrast, lost detail | Moderate—natural look |
+| **Shadows/Highlights** | Lighten shadows, tone down bright areas | High contrast, lost detail | Moderate, natural look |
 
 **Editing Philosophy**: Enhance, don't transform. Photos should look like the real product, just in the best light.
 
@@ -125,13 +125,13 @@ A portfolio showcases your best work, demonstrates skill progression, attracts c
 
 | Platform | Best For | Cost | Features | Customization | SEO |
 |---|---|---|---|---|---|
-| **Instagram** | Visual artists, engagement, free | Free | Stories, reels, shopping, DMs | Limited—grid layout | Medium |
+| **Instagram** | Visual artists, engagement, free | Free | Stories, reels, shopping, DMs | Limited, grid layout | Medium |
 | **Website (Squarespace, Wix)** | Professional, control, portfolio + shop | $12-40/mo | Custom domain, e-commerce, blog | High | High |
 | **Behance** | Designers, creative professionals | Free | Project showcases, community, Adobe integration | Medium | Medium |
-| **Etsy Shop** | Selling products, marketplace traffic | Listing fees | Built-in audience, sales platform | Low—template based | Medium (marketplace) |
+| **Etsy Shop** | Selling products, marketplace traffic | Listing fees | Built-in audience, sales platform | Low, template based | Medium (marketplace) |
 | **Portfolio Website (Format, Pixpa)** | Photographers, artists, clean portfolios | $6-25/mo | Templates, galleries, client proofing | Medium-High | High |
-| **LinkedIn** | Professional networking, B2B, jobs | Free | Networking, job applications, credibility | Low—profile format | Medium |
-| **Pinterest** | Inspiration, traffic, visual discovery | Free | High traffic potential, link to shop/site | Low—pin format | High (Google indexed) |
+| **LinkedIn** | Professional networking, B2B, jobs | Free | Networking, job applications, credibility | Low, profile format | Medium |
+| **Pinterest** | Inspiration, traffic, visual discovery | Free | High traffic potential, link to shop/site | Low, pin format | High (Google indexed) |
 
 **Beginner Recommendation**: Instagram (free, easy) + simple website (Squarespace, $16/mo) for professional presence.
 
@@ -139,11 +139,11 @@ A portfolio showcases your best work, demonstrates skill progression, attracts c
 
 | Format | Best For | Cost | Portability | Professional Impact |
 |---|---|---|---|---|
-| **Bound Portfolio Book (Blurb, Shutterfly)** | Applications, client meetings, interviews | $30-100+ | Moderate—one book | Very High—polished |
-| **Binder with Sheet Protectors** | Flexibility, updating, budget | $15-40 | Moderate | Medium—functional |
-| **Actual Samples** | Craft fairs, tactile products, galleries | Free (your work) | Low—bulky | Very High—hands-on |
-| **Printed Lookbook** | Leave-behinds, mailings, events | $2-10 per book | High—lightweight | High—professional |
-| **Display Case/Box** | Jewelry, small items, presentations | $20-100 | Low-Moderate | Very High—curated |
+| **Bound Portfolio Book (Blurb, Shutterfly)** | Applications, client meetings, interviews | $30-100+ | Moderate, one book | Very High, polished |
+| **Binder with Sheet Protectors** | Flexibility, updating, budget | $15-40 | Moderate | Medium, functional |
+| **Actual Samples** | Craft fairs, tactile products, galleries | Free (your work) | Low, bulky | Very High, hands-on |
+| **Printed Lookbook** | Leave-behinds, mailings, events | $2-10 per book | High, lightweight | High, professional |
+| **Display Case/Box** | Jewelry, small items, presentations | $20-100 | Low-Moderate | Very High, curated |
 
 ## Creating a Cohesive Portfolio Brand
 
@@ -190,13 +190,13 @@ A portfolio showcases your best work, demonstrates skill progression, attracts c
 | **Tutorial Snippet** | YouTube, Instagram | 30-90 sec | Quick tip or technique | Value, engagement, authority |
 | **Testimonial/Unboxing** | Instagram, YouTube, website | 30-120 sec | Customer reaction, review | Social proof, excitement |
 
-**Trend**: Video is increasingly important—even simple smartphone videos boost engagement and sales.
+**Trend**: Video is increasingly important, even simple smartphone videos boost engagement and sales.
 
 ## Portfolio Mistakes to Avoid
 
 | Mistake | Why It's Harmful | How to Fix |
 |---|---|---|
-| **Including Everything** | Dilutes quality, looks unfocused | Curate ruthlessly—only your best 10-20 pieces |
+| **Including Everything** | Dilutes quality, looks unfocused | Curate ruthlessly, only your best 10-20 pieces |
 | **Poor Photos** | Unprofessional, doesn't do work justice | Learn basic photography, reshoot everything |
 | **Inconsistent Style** | Confusing, looks scattered | Develop cohesive editing, stick to palette |
 | **No Context/Captions** | Viewers don't understand work | Add brief, informative captions |
@@ -241,13 +241,13 @@ A portfolio showcases your best work, demonstrates skill progression, attracts c
 
 | Threat | Protection Method | Effectiveness | Trade-Off |
 |---|---|---|---|
-| **Image Theft** | Watermark on images | Medium—can be cropped | Detracts from aesthetics |
-| **Idea Copying** | Share finished work only, not tutorials | Low—ideas hard to protect | Limits engagement |
+| **Image Theft** | Watermark on images | Medium, can be cropped | Detracts from aesthetics |
+| **Idea Copying** | Share finished work only, not tutorials | Low, ideas hard to protect | Limits engagement |
 | **Unauthorized Use** | Copyright notice, DMCA takedowns | High (legally) | Requires vigilance, legal action |
-| **Low-Res Theft** | Only upload web-resolution images | High—unusable for print | None |
+| **Low-Res Theft** | Only upload web-resolution images | High, unusable for print | None |
 | **Product Replication** | Document creation dates, unique elements | Medium | Limited protection |
 
-**Reality**: Sharing online means some risk—but visibility benefits usually outweigh theft risks. Protect legally, but don't hide your work.
+**Reality**: Sharing online means some risk, but visibility benefits usually outweigh theft risks. Protect legally, but don't hide your work.
 
 ## Pricing Your Portfolio Work (If Selling)
 
@@ -262,11 +262,11 @@ A portfolio showcases your best work, demonstrates skill progression, attracts c
 
 | Element | Best Practice | Why It Matters | Cost |
 |---|---|---|---|
-| **High-Resolution Images** | 300 DPI for print, 72 DPI web-optimized | Quality, professionalism | Free—camera setting |
+| **High-Resolution Images** | 300 DPI for print, 72 DPI web-optimized | Quality, professionalism | Free, camera setting |
 | **Consistent Naming** | "YourName_ProjectName_01.jpg" | Organization, professionalism | Free |
-| **Artist Statement** | 100-300 words about your work, vision, process | Context, connection, credibility | Free—your writing |
+| **Artist Statement** | 100-300 words about your work, vision, process | Context, connection, credibility | Free, your writing |
 | **Professional Headshot** | Well-lit, friendly, on-brand | Trust, relatability, human connection | Free (DIY) - $200 (pro) |
-| **Clear Navigation** | Easy to find work, contact, info | User experience, conversions | Free—design choice |
+| **Clear Navigation** | Easy to find work, contact, info | User experience, conversions | Free, design choice |
 | **Mobile-Friendly** | Responsive design, easy viewing on phone | Most traffic is mobile | Free (modern platforms) |
 
 ## Measuring Portfolio Success
@@ -328,7 +328,7 @@ A portfolio showcases your best work, demonstrates skill progression, attracts c
 
 ## Conclusion and Action Steps
 
-A compelling craft portfolio isn't built overnight—it's an evolving representation of your skills, style, and vision. Start with your best work, invest in learning basic photography, create a cohesive visual style, and share your story authentically.
+A compelling craft portfolio isn't built overnight, it's an evolving representation of your skills, style, and vision. Start with your best work, invest in learning basic photography, create a cohesive visual style, and share your story authentically.
 
 **Your Next Steps**:
 1. **Gather** your 5-10 best finished pieces
@@ -339,6 +339,6 @@ A compelling craft portfolio isn't built overnight—it's an evolving representa
 6. **Share** your portfolio and invite feedback
 7. **Commit** to adding new work monthly
 
-Your portfolio is more than a collection of photos—it's your creative voice, your professional presence, and your invitation to the world to see what you can create. Every piece you add, every photo you improve, and every story you share builds a stronger foundation for opportunities, connections, and success.
+Your portfolio is more than a collection of photos, it's your creative voice, your professional presence, and your invitation to the world to see what you can create. Every piece you add, every photo you improve, and every story you share builds a stronger foundation for opportunities, connections, and success.
 
 Start today. Your best work deserves to be seen.

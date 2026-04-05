@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [resin, jewelry, casting, crafts, DIY]
 tags: [resin jewelry, UV resin, epoxy, embedded flowers, inclusions, casting, molds, cheatsheet]
-excerpt: "Create stunning resin jewelry with this guide to embedding flowers, glitter, stones, and keepsakes—includes resin types, molds, layering tips, and curing advice."
+excerpt: "Create stunning resin jewelry with this guide to embedding flowers, glitter, stones, and keepsakes, includes resin types, molds, layering tips, and curing advice."
 seo:
   title: "Resin Jewelry with Embedded Objects Cheatsheet | Crafting Supply Hub"
-  description: "Step-by-step guide to crafting resin jewelry with embedded flowers, charms, and glitter—resin types, mold tips, layering, and curing explained."
+  description: "Step-by-step guide to crafting resin jewelry with embedded flowers, charms, and glitter, resin types, mold tips, layering, and curing explained."
   type: "article"
   keywords: [resin jewelry, embedded resin, UV resin, epoxy resin, jewelry making, DIY resin crafts]
   canonical_url: "https://craftingsupply.ca/cheatsheets/resin-jewelry-embedding/"
@@ -122,7 +122,7 @@ This technique uses resin to encase small objects like dried flowers, glitter, s
 ## FAQ
 
 **Can I use live flowers in resin?**  
-No—fresh flowers rot and create bubbles. Always use fully dried, sealed flowers.
+No, fresh flowers rot and create bubbles. Always use fully dried, sealed flowers.
 
 **How do I avoid bubbles in resin?**  
 Warm resin slightly, pour slowly, and pop bubbles with a heat gun or toothpick.

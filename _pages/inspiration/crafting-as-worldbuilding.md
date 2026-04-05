@@ -18,7 +18,7 @@ seo:
 
 ## Instead of Writing Lore, Build It
 
-Writers create worlds through text. You're going to create worlds through objects. A well-crafted artifact tells you about the culture that made it, the materials available in that universe, the technology level, the aesthetic values, the daily concerns of its inhabitants—all without a single word of exposition.
+Writers create worlds through text. You're going to create worlds through objects. A well-crafted artifact tells you about the culture that made it, the materials available in that universe, the technology level, the aesthetic values, the daily concerns of its inhabitants, all without a single word of exposition.
 
 This is worldbuilding from the outside in: instead of inventing a universe and then describing it, you make objects that *prove* the universe exists. The universe becomes real because its stuff is real.
 
@@ -184,7 +184,7 @@ How an object works tells you about the people:
    - Fold lines, corner wear
    - Water damage, stains
    - Margin notes, underlining
-   - Repairs (tape from their world—what does that look like?)
+   - Repairs (tape from their world, what does that look like?)
    - Pressed flowers, other inclusions
 
 **Binding and Presentation**:
@@ -294,7 +294,7 @@ How an object works tells you about the people:
 - **Games/Toys**: How do they play? Childhood in this world?
 - **Eyewear**: How do they augment senses? Fashion? Practical?
 - **Timepieces**: How do they measure time? What units? Portable?
-- **Lighting**: Candles, lamps, magic—how do they see in dark?
+- **Lighting**: Candles, lamps, magic, how do they see in dark?
 - **Writing implements**: What writes? On what? How precious is writing?
 
 **Making the Familiar Strange**:

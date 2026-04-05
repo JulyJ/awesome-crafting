@@ -10,7 +10,7 @@ tags: [seed paper, eco-friendly crafts, handmade paper, DIY gifts, recycled pape
 excerpt: "Learn how to make seed paper at home with this guide. Includes materials, blending ratios, best seeds to use, drying tips, and project ideas."
 seo:
   title: "Seed Paper Making Cheatsheet | Crafting Supply Hub"
-  description: "Step-by-step guide to DIY seed paper—learn about materials, pulp ratios, best seeds to use, drying techniques, and creative project ideas."
+  description: "Step-by-step guide to DIY seed paper, learn about materials, pulp ratios, best seeds to use, drying techniques, and creative project ideas."
   type: "article"
   keywords: [seed paper, handmade paper, DIY plantable paper, recycled crafts, eco-friendly DIY, gardening gifts]
   canonical_url: "https://craftingsupply.ca/cheatsheets/seed-paper-making/"
@@ -55,7 +55,7 @@ Seed paper is handmade paper embedded with seeds. When planted in soil and water
 | Lavender           | ✅ Yes            | Thick                   | Seed cards                |
 | Marigold           | ✅ Yes            | Thick                   | Craft paper for gifting   |
 | Tomato             | ⚠️ Partial        | Thin                    | Experimental only         |
-| Mint               | ❌ No             | N/A                     | Avoid—poor germination    |
+| Mint               | ❌ No             | N/A                     | Avoid, poor germination    |
 
 ---
 
@@ -65,9 +65,9 @@ Seed paper is handmade paper embedded with seeds. When planted in soil and water
 |--------|---------------------------------------------|------------------------------------------------|
 | 1      | Tear paper into small pieces                | Soak for at least 2 hours                      |
 | 2      | Blend paper with water into a smooth pulp   | Add more water if blender struggles            |
-| 3      | Stir in seeds gently by hand                | Avoid blending seeds—can damage viability      |
+| 3      | Stir in seeds gently by hand                | Avoid blending seeds, can damage viability      |
 | 4      | Pour pulp onto screen or deckle             | Press evenly for uniform thickness             |
-| 5      | Use sponge or towel to press out excess     | Don’t wring—it may tear the pulp               |
+| 5      | Use sponge or towel to press out excess     | Don’t wring, it may tear the pulp               |
 | 6      | Let dry 24-48 hours                         | Air dry on flat surface, out of direct sunlight|
 | 7      | Peel gently from screen and cut to shape    | Use scissors or paper cutter for clean edges   |
 

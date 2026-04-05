@@ -7,7 +7,7 @@ sidebar:
 date: 2025-07-02
 categories: [paper crafts, upcycling, DIY, home-decor, surface-arts]
 tags: [decoupage, Mod Podge, paper crafts, upcycling, decorative art, cheatsheet, sealing techniques]
-excerpt: "Master the art of decoupage with this cheatsheet—explore compatible surfaces, glue types, sealing methods, and creative project ideas for all skill levels."
+excerpt: "Master the art of decoupage with this cheatsheet, explore compatible surfaces, glue types, sealing methods, and creative project ideas for all skill levels."
 seo:
   title: "Decoupage Cheatsheet | Crafting Supply Hub"
   description: "Your go-to guide for decoupage: learn how to prep surfaces, choose adhesives, apply paper and fabric, seal projects, and explore DIY project ideas."
@@ -118,10 +118,10 @@ Decoupage is the art of decorating objects with cut-out paper or fabric designs,
 ## FAQ
 
 **Can I decoupage photos?**  
-Yes—use laser prints or photo paper. Inkjet may smear unless sealed first.
+Yes, use laser prints or photo paper. Inkjet may smear unless sealed first.
 
 **Can I decoupage onto fabric?**  
-Yes—especially for art projects or wall hangings, but not for washable clothes.
+Yes, especially for art projects or wall hangings, but not for washable clothes.
 
 **Is decoupage waterproof?**  
 No, unless using waterproof-specific products. Always seal thoroughly for outdoor use.

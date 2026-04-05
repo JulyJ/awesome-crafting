@@ -113,7 +113,7 @@ Choosing the right paper transforms craft projects from amateur to professional.
 |---|---|---|---|
 | **Long Grain** | Paper folds smoother parallel to long edge | Cleaner folds, less cracking | Fold with the grain |
 | **Short Grain** | Paper folds smoother parallel to short edge | Important for bookbinding, cards | Align grain with spine/fold |
-| **Testing Method** | Gently bend (don't crease) both directions—easier direction = with grain | Affects folding, tearing, curling | Always test before cutting large quantities |
+| **Testing Method** | Gently bend (don't crease) both directions, easier direction = with grain | Affects folding, tearing, curling | Always test before cutting large quantities |
 
 ## Where to Buy Paper
 
@@ -222,14 +222,14 @@ Choosing the right paper transforms craft projects from amateur to professional.
 
 | Weight Description | US Text (lb) | US Cover (lb) | GSM | Common Name |
 |---|---|---|---|---|
-| Ultra-Thin | 20 | — | 75 | Copy paper |
-| Thin | 24-28 | — | 90-105 | Lightweight |
-| Light | 32 | — | 120 | Writing paper |
-| Medium-Light | — | 65 | 176 | Light cardstock |
-| Medium | — | 80 | 218 | Standard cardstock |
-| Medium-Heavy | — | 100 | 271 | Heavy cardstock |
-| Heavy | — | 110-130 | 298-350 | Premium cardstock |
-| Extra-Heavy | — | — | 400+ | Chipboard territory |
+| Ultra-Thin | 20 | - | 75 | Copy paper |
+| Thin | 24-28 | - | 90-105 | Lightweight |
+| Light | 32 | - | 120 | Writing paper |
+| Medium-Light | - | 65 | 176 | Light cardstock |
+| Medium | - | 80 | 218 | Standard cardstock |
+| Medium-Heavy | - | 100 | 271 | Heavy cardstock |
+| Heavy | - | 110-130 | 298-350 | Premium cardstock |
+| Extra-Heavy | - | - | 400+ | Chipboard territory |
 
 ## Best Paper Brands by Category
 
@@ -244,7 +244,7 @@ Choosing the right paper transforms craft projects from amateur to professional.
 
 | Term | Definition | Why It Matters |
 |---|---|---|
-| **GSM** | Grams per square meter—universal weight measure | Reliable comparison across brands/countries |
+| **GSM** | Grams per square meter, universal weight measure | Reliable comparison across brands/countries |
 | **Acid-Free** | pH neutral, won't yellow or deteriorate rapidly | Critical for archival projects, photos |
 | **Lignin-Free** | Wood component removed (causes yellowing) | Archival quality, long-term preservation |
 | **Buffered** | Alkaline reserve to neutralize acids | Extra protection for archival storage |
@@ -287,7 +287,7 @@ Choosing the right paper transforms craft projects from amateur to professional.
 | **Origami** | Origami or copy paper | 20-24 lb | Smooth | 1 sheet per model |
 | **Gift Tags** | Cardstock | 80-110 lb | Any | 1 per gift |
 | **Art Prints** | Photo or art paper | 80-110 lb | Matte or glossy | 1 per print |
-| **Book Pages/Journals** | Text weight | 24-32 lb | Smooth or linen | Many—calculate pages × 2 sides |
+| **Book Pages/Journals** | Text weight | 24-32 lb | Smooth or linen | Many, calculate pages × 2 sides |
 
 ## Conclusion and Key Takeaways
 
@@ -300,4 +300,4 @@ For most crafters, a starter collection should include:
 - Vellum for overlays
 - One specialty paper that excites you
 
-Build your collection based on the crafts you love, buy quality for final projects and budget options for practice, and always store paper properly to maintain its quality. Paper is the foundation of paper crafts—invest in understanding it, and your projects will reflect that knowledge.
+Build your collection based on the crafts you love, buy quality for final projects and budget options for practice, and always store paper properly to maintain its quality. Paper is the foundation of paper crafts, invest in understanding it, and your projects will reflect that knowledge.

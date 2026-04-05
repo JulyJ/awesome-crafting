@@ -10,7 +10,7 @@ tags: [encaustic painting, hot wax, mixed media, fine art, beeswax, art techniqu
 excerpt: "Explore the luminous world of encaustic painting with this guide to tools, wax preparation, surfaces, techniques, and safety best practices."
 seo:
   title: "Encaustic Painting Cheatsheet | Crafting Supply Hub"
-  description: "Master encaustic painting—learn how to paint with molten wax, use pigments, layer mixed media, and stay safe with this complete beginner’s guide."
+  description: "Master encaustic painting, learn how to paint with molten wax, use pigments, layer mixed media, and stay safe with this complete beginner’s guide."
   type: "article"
   keywords: [encaustic painting, hot wax painting, beeswax art, mixed media, encaustic art, art techniques]
   canonical_url: "https://craftingsupply.ca/cheatsheets/encaustic-painting/"
@@ -30,7 +30,7 @@ Encaustic painting is an ancient art form using heated beeswax mixed with damar 
 | **Damar Resin**          | Adds hardness and durability            | Usually pre-blended in medium           |
 | **Heat Source (Griddle)**| Melts and keeps encaustic medium warm   | Electric pancake griddle preferred      |
 | **Metal Palette Cups**   | Holds melted wax                        | Use multiple for different colours       |
-| **Natural Bristle Brushes** | Apply molten wax                    | Avoid synthetic brushes—they melt       |
+| **Natural Bristle Brushes** | Apply molten wax                    | Avoid synthetic brushes, they melt       |
 | **Heat Gun / Torch**     | Fuses wax layers together               | Helps remove bubbles and blends layers  |
 | **Encaustic Medium**     | Beeswax + damar mix for base and blending | Available pre-made                      |
 | **Pigments / Encaustic Paints** | Colourant added to wax          | Use dry pigments or ready-made paints   |
@@ -43,7 +43,7 @@ Encaustic painting is an ancient art form using heated beeswax mixed with damar 
 
 | Surface Type        | Prep Required     | Notes                                |
 |---------------------|-------------------|---------------------------------------|
-| **Wood Panel (Birch)** | None if smooth | Ideal support—rigid and absorbent     |
+| **Wood Panel (Birch)** | None if smooth | Ideal support, rigid and absorbent     |
 | **Cradled Panel**    | Optional sanding | Adds depth and durability             |
 | **Cardboard (Not Ideal)**| Warps with heat| Use for quick tests only              |
 | **Paper (Thick)**    | Mount to wood     | Use watercolour or cotton rag paper    |
@@ -96,7 +96,7 @@ Encaustic painting is an ancient art form using heated beeswax mixed with damar 
 | **Fusing Final Layer** | Bonds top coat fully                | Smooths out surface                     |
 | **Scrape Edges**     | Neatens panel border                  | Use warm blade                          |
 | **Polish**           | Adds sheen and protects               | After 2–3 days cure time                |
-| **Seal (Optional)**  | Not necessary, but can protect        | Avoid varnish—wax is final layer        |
+| **Seal (Optional)**  | Not necessary, but can protect        | Avoid varnish, wax is final layer        |
 | **Storage**          | Keep cool, dust-free                  | Avoid direct sunlight or heat           |
 
 ---
@@ -128,7 +128,7 @@ Encaustic painting is an ancient art form using heated beeswax mixed with damar 
 ## FAQ
 
 **Can I use regular candles or crayons?**  
-No—only use beeswax + damar resin. Crayons contain additives that burn or smoke.
+No, only use beeswax + damar resin. Crayons contain additives that burn or smoke.
 
 **Do I need to varnish or seal encaustic art?**  
 No. Encaustic work remains durable and archival when properly fused and polished.
@@ -137,6 +137,6 @@ No. Encaustic work remains durable and archival when properly fused and polished
 Surface dries quickly, but full cure takes 1–2 weeks. Polish only after curing.
 
 **Can I hang encaustic art in sunlight?**  
-Avoid direct heat or sunlight—it may soften or distort the wax.
+Avoid direct heat or sunlight, it may soften or distort the wax.
 
 ---

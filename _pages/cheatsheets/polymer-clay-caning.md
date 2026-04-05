@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [polymer-clay, sculpting, jewelry, crafts, DIY]
 tags: [polymer clay, millefiori, cane work, clay jewelry, sculpting, DIY, cheatsheet]
-excerpt: "Learn the art of polymer clay caning—explore basic cane designs, slicing techniques, conditioning tips, and project ideas for stunning clay patterns."
+excerpt: "Learn the art of polymer clay caning, explore basic cane designs, slicing techniques, conditioning tips, and project ideas for stunning clay patterns."
 seo:
   title: "Polymer Clay Caning Cheatsheet | Crafting Supply Hub"
-  description: "Master polymer clay caning with this cheatsheet—tools, conditioning tips, cane types, reducing, slicing, and how to use canes in jewelry and decor."
+  description: "Master polymer clay caning with this cheatsheet, tools, conditioning tips, cane types, reducing, slicing, and how to use canes in jewelry and decor."
   type: "article"
   keywords: [polymer clay, millefiori, clay canes, polymer clay jewelry, clay patterns, cane slicing]
   canonical_url: "https://craftingsupply.ca/cheatsheets/polymer-clay-caning/"
@@ -18,7 +18,7 @@ seo:
 
 ## What is Polymer Clay Caning?
 
-Caning is the process of stacking and shaping different colours of polymer clay into a log (cane) with a pattern that runs through its entire length—similar to a slice of candy. The design remains consistent through the cross-section, even when reduced or sliced.
+Caning is the process of stacking and shaping different colours of polymer clay into a log (cane) with a pattern that runs through its entire length, similar to a slice of candy. The design remains consistent through the cross-section, even when reduced or sliced.
 
 ---
 
@@ -130,7 +130,7 @@ Firm brands like Premo, Fimo, or Kato hold shape well and reduce cleanly.
 Wrap in plastic wrap or wax paper and keep in a cool, airtight container.
 
 **Can I use translucent clay in canes?**  
-Yes! Use for effects like petals or glowing edges—just bake carefully to avoid browning.
+Yes! Use for effects like petals or glowing edges, just bake carefully to avoid browning.
 
 **Do I need to seal the final piece?**  
 Not always. Sanding and buffing often gives the best finish, but varnish or resin can add shine and protection.

@@ -18,9 +18,9 @@ seo:
 
 ## The Magic of Illuminated Acrylic
 
-Illuminated acrylic displays represent one of the most visually striking intersections of craft and technology. When light travels through crystal-clear acrylic and emerges at precisely engineered points—engravings, etchings, or textured surfaces—the result is ethereal, glowing art that seems to float in space. This craft combines material science, electronics, optics, design, and traditional making skills into projects that captivate viewers and showcase true maker versatility.
+Illuminated acrylic displays represent one of the most visually striking intersections of craft and technology. When light travels through crystal-clear acrylic and emerges at precisely engineered points, engravings, etchings, or textured surfaces, the result is ethereal, glowing art that seems to float in space. This craft combines material science, electronics, optics, design, and traditional making skills into projects that captivate viewers and showcase true maker versatility.
 
-The technique isn't reserved for industrial designers or engineers. With understanding of acrylic properties, basic electronics, and careful execution, crafters can create everything from simple glowing signs to complex multi-layer illuminated sculptures. The craft rewards patience and precision while offering immediate visual gratification—when that first test illumination reveals your design glowing to life, you'll understand why makers become obsessed with this medium.
+The technique isn't reserved for industrial designers or engineers. With understanding of acrylic properties, basic electronics, and careful execution, crafters can create everything from simple glowing signs to complex multi-layer illuminated sculptures. The craft rewards patience and precision while offering immediate visual gratification, when that first test illumination reveals your design glowing to life, you'll understand why makers become obsessed with this medium.
 
 ## Understanding Acrylic for Light Projects
 
@@ -34,7 +34,7 @@ The technique isn't reserved for industrial designers or engineers. With underst
 | **Colored Acrylic** | Tinted throughout | Varies by color | Artistic effects, color-specific projects | Similar to clear |
 | **White Acrylic** | Opaque white, excellent diffusion | No transmission, reflects internally | LED diffusion, bright backlit panels | Similar to clear |
 
-**For Edge Lighting**: Always choose **cast acrylic**. The optical clarity difference is worth the cost—extruded shows clouding and light loss.
+**For Edge Lighting**: Always choose **cast acrylic**. The optical clarity difference is worth the cost, extruded shows clouding and light loss.
 
 ### Acrylic Thickness Selection
 
@@ -46,13 +46,13 @@ The technique isn't reserved for industrial designers or engineers. With underst
 | **3/8" (10mm)** | Thick, very rigid | Very bright edges, shorter effective length | High-end displays, thick aesthetic | Heavy, expensive, harder to work |
 | **1/2" (12mm)** | Very thick, solid | Extremely bright, limited length | Statement pieces, luxury items | Professional territory, costly |
 
-**Beginner Recommendation**: Start with 1/8" cast acrylic—affordable, easy to work with, forgiving, and suitable for most projects.
+**Beginner Recommendation**: Start with 1/8" cast acrylic, affordable, easy to work with, forgiving, and suitable for most projects.
 
 ## Edge Lighting Fundamentals
 
 ### How Edge Lighting Works
 
-**The Science**: Acrylic has a high refractive index. Light entering the edge stays trapped inside via total internal reflection (like fiber optics). It only escapes when the smooth surface is disrupted—by engraving, scratching, frosting, or texturing. These disruptions scatter light outward, creating the glowing effect.
+**The Science**: Acrylic has a high refractive index. Light entering the edge stays trapped inside via total internal reflection (like fiber optics). It only escapes when the smooth surface is disrupted, by engraving, scratching, frosting, or texturing. These disruptions scatter light outward, creating the glowing effect.
 
 **Key Variables**:
 
@@ -83,12 +83,12 @@ The technique isn't reserved for industrial designers or engineers. With underst
 
 | Method | Equipment | Depth Control | Detail Level | Cost | Best For |
 |---|---|---|---|---|---|
-| **Laser Engraving** | CO2 laser cutter/engraver | Excellent—software control | Extremely high, intricate | $50-500/hour service or $300-5000 machine | Complex designs, text, fine details, production |
-| **Rotary Tool** | Dremel, flex shaft | Manual—takes practice | Medium—steady hand required | $40-150 tool | Custom one-offs, artistic, organic shapes |
-| **CNC Router** | CNC mill with engraving bit | Excellent—programmed | High—depends on bit | $1500-5000+ machine or service | Large projects, production, 3D relief |
-| **Hand Engraving** | Carbide scribe, diamond bit | Manual—very skilled | Low-Medium—limited detail | $10-40 tools | Simple designs, personal touch, budget |
-| **Chemical Etching** | Etching cream, vinyl mask | Even depth | Medium—depends on mask | $20-50 | Broad areas, textured effects, frosted look |
-| **Sandblasting** | Sandblaster, vinyl mask | Consistent, controlled | Medium—depends on mask | $100-300 or service | Frosted effects, depth, production |
+| **Laser Engraving** | CO2 laser cutter/engraver | Excellent, software control | Extremely high, intricate | $50-500/hour service or $300-5000 machine | Complex designs, text, fine details, production |
+| **Rotary Tool** | Dremel, flex shaft | Manual, takes practice | Medium, steady hand required | $40-150 tool | Custom one-offs, artistic, organic shapes |
+| **CNC Router** | CNC mill with engraving bit | Excellent, programmed | High, depends on bit | $1500-5000+ machine or service | Large projects, production, 3D relief |
+| **Hand Engraving** | Carbide scribe, diamond bit | Manual, very skilled | Low-Medium, limited detail | $10-40 tools | Simple designs, personal touch, budget |
+| **Chemical Etching** | Etching cream, vinyl mask | Even depth | Medium, depends on mask | $20-50 | Broad areas, textured effects, frosted look |
+| **Sandblasting** | Sandblaster, vinyl mask | Consistent, controlled | Medium, depends on mask | $100-300 or service | Frosted effects, depth, production |
 
 **Beginner Recommendation**: Hand engraving with rotary tool (cheap, accessible, forgiving) or laser engraving service (upload design, perfect results, moderate cost).
 
@@ -105,10 +105,10 @@ The technique isn't reserved for industrial designers or engineers. With underst
 
 **Design Principles**:
 - High contrast works best (solid vs. empty, deep vs. shallow)
-- Fine lines may not show well—test first
+- Fine lines may not show well, test first
 - Text should be large (1/4" minimum for readability)
-- Negative space is your friend—what's NOT engraved matters
-- Consider viewing angle—will it be straight-on or angled?
+- Negative space is your friend, what's NOT engraved matters
+- Consider viewing angle, will it be straight-on or angled?
 
 ## Electronics for Illuminated Displays
 
@@ -122,7 +122,7 @@ The technique isn't reserved for industrial designers or engineers. With underst
 | **LED Modules (Pre-Wired)** | Plug-and-play, consistent | Less flexibility, larger | Quick projects, prototypes |
 | **High-Power LEDs** | Extremely bright, good for large pieces | Require heatsink, driver, more expensive | Large installations, maximum brightness |
 
-**Recommended Starting Point**: 5V LED strip (non-addressable, cool white 5000-6500K)—easy, effective, affordable.
+**Recommended Starting Point**: 5V LED strip (non-addressable, cool white 5000-6500K), easy, effective, affordable.
 
 ### Color Temperature for Acrylic Projects
 
@@ -159,11 +159,11 @@ The technique isn't reserved for industrial designers or engineers. With underst
 
 | Method | Equipment | Edge Quality | Precision | Difficulty | Cost |
 |---|---|---|---|---|---|
-| **Laser Cutting** | CO2 laser cutter | Perfect—flame-polished, crystal clear | Extremely high | Easy—software does work | $20-100 service or expensive machine |
-| **Table Saw** | Table saw + fine blade | Rough—requires polishing | Medium—careful setup | Medium—requires experience | $10-30 blade |
-| **Jigsaw** | Jigsaw + acrylic blade | Rough—requires polishing | Low—curves possible, less precise | Medium—steady hand | $5-15 blade |
-| **Scoring & Breaking** | Acrylic scoring tool | Very rough—only straight lines | Low—straight lines only | Easy—like cutting glass | $10-20 tool |
-| **CNC Router** | CNC machine | Excellent—smooth with right settings | Very high—programmed | Medium—setup, tooling | $50-200 service or expensive machine |
+| **Laser Cutting** | CO2 laser cutter | Perfect, flame-polished, crystal clear | Extremely high | Easy, software does work | $20-100 service or expensive machine |
+| **Table Saw** | Table saw + fine blade | Rough, requires polishing | Medium, careful setup | Medium, requires experience | $10-30 blade |
+| **Jigsaw** | Jigsaw + acrylic blade | Rough, requires polishing | Low, curves possible, less precise | Medium, steady hand | $5-15 blade |
+| **Scoring & Breaking** | Acrylic scoring tool | Very rough, only straight lines | Low, straight lines only | Easy, like cutting glass | $10-20 tool |
+| **CNC Router** | CNC machine | Excellent, smooth with right settings | Very high, programmed | Medium, setup, tooling | $50-200 service or expensive machine |
 
 **Edge Lighting Requirement**: Smooth, polished edges for maximum light entry. Laser cutting provides best results out of the box. Manual cutting requires polishing.
 
@@ -173,30 +173,30 @@ The technique isn't reserved for industrial designers or engineers. With underst
 
 | Method | Process | Time | Result Quality | Cost |
 |---|---|---|---|---|
-| **Flame Polishing** | Pass propane torch over edge quickly | Fast (seconds per edge) | Excellent—crystal clear | $20-40 torch |
+| **Flame Polishing** | Pass propane torch over edge quickly | Fast (seconds per edge) | Excellent, crystal clear | $20-40 torch |
 | **Sanding + Buffing** | Sand 220→400→800→2000 grit, then buff compound | Slow (30+ min per piece) | Excellent with patience | $20-40 supplies |
-| **Scraping** | Acrylic scraper tool smooths edge | Medium (10-15 min) | Good—clear but not perfect | $15-30 tool |
+| **Scraping** | Acrylic scraper tool smooths edge | Medium (10-15 min) | Good, clear but not perfect | $15-30 tool |
 | **Commercial Polish** | Acrylic polishing compound + power buffer | Medium (15-20 min) | Excellent | $20-50 supplies |
 
 **Beginner Recommendation**: Laser cutting (outsource or makerspace) OR flame polishing (fast, effective, requires practice on scrap first).
 
 **Flame Polishing Safety**:
 - Practice on scrap pieces
-- Keep torch moving—stationary heat creates bubbles
+- Keep torch moving, stationary heat creates bubbles
 - Work in ventilated area
 - Have fire extinguisher nearby
-- Acrylic is flammable—respect the material
+- Acrylic is flammable, respect the material
 
 ### Engraving Best Practices
 
 | Consideration | Best Practice | Why | Avoid |
 |---|---|---|---|
-| **Depth** | Shallow but visible (0.5-1mm) | Retains structural integrity, shows detail | Too deep—weakens acrylic, too shallow—invisible |
-| **Consistency** | Even depth across design | Uniform brightness | Varying depth—patchy lighting |
-| **Direction** | Engrave perpendicular to viewing angle when possible | Best light scattering toward viewer | Parallel to view—less visible |
-| **Test First** | Always test on scrap | Confirms technique, prevents waste | Engraving final piece first—no do-overs |
-| **Clean Before** | Remove protective film, clean with alcohol | Prevents contamination in engravings | Engraving with film on—melted plastic in grooves |
-| **Protect Surface** | Leave film on non-engraved side | Prevents scratches | Removing all film—scratches during handling |
+| **Depth** | Shallow but visible (0.5-1mm) | Retains structural integrity, shows detail | Too deep, weakens acrylic, too shallow, invisible |
+| **Consistency** | Even depth across design | Uniform brightness | Varying depth, patchy lighting |
+| **Direction** | Engrave perpendicular to viewing angle when possible | Best light scattering toward viewer | Parallel to view, less visible |
+| **Test First** | Always test on scrap | Confirms technique, prevents waste | Engraving final piece first, no do-overs |
+| **Clean Before** | Remove protective film, clean with alcohol | Prevents contamination in engravings | Engraving with film on, melted plastic in grooves |
+| **Protect Surface** | Leave film on non-engraved side | Prevents scratches | Removing all film, scratches during handling |
 
 ## Circuit Design for Displays
 
@@ -227,7 +227,7 @@ The technique isn't reserved for industrial designers or engineers. With underst
 
 **Components**:
 - Multiple 5mm LEDs (white, appropriate for viewing distance)
-- Resistors (one per LED—220Ω for 5V supply)
+- Resistors (one per LED, 220Ω for 5V supply)
 - 5V power supply or battery pack
 - Wire, solder, perfboard or custom PCB
 
@@ -302,7 +302,7 @@ Each LED has its own resistor, all positive sides connect to power +, all negati
 - Acrylic "L" bracket (transparent, minimalist)
 - Metal stand (industrial aesthetic)
 
-**Professional Touch**: Cable management—route wires cleanly, use cable channels, hide connections, provide strain relief.
+**Professional Touch**: Cable management, route wires cleanly, use cable channels, hide connections, provide strain relief.
 
 ## Professional Examples and Inspiration
 
@@ -320,7 +320,7 @@ One of the finest examples of illuminated acrylic craftsmanship comes from Canad
 | **Finish** | Rough edges, visible fasteners | Clean assembly, invisible mounting, polished result |
 | **Concept** | Decoration only | Art with meaning, craft + engineering harmony |
 
-Studying work like Lumicry's reveals that professional luminous displays aren't just about technique—they're about **integration**. Every element serves both aesthetic and functional purposes. The electronics aren't an afterthought; they're designed alongside the art. The acrylic work isn't just precise; it's intentional. This holistic approach transforms a craft project into compelling art.
+Studying work like Lumicry's reveals that professional luminous displays aren't just about technique, they're about **integration**. Every element serves both aesthetic and functional purposes. The electronics aren't an afterthought; they're designed alongside the art. The acrylic work isn't just precise; it's intentional. This holistic approach transforms a craft project into compelling art.
 
 ## Project Ideas by Difficulty
 
@@ -390,7 +390,7 @@ Studying work like Lumicry's reveals that professional luminous displays aren't 
 
 **Process**:
 1. Create mold (silicone, wood, etc.)
-2. Pour casting resin (not "acrylic" sheet—liquid casting resin)
+2. Pour casting resin (not "acrylic" sheet, liquid casting resin)
 3. Position objects before curing
 4. Allow full cure (24-72 hours)
 5. Remove from mold, polish, illuminate edges
@@ -433,7 +433,7 @@ Studying work like Lumicry's reveals that professional luminous displays aren't 
 - Professional commissions where appearance matters
 - Learning PCB design as a skill
 
-**Simple PCB Example**: Edge-mount PCB with LED pads along one edge, power input, resistors—all components on one small board that mounts directly to acrylic edge.
+**Simple PCB Example**: Edge-mount PCB with LED pads along one edge, power input, resistors, all components on one small board that mounts directly to acrylic edge.
 
 ## Sourcing Materials
 
@@ -443,7 +443,7 @@ Studying work like Lumicry's reveals that professional luminous displays aren't 
 |---|---|---|
 | **Hardware Stores (Home Depot, Lowe's)** | Immediate, see in person, small pieces | Limited selection, mostly extruded | $10-30 for small sheets |
 | **Online Specialty (TAP Plastics, ePlastics)** | Cast acrylic, sizes, colors, quality | Shipping costs, can't inspect in person | $20-100+ depending on size |
-| **Local Plastics Supplier** | Variety, advice, custom cutting | May require business account | Varies—often competitive |
+| **Local Plastics Supplier** | Variety, advice, custom cutting | May require business account | Varies, often competitive |
 | **Amazon** | Convenient, fast shipping | Quality variable, often extruded | $15-50 for craft sizes |
 
 ### Electronics Suppliers for LED Projects
@@ -482,7 +482,7 @@ Studying work like Lumicry's reveals that professional luminous displays aren't 
 
 **Market-Based Pricing**: Research similar work (Etsy, craft fairs, artists' sites). Price within that range based on your skill level, uniqueness, and market positioning.
 
-**Value-Based Pricing**: Charge what the customer perceives as valuable—commissioned custom work, one-of-a-kind art, emotional significance = higher prices justified.
+**Value-Based Pricing**: Charge what the customer perceives as valuable, commissioned custom work, one-of-a-kind art, emotional significance = higher prices justified.
 
 ## Business Opportunities
 
@@ -539,9 +539,9 @@ Studying work like Lumicry's reveals that professional luminous displays aren't 
 
 ## Conclusion: Your Luminous Journey
 
-Creating illuminated acrylic displays combines the precision of engineering with the creativity of art. It's a craft that rewards patience, attention to detail, and the willingness to bridge multiple disciplines—electronics, optics, material science, design, fabrication. From simple glowing name plaques to complex multi-layer installations like those created by [Lumicry](https://lumicry.com/), this craft offers endless possibilities for expression and innovation.
+Creating illuminated acrylic displays combines the precision of engineering with the creativity of art. It's a craft that rewards patience, attention to detail, and the willingness to bridge multiple disciplines, electronics, optics, material science, design, fabrication. From simple glowing name plaques to complex multi-layer installations like those created by [Lumicry](https://lumicry.com/), this craft offers endless possibilities for expression and innovation.
 
-The barrier to entry is lower than ever: affordable LEDs, accessible laser cutting services, abundant tutorials, and welcoming communities. Your first project will be imperfect—uneven lighting, rough edges, visible wires—and that's exactly how every maker's journey begins. Each project teaches new skills, reveals better techniques, and builds toward that moment when you create something that makes you stop and think, "I made that."
+The barrier to entry is lower than ever: affordable LEDs, accessible laser cutting services, abundant tutorials, and welcoming communities. Your first project will be imperfect, uneven lighting, rough edges, visible wires, and that's exactly how every maker's journey begins. Each project teaches new skills, reveals better techniques, and builds toward that moment when you create something that makes you stop and think, "I made that."
 
 **Start Your First Project**:
 1. **Choose a simple design** (name, simple graphic, 6"x4" or smaller)
@@ -552,6 +552,6 @@ The barrier to entry is lower than ever: affordable LEDs, accessible laser cutti
 6. **Assemble and test** (refine until satisfied)
 7. **Show someone** (share your creation, accept feedback)
 
-The glow of light through carefully engineered acrylic isn't just physics—it's magic you crafted with your hands, your knowledge, and your vision. Whether you're creating gifts, selling art, or simply exploring this fascinating intersection of craft and technology, you're joining a community of makers who prove that modern crafting isn't about choosing between traditional skills and technology—it's about mastering both to create things that couldn't exist otherwise.
+The glow of light through carefully engineered acrylic isn't just physics, it's magic you crafted with your hands, your knowledge, and your vision. Whether you're creating gifts, selling art, or simply exploring this fascinating intersection of craft and technology, you're joining a community of makers who prove that modern crafting isn't about choosing between traditional skills and technology, it's about mastering both to create things that couldn't exist otherwise.
 
 Your first luminous display awaits. The acrylic is ready. The LEDs are waiting. Your unique artistic vision is the missing ingredient. Start today.

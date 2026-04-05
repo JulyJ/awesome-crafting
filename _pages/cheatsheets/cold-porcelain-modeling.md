@@ -7,10 +7,10 @@ sidebar:
 date: 2025-07-02
 categories: [modeling, crafts, DIY, air-dry clay, sculpture]
 tags: [cold porcelain, air-dry clay, modeling, sculpture, DIY crafts, cheatsheet]
-excerpt: "Learn how to make and work with cold porcelain—ingredients, preparation, modeling tips, drying, painting, and troubleshooting in one handy guide."
+excerpt: "Learn how to make and work with cold porcelain, ingredients, preparation, modeling tips, drying, painting, and troubleshooting in one handy guide."
 seo:
   title: "Cold Porcelain Modeling Cheatsheet | Crafting Supply Hub"
-  description: "Complete guide to cold porcelain modeling—recipes, tools, drying, painting, and troubleshooting for beautiful, air-dry clay creations."
+  description: "Complete guide to cold porcelain modeling, recipes, tools, drying, painting, and troubleshooting for beautiful, air-dry clay creations."
   type: "article"
   keywords: [cold porcelain, air-dry clay, modeling clay, handmade crafts, DIY sculpture, porcelain recipes]
   canonical_url: "https://craftingsupply.ca/cheatsheets/cold-porcelain-modeling/"

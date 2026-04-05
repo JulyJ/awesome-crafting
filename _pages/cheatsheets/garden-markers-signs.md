@@ -10,7 +10,7 @@ tags: [garden markers, garden signs, plant labels, DIY gardening, garden crafts,
 excerpt: "Create durable and stylish garden markers and signs with this detailed cheatsheet covering materials, styles, tools, and techniques."
 seo:
   title: "Garden Markers & Signs Cheatsheet | Crafting Supply Hub"
-  description: "Learn how to make effective garden markers and signs—explore materials, styles, tools, and tips for beautiful and functional garden labeling."
+  description: "Learn how to make effective garden markers and signs, explore materials, styles, tools, and tips for beautiful and functional garden labeling."
   type: "article"
   keywords: [garden markers, plant labels, garden signs, DIY gardening, garden crafts, plant markers]
   canonical_url: "https://craftingsupply.ca/cheatsheets/garden-markers-signs/"

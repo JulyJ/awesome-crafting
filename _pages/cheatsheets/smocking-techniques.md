@@ -10,7 +10,7 @@ tags: [smocking, embroidery, sewing techniques, fabric manipulation, needlework,
 excerpt: "Master smocking techniques with this handy guide covering stitch types, fabrics, patterns, tools, and tips for beginners."
 seo:
   title: "Smocking Techniques Cheatsheet | Crafting Supply Hub"
-  description: "Learn smocking basics and advanced stitches—discover fabric choices, tools, common patterns, and helpful tips for beautiful fabric manipulation."
+  description: "Learn smocking basics and advanced stitches, discover fabric choices, tools, common patterns, and helpful tips for beautiful fabric manipulation."
   type: "article"
   keywords: [smocking, embroidery stitches, sewing, fabric gathers, needlework, DIY sewing]
   canonical_url: "https://craftingsupply.ca/cheatsheets/smocking-techniques/"

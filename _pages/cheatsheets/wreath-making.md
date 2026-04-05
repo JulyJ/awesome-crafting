@@ -10,7 +10,7 @@ tags: [wreath making, floral wreaths, seasonal crafts, DIY wreath, home decor, d
 excerpt: "Master wreath making with this detailed guide covering base types, seasonal materials, floral styles, tools, techniques, and beginner project ideas."
 seo:
   title: "Wreath Making Cheatsheet | Crafting Supply Hub"
-  description: "Complete guide to DIY wreath making—explore base types, floral materials, seasonal themes, attachment techniques, and easy design styles."
+  description: "Complete guide to DIY wreath making, explore base types, floral materials, seasonal themes, attachment techniques, and easy design styles."
   type: "article"
   keywords: [wreath making, DIY wreath, floral wreaths, grapevine, foam wreath, dried flower wreath, seasonal decor]
   canonical_url: "https://craftingsupply.ca/cheatsheets/wreath-making/"

@@ -7,10 +7,10 @@ sidebar:
 date: 2026-03-17
 categories: [business, digital-crafting, online-selling]
 tags: [craft-website, website-builder, Squarespace, Wix, WordPress, Shopify, Etsy, crafter-website, hidden-fees, ecommerce, small-business]
-excerpt: "Ready to build a website for your craft business? Compare every major platform — Squarespace, Wix, WordPress, Shopify, and more — with real pricing, hidden fees, and honest pros and cons for makers and crafters."
+excerpt: "Ready to build a website for your craft business? Compare every major platform - Squarespace, Wix, WordPress, Shopify, and more - with real pricing, hidden fees, and honest pros and cons for makers and crafters."
 seo:
   title: "Website Setup for Crafters: Platforms, Costs & Hidden Fees | Crafting Supply Hub"
-  description: "Compare every website platform for craft businesses — Squarespace, Wix, WordPress, Shopify, Etsy, and more. Real CAD pricing, hidden fees exposed, and honest recommendations for makers."
+  description: "Compare every website platform for craft businesses - Squarespace, Wix, WordPress, Shopify, Etsy, and more. Real CAD pricing, hidden fees exposed, and honest recommendations for makers."
   type: "article"
   keywords: [craft website, website builder for crafters, Squarespace vs Wix, Shopify for crafters, hidden website fees, ecommerce for makers, craft business website, website cost Canada]
   canonical_url: "https://craftingsupply.ca/business/website-setup-for-crafters/"
@@ -18,7 +18,7 @@ seo:
 
 ## Do You Actually Need Your Own Website?
 
-Short answer: eventually, yes. A social media page and an Etsy shop are great starting points, but they come with rules, algorithm changes, and fees you don't control. Your own website is your permanent home online — you own it, you control it, and you're not one policy update away from losing your storefront.
+Short answer: eventually, yes. A social media page and an Etsy shop are great starting points, but they come with rules, algorithm changes, and fees you don't control. Your own website is your permanent home online - you own it, you control it, and you're not one policy update away from losing your storefront.
 
 The good news: you don't need a developer. Every platform below can be set up by a non-technical crafter in a weekend. The catch is understanding exactly what you're paying before you commit.
 
@@ -32,7 +32,7 @@ The good news: you don't need a developer. Every platform below can be set up by
 | **Wix** | Flexible drag-and-drop sites | $20–$45 | Yes (paid plans) | Easy | Free plan (with Wix ads) |
 | **WordPress.com** | Bloggers + growing brands | $10–$55 | Yes (higher plans) | Moderate | Free plan (very limited) |
 | **WordPress.org + hosting** | Full control, no limits | $8–$25/mo (hosting only) | Via WooCommerce plugin | Advanced | N/A (self-hosted) |
-| **Shopify** | Dedicated online shops | $42–$155 | Yes — full-featured | Easy–Moderate | 3-day free, then $1/mo for 3 months |
+| **Shopify** | Dedicated online shops | $42–$155 | Yes - full-featured | Easy–Moderate | 3-day free, then $1/mo for 3 months |
 | **Etsy** | Marketplace, not a website | $0.30/listing + fees | Yes (marketplace) | Very Easy | No monthly fee |
 | **Big Cartel** | Small indie sellers | $0–$15 | Yes | Very Easy | Free (up to 5 products) |
 | **Webflow** | Design-forward, custom | $20–$50 | Yes | Advanced | Free plan available |
@@ -49,10 +49,10 @@ This is where crafters get surprised. Here's what to watch for on every platform
 | Fee Type | Who Charges It | What to Look For |
 |---|---|---|
 | **Transaction fees** | Shopify (0.5–2%), Big Cartel (none), Squarespace (none on Commerce plans) | Charged on every sale on top of payment processor fees |
-| **Payment processing fees** | All platforms (via Stripe, PayPal, or their own) | Usually 2.9% + $0.30 per transaction — this is unavoidable |
+| **Payment processing fees** | All platforms (via Stripe, PayPal, or their own) | Usually 2.9% + $0.30 per transaction - this is unavoidable |
 | **Domain name** | All platforms | $15–$25/year CAD extra; often "free first year" then renews |
 | **SSL certificate** | Self-hosted WordPress only | Free via Let's Encrypt, but some cheap hosts charge $50–$100/yr |
-| **Email hosting** | All platforms | Not included — Google Workspace starts at ~$8/user/month |
+| **Email hosting** | All platforms | Not included - Google Workspace starts at ~$8/user/month |
 | **Premium templates / themes** | Wix, WordPress.org | $30–$200 one-time; free themes often look generic |
 | **App / plugin fees** | Shopify, WordPress.org | $5–$50+/month per app; costs stack fast |
 | **Storage overages** | Wix (free + basic plans) | Free = 500 MB, paid = 2–50 GB |
@@ -77,7 +77,7 @@ Squarespace is the go-to for crafters who want their site to look stunning witho
 | **Commerce Basic** | ~$40 | Unlimited | **0%** | Abandoned cart, customer accounts, POS |
 | **Commerce Advanced** | ~$52 | Unlimited | **0%** | Subscriptions, advanced shipping, gift cards |
 
-**Watch out for:** The Business plan charges a 2% transaction fee on every sale on top of Stripe's processing fee. Jump to Commerce Basic to eliminate it — the math usually favours the upgrade if you're doing more than ~$200/month in sales.
+**Watch out for:** The Business plan charges a 2% transaction fee on every sale on top of Stripe's processing fee. Jump to Commerce Basic to eliminate it - the math usually favours the upgrade if you're doing more than ~$200/month in sales.
 
 **Hidden cost:** Domain renewal (~$25 CAD/year after the first free year). Email is not included.
 
@@ -85,7 +85,7 @@ Squarespace is the go-to for crafters who want their site to look stunning witho
 
 ## Wix: Most Flexible Layout (With Caveats)
 
-Wix's drag-and-drop editor is genuinely the most flexible — you can place elements anywhere on the page. The trade-off is that free and low-tier plans are visibly ad-supported, and migrating away from Wix is painful (their system is proprietary).
+Wix's drag-and-drop editor is genuinely the most flexible - you can place elements anywhere on the page. The trade-off is that free and low-tier plans are visibly ad-supported, and migrating away from Wix is painful (their system is proprietary).
 
 | Plan | Monthly (CAD est., billed annually) | Ecommerce | Transaction Fee | Storage |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ Wix's drag-and-drop editor is genuinely the most flexible — you can place elem
 | **Business** | ~$35 | Yes + subscriptions | 0% | 100 GB |
 | **Business Elite** | ~$45 | Yes + advanced | 0% | Unlimited |
 
-**Watch out for:** Wix's app market. It's tempting to add apps for booking, reviews, loyalty programs, etc. — but each one adds $5–$30/month. A "starter" site can balloon to $70+/month without realizing it.
+**Watch out for:** Wix's app market. It's tempting to add apps for booking, reviews, loyalty programs, etc. - but each one adds $5–$30/month. A "starter" site can balloon to $70+/month without realizing it.
 
 **Hidden cost:** You cannot export your Wix site and move it elsewhere. If you ever leave, you rebuild from scratch.
 
@@ -133,7 +133,7 @@ WordPress.com (with a .com, not .org) is a hosted service by Automattic. Confusi
 | **Free** | $0 | No | WordPress.com subdomain, very limited |
 | **Personal** | ~$10 | No | Custom domain, but no plugins |
 | **Premium** | ~$16 | No | Some design tools, still no plugins |
-| **Business** | ~$38 | Via plugins | Unlocks plugin access — this is where it gets useful |
+| **Business** | ~$38 | Via plugins | Unlocks plugin access - this is where it gets useful |
 | **Commerce** | ~$55 | Full WooCommerce | Closest to self-hosted WordPress experience |
 
 **Watch out for:** You don't get plugin access until the Business plan at ~$38/month. Below that it's essentially a locked-down blog. Many crafters confuse this with free self-hosted WordPress and are frustrated by the limitations.
@@ -172,7 +172,7 @@ Etsy is not a website builder. It's a marketplace. You do not own your Etsy shop
 | **Etsy Plus** | $10 USD/month | Optional; includes listing credits and some customization |
 | **Currency conversion** | 2.5% | If you price in USD as a Canadian seller |
 
-**Real example — a $40 sale (Canadian seller, priced in CAD):**
+**Real example - a $40 sale (Canadian seller, priced in CAD):**
 - Listing fee: ~$0.27 CAD
 - Transaction fee (6.5%): $2.60
 - Payment processing (3% + $0.25): $1.45
@@ -220,7 +220,7 @@ Not everyone needs every feature. Here's what matters at each stage:
 | **Payment processing** | Shopify Payments, Stripe, and Square all support CAD and Canadian bank accounts. PayPal has higher fees for Canadian sellers. |
 | **Shipping integrations** | Shopify has Canada Post, Purolator, and UPS built in. Squarespace and WordPress require plugins/apps. |
 | **Canadian hosting** | For WordPress.org, Canadian hosts like CanSpace or SiteGround's Canadian datacenter option improve load speed for Canadian visitors. |
-| **Privacy laws** | PIPEDA (federal) and Quebec Law 25 apply to customer data. Add a privacy policy — most platforms offer a template. |
+| **Privacy laws** | PIPEDA (federal) and Quebec Law 25 apply to customer data. Add a privacy policy - most platforms offer a template. |
 
 ---
 

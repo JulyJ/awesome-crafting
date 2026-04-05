@@ -347,4 +347,4 @@ Use this the night before each show to ensure you have everything:
 
 ## Conclusion
 
-Successful craft fair booths combine strategic display, professional presentation, customer engagement, and logistical preparation. Start with the essentials, learn from each show, and continuously refine your approach. Your booth is an investment in your business—treat it as such, and the sales will follow. Remember: customers buy from vendors they like, in booths they enjoy being in, when products are displayed attractively and priced clearly.
+Successful craft fair booths combine strategic display, professional presentation, customer engagement, and logistical preparation. Start with the essentials, learn from each show, and continuously refine your approach. Your booth is an investment in your business, treat it as such, and the sales will follow. Remember: customers buy from vendors they like, in booths they enjoy being in, when products are displayed attractively and priced clearly.

@@ -18,7 +18,7 @@ seo:
 
 ## Why Color Theory Matters for Crafters
 
-Color is the first thing people notice about your crafts. Understanding color theory transforms random color choices into intentional, professional designs that evoke emotions, tell stories, and sell products. You don't need to be an artist to use color effectively—you just need these fundamental principles.
+Color is the first thing people notice about your crafts. Understanding color theory transforms random color choices into intentional, professional designs that evoke emotions, tell stories, and sell products. You don't need to be an artist to use color effectively, you just need these fundamental principles.
 
 ## The Color Wheel Basics
 
@@ -58,7 +58,7 @@ Color is the first thing people notice about your crafts. Understanding color th
 | **Shade** | Add black to pure color | Darker, deeper, muted | Dramatic, masculine, sophisticated |
 | **Tone** | Add gray to pure color | Muted, subtle, dusty | Vintage, natural, elegant, professional |
 
-**Pro Tip**: Most professional color palettes use tones rather than pure colors—they feel more sophisticated and easier on the eyes.
+**Pro Tip**: Most professional color palettes use tones rather than pure colors, they feel more sophisticated and easier on the eyes.
 
 ## Color Psychology for Crafts
 
@@ -268,7 +268,7 @@ Color is the first thing people notice about your crafts. Understanding color th
 | **How do I make something pop?** | Use complementary colors or high value contrast |
 | **What if I can't decide?** | Start with neutrals + one color you love |
 | **Should I follow trends?** | Balance: timeless base + trendy accents |
-| **How do I develop my style?** | Notice colors you're drawn to repeatedly—that's your palette |
+| **How do I develop my style?** | Notice colors you're drawn to repeatedly, that's your palette |
 
 ## Resources for Continued Learning
 
@@ -292,4 +292,4 @@ Color is the first thing people notice about your crafts. Understanding color th
 7. **Build a swatch collection**: Keep samples of favorite color combinations
 8. **Photograph your work**: Cameras reveal color relationships you might miss in person
 
-Color theory isn't about rigid rules—it's about understanding relationships so you can make intentional choices. With these fundamentals, you'll approach every craft project with confidence, creating color combinations that enhance your work and resonate with your audience. Your color choices tell a story—make sure it's the one you want to tell.
+Color theory isn't about rigid rules, it's about understanding relationships so you can make intentional choices. With these fundamentals, you'll approach every craft project with confidence, creating color combinations that enhance your work and resonate with your audience. Your color choices tell a story, make sure it's the one you want to tell.

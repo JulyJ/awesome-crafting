@@ -10,7 +10,7 @@ tags: [book-nook, diorama, miniatures, tiktok-crafts, led-lights, viral-crafts, 
 excerpt: "Book nooks are the viral miniature dioramas that turn your bookshelf into a portal to another world. From enchanted forests to tiny cafés, here's how to build your first one."
 seo:
   title: "Book Nook Dioramas: How to Build a Tiny Bookshelf World | Crafting Supply Hub"
-  description: "Learn how to create book nook dioramas — the viral TikTok craft that turns empty shelf space into magical miniature worlds. Supplies, techniques, themes, and beginner tips."
+  description: "Learn how to create book nook dioramas - the viral TikTok craft that turns empty shelf space into magical miniature worlds. Supplies, techniques, themes, and beginner tips."
   type: "article"
   keywords: [book nook diorama, book nook DIY, miniature bookshelf insert, tiktok craft trend, tiny worlds, book nook tutorial, beginner book nook]
   canonical_url: "https://craftingsupply.ca/inspiration/book-nook-dioramas/"
@@ -18,7 +18,7 @@ seo:
 
 ## The Craft That Turned Bookshelves Into Portals
 
-Book nooks are small, self-contained dioramas designed to slot between books on a shelf. From the front they look like a doorway or window into another world — a mossy forest path, a flickering wizard's study, a rainy Tokyo alley at night. TikTok and Reddit have made them one of the most shared craft genres of the past few years, and the range of skill levels is enormous: from foam-board beginner builds to jaw-dropping multi-LED professional pieces.
+Book nooks are small, self-contained dioramas designed to slot between books on a shelf. From the front they look like a doorway or window into another world - a mossy forest path, a flickering wizard's study, a rainy Tokyo alley at night. TikTok and Reddit have made them one of the most shared craft genres of the past few years, and the range of skill levels is enormous: from foam-board beginner builds to jaw-dropping multi-LED professional pieces.
 
 What makes them so viral: the scroll-stopping "before and after" of a diorama being placed on a shelf. The illusion of impossible depth in a few inches of real space is genuinely magical on camera.
 
@@ -26,7 +26,7 @@ What makes them so viral: the scroll-stopping "before and after" of a diorama be
 
 ## How a Book Nook Works
 
-A book nook is essentially a box — typically 15–25 cm tall and 10–15 cm deep — built to look like infinite depth through the use of:
+A book nook is essentially a box - typically 15–25 cm tall and 10–15 cm deep - built to look like infinite depth through the use of:
 
 | Technique | How It Creates Depth |
 |---|---|
@@ -48,9 +48,9 @@ A book nook is essentially a box — typically 15–25 cm tall and 10–15 cm de
 | **LED strip lights or fairy lights** | Warm white or amber LEDs create the most atmospheric glow. USB-powered strips are easiest. |
 | **Acrylic paint** | Stone, wood, moss, and earth tones. A small set goes a long way. |
 | **Faux moss and lichen** | Available at craft stores; instantly creates organic, natural textures. |
-| **Miniature figures and accessories** | Tiny doors, lanterns, mushrooms, furniture — available on Etsy, AliExpress, and craft stores. |
+| **Miniature figures and accessories** | Tiny doors, lanterns, mushrooms, furniture - available on Etsy, AliExpress, and craft stores. |
 | **Printed background panels** | A printed forest or cityscape at 1:12 scale, placed at the back, dramatically enhances depth. |
-| **Resin (optional)** | For water effects — streams, puddles, or a miniature pond. |
+| **Resin (optional)** | For water effects - streams, puddles, or a miniature pond. |
 
 **Estimated cost for a beginner build (CAD):** $25–$60 depending on LED type and miniature accessories.
 
@@ -77,7 +77,7 @@ A book nook is essentially a box — typically 15–25 cm tall and 10–15 cm de
 | **1. Measure your shelf gap** | The book nook needs to fit snugly between books. Most shelves are 25–30 cm tall; measure yours and design the box to be slightly shorter. |
 | **2. Build the box** | Cut foam board or MDF into a top, bottom, two sides, and a back panel. Glue together with PVA, reinforce corners with hot glue. |
 | **3. Paint the interior** | Paint before adding details. Dark backgrounds (near-black, deep green, or navy) make the lighting effects more dramatic. |
-| **4. Add the back panel** | This is the "furthest" point. Keep it simple — a printed scene, a painted night sky, or just a glowing panel works well. |
+| **4. Add the back panel** | This is the "furthest" point. Keep it simple - a printed scene, a painted night sky, or just a glowing panel works well. |
 | **5. Build up layers** | Add mid-ground elements (arched doorways, walls, foliage) stepping progressively closer to the front opening. |
 | **6. Install lighting** | Run LED strips along the top interior or behind mid-ground panels. Conceal wires by routing them through a notch in the base. |
 | **7. Add fine details last** | Moss, miniature figures, tiny signs, loose leaves. Work from back to front. |
@@ -89,7 +89,7 @@ A book nook is essentially a box — typically 15–25 cm tall and 10–15 cm de
 
 | Tip | Why It Matters |
 |---|---|
-| **Start with a forest or cave theme** | Organic textures are forgiving — uneven edges just look like rock or bark. |
+| **Start with a forest or cave theme** | Organic textures are forgiving - uneven edges just look like rock or bark. |
 | **Warm LEDs over cool** | Warm amber light (2700–3000K) reads as magical and cozy; cool white reads as clinical. |
 | **Layer your moss** | Apply PVA glue to surfaces, press moss in, let dry, then add another layer on top. Depth makes it look real. |
 | **Print your backgrounds at 1:12 scale** | Search "1:12 scale background" on Google Images or Etsy for free downloads sized correctly for dollhouse interiors. |
@@ -105,13 +105,13 @@ A book nook is essentially a box — typically 15–25 cm tall and 10–15 cm de
 | **Dollarama** | Foam board, fairy lights, small figurines, faux moss, paint |
 | **Michael's** | Miniature accessories, faux greenery, craft paint, LED strips |
 | **Etsy (Canadian sellers)** | Laser-cut miniature doors, windows, furniture kits, printed backgrounds |
-| **AliExpress** | Affordable bulk miniatures, LED strips, resin supplies — allow 2–4 weeks shipping |
+| **AliExpress** | Affordable bulk miniatures, LED strips, resin supplies - allow 2–4 weeks shipping |
 | **DeSerres** | Acrylic paints, foam board, and craft tools |
 
 ---
 
 ## Book Nook Communities Worth Joining
 
-- **r/booknooks** on Reddit — one of the most active miniature communities, full of inspiration and build logs
-- **TikTok #booknook** — thousands of time-lapse builds and theme reveals
-- **Book Nook Builders Facebook Group** — tips, supply sourcing, and beginner encouragement
+- **r/booknooks** on Reddit - one of the most active miniature communities, full of inspiration and build logs
+- **TikTok #booknook** - thousands of time-lapse builds and theme reveals
+- **Book Nook Builders Facebook Group** - tips, supply sourcing, and beginner encouragement

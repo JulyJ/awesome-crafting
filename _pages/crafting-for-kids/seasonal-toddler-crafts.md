@@ -76,7 +76,7 @@ Seasonal crafts teach toddlers about the changing world, develop fine motor skil
 | 5 | Add cotton balls as clouds | Glue cotton balls | Help with glue stick |
 | 6 | Display finished rainbow | Be proud! | Hang or photograph |
 
-**Tip**: Don't stress if colors mix—process matters more than perfection for toddlers.
+**Tip**: Don't stress if colors mix, process matters more than perfection for toddlers.
 
 ## Summer Toddler Crafts
 
@@ -253,7 +253,7 @@ Seasonal crafts teach toddlers about the changing world, develop fine motor skil
 | **Repurpose** | Use as gift wrap, cards | Not preserved | Seasonal abundance |
 | **Binder with Sheet Protectors** | Organized, viewable | Only fits flat paper | Flat artwork |
 
-**Reality Check**: Most toddler art isn't archival-quality—and that's okay! Keep special pieces, photograph the rest, and let go of perfection.
+**Reality Check**: Most toddler art isn't archival-quality, and that's okay! Keep special pieces, photograph the rest, and let go of perfection.
 
 ## Adapting Crafts for Multiple Ages
 
@@ -283,7 +283,7 @@ Seasonal crafts teach toddlers about the changing world, develop fine motor skil
 | **Different vision** | Makes something "wrong" | Praise their creativity | Correct or redo |
 | **Frustrated** | Cries, throws supplies | Offer help, simplify, or stop | Push through frustration |
 | **Wants to eat materials** | Mouths, licks, chews | Remove materials, offer snack, try later | Scold (they're exploring) |
-| **Overwhelmed** | Shuts down, refuses | Too many choices/steps—simplify | Add more complexity |
+| **Overwhelmed** | Shuts down, refuses | Too many choices/steps, simplify | Add more complexity |
 | **Too excited** | Messy, chaotic, wild | Set boundaries, outdoor option | Shut down their enthusiasm |
 
 ## Educational Extensions
@@ -339,7 +339,7 @@ Seasonal crafts teach toddlers about the changing world, develop fine motor skil
 
 ## Conclusion and Final Tips
 
-Toddler crafts succeed when they match developmental abilities, embrace mess, prioritize process over product, and offer sensory experiences. The goal isn't a perfect craft—it's bonding time, skill development, and happy memories.
+Toddler crafts succeed when they match developmental abilities, embrace mess, prioritize process over product, and offer sensory experiences. The goal isn't a perfect craft, it's bonding time, skill development, and happy memories.
 
 **Remember**:
 - Supervision is essential
@@ -351,6 +351,6 @@ Toddler crafts succeed when they match developmental abilities, embrace mess, pr
 - Photograph crafts, not just keep them
 - Every child develops at their own pace
 - Mess is learning
-- Have fun—they'll remember your presence, not the perfection
+- Have fun, they'll remember your presence, not the perfection
 
 Seasonal crafts connect toddlers to the world around them, build anticipation for holidays and changes, and create traditions that last a lifetime. Start simple, embrace the chaos, and enjoy these fleeting creative years together.

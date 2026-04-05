@@ -7,10 +7,10 @@ sidebar:
 date: 2026-02-07
 categories: [inspiration, craft-trends]
 tags: [soft-machinery, cozy-tech, non-functional-tech, comfort-objects, aesthetic-tech, emotional-crafts, nostalgia-tech, handmade-electronics, decorative-tech]
-excerpt: "Create technology that comforts instead of functions. Explore the soft machinery trend—buttons, wires, screens, circuits—made cozy, emotional, and entirely non-functional. Tech as feeling instead of tool."
+excerpt: "Create technology that comforts instead of functions. Explore the soft machinery trend, buttons, wires, screens, circuits, made cozy, emotional, and entirely non-functional. Tech as feeling instead of tool."
 seo:
   title: "Soft Machinery: Crafting Cozy Non-Functional Tech | Crafting Supply Hub"
-  description: "Discover the soft machinery trend. Learn to create comforting fake technology—buttons, wires, and circuits that exist for emotional aesthetics rather than function."
+  description: "Discover the soft machinery trend. Learn to create comforting fake technology, buttons, wires, and circuits that exist for emotional aesthetics rather than function."
   type: "article"
   keywords: [soft machinery, cozy tech, non-functional technology, comfort crafts, aesthetic electronics, emotional tech, nostalgia crafts, decorative technology, handmade tech art]
   canonical_url: "https://craftingsupply.ca/inspiration/soft-machinery-trend/"
@@ -22,7 +22,7 @@ Real technology is demanding. It needs updates, charging, passwords, attention. 
 
 Soft machinery is technology freed from function. It's buttons you can press that do nothing but feel satisfying. Wires that go nowhere but look intricate. Screens that display permanent comfort messages. Circuits that exist purely as visual texture.
 
-This is tech as emotional object: cozy, nostalgic, decorative, meaningless in the best way. It asks nothing of you. It just exists, tech-shaped, doing the only thing it needs to do—looking like technology while feeling like a hug.
+This is tech as emotional object: cozy, nostalgic, decorative, meaningless in the best way. It asks nothing of you. It just exists, tech-shaped, doing the only thing it needs to do, looking like technology while feeling like a hug.
 
 ## Why We Need Soft Machinery
 
@@ -55,7 +55,7 @@ Soft machinery often references:
 
 ### Making the Harsh Soft
 
-Taking technology's visual language—circuits, wires, screens, industrial materials—and translating it into:
+Taking technology's visual language, circuits, wires, screens, industrial materials, and translating it into:
 - Soft textiles (embroidered circuits, felted wires)
 - Warm materials (wood, brass, natural fibers)
 - Handmade craftsmanship (visible human touch)
@@ -464,7 +464,7 @@ Make your soft machinery look **used and loved**:
 10. **General grime**: Watered brown/black wash, immediate wipe leaving trace
 
 **Age appropriately**:
-- Brand new: No wear, perfect (rare in soft machinery—usually some age)
+- Brand new: No wear, perfect (rare in soft machinery, usually some age)
 - Lightly used: Some edge wear, gentle patina
 - Well-loved: Significant wear in use areas, aged materials
 - Ancient artifact: Heavy aging, rust, fragility

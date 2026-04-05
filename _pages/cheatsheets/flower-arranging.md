@@ -7,7 +7,7 @@ sidebar:
 date: 2025-07-02
 categories: [floral, arrangements, crafts, DIY, botanical, flowers]
 tags: [flower arranging, bouquets, centerpieces, floristry, flower design, floral techniques, vase arrangements, cheatsheet]
-excerpt: "A complete guide to flower arranging—from choosing blooms and styles to vase selection and composition. Ideal for home decorators, event stylists, and florists in training."
+excerpt: "A complete guide to flower arranging, from choosing blooms and styles to vase selection and composition. Ideal for home decorators, event stylists, and florists in training."
 seo:
   title: "Flower Arranging Cheatsheet | Crafting Supply Hub"
   description: "Master flower arranging with this detailed guide covering composition, flower selection, colour theory, arrangement styles, and florist tools."
@@ -125,4 +125,4 @@ seo:
 | **How often should I change the water?** | Every 2–3 days for freshness                              |
 | **Can I mix fresh and dried flowers?** | Yes, but be cautious with water if using fresh             |
 | **How do I revive drooping stems?** | Recut and place in warm water for 30 minutes               |
-| **Can I store flowers before arranging?** | Yes—keep them cool and in water until use                  |
+| **Can I store flowers before arranging?** | Yes, keep them cool and in water until use                  |
