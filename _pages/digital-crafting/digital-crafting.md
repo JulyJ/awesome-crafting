@@ -33,3 +33,22 @@ Explore digital tools, techniques, and inspiration for modern makers and crafter
 | [Print on Demand for Crafters](/digital-crafting/print-on-demand-for-crafters/) | Launch your print-on-demand business with this comprehensive guide covering platforms, design tips, products, pricing, marketing, and avoiding common mistakes for craft entrepreneurs. |
 | [Creating Digital Patterns for Sewing & Embroidery](/digital-crafting/digital-patterns-sewing-embroidery/) | A guide to designing your own digital patterns for sewing and machine embroidery. Learn about software, file formats, and best practices for creating professional-quality designs. |
 | [Using AI in Craft Design](/digital-crafting/ai-in-craft-design/) | Explore how Artificial Intelligence (AI) tools can revolutionize your craft design process, from generating unique patterns to assisting with complex layouts. |
+
+## Map Crafting: Laser, CNC, Cricut & Print
+
+Turn any place into custom art with the free [MyLaserTools Map Designer](https://mylasertools.com/map-designer). These guides cover every method, from layered laser-cut relief to printed wall art.
+
+| Article | Description |
+|---|---|
+| [How to Print a Fancy Framed Map](/digital-crafting/print-fancy-framed-map/) | Turn any city into gallery-grade wall art. Choose a fancy preset, tune the palette, export at print resolution, and frame it so it looks bought, not made. |
+| [Laser-Cut Layered Topographic Map Art](/digital-crafting/laser-cut-topographic-map-art/) | Make the classic stacked topo art: elevation contours of any mountain cut from thin sheets and glued into true 3D relief. Full cut-and-glue workflow. |
+| [Laser-Cut Bathymetric Lake Depth Maps](/digital-crafting/laser-cut-bathymetric-lake-maps/) | The cottage-classic depth chart: a shore plate on top, teal depth bands stepping down into the basin, and a deep navy floor at the bottom. |
+| [Laser-Cut Ocean Floor Relief Maps](/digital-crafting/laser-cut-ocean-floor-maps/) | Cut the continental shelf and sea floor of any coast, island, or reef as a layered teal relief from real ocean bathymetry. |
+| [CNC-Carved Topographic & Relief Maps](/digital-crafting/cnc-carved-relief-maps/) | Take map exports onto a CNC router and carve terrain, lakes, and coastlines into solid hardwood. Depth-per-step math, V-carving, and toolpath tips. |
+| [3D Printing Terrain & Relief Maps](/digital-crafting/3d-printed-relief-maps/) | Print terrain, lakes, and skylines as one stepped model. STL for single colour, 3MF for a multicolour depth ramp, plus print settings and finishing. |
+| [Turn Your GPX Track Into Map Art](/digital-crafting/gpx-track-map-art/) | Import a GPX file from Strava or Garmin and turn your run, ride, or hike into wall art. Framing, line styling, and exports for print, engraving, or layered builds. |
+| [How to Cut Custom Maps on a Cricut](/digital-crafting/cutting-maps-on-cricut/) | No laser needed. Export a free, weed-friendly city map SVG and cut it on your Cricut for shirts, tumblers, laptops, and stencils. Full Design Space workflow. |
+| [UV Printing Full-Color Maps on Wood & Acrylic](/digital-crafting/uv-printing-maps-on-wood/) | Lay full-colour map ink straight onto wood or acrylic with a flatbed UV printer. The white-underbase decision, printing onto grain, and float-mounting. |
+| [Best Wood & Acrylic for Laser-Cut Maps](/digital-crafting/best-materials-laser-cut-maps/) | The biggest variable in a layered map isn't the design - it's the material. How thickness, wood species, and acrylic colour change the build. |
+| [How to Glue & Assemble Layered Map Stacks](/digital-crafting/assembling-layered-map-stacks/) | Cutting is the easy part. Label, dry-fit, glue bottom-up, weight, and finish so a pile of nested plates becomes a clean, solid-looking relief. |
+| [Framing & Finishing Your Printed Map](/digital-crafting/framing-finishing-printed-maps/) | The details that separate framed art from a poster taped to glass: mats, frames for the palette, mounting options, sizing, and captions. |
